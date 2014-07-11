@@ -4902,6 +4902,28 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 - Se puede hacer con bacalao (bien desalado) o pescadilla y la
   fritada admite pimiento rojo, verde y un poco de tomate.
 
+** Panga en salsa de orégano
+*** Información
+- Comensales: 4 personas
+- Fuente:
+  http://www.gallinablanca.es/receta/panga-en-salsa-de-oregano/
+*** Ingredientes
+- 4 filetes de panga
+- 1 cebolla
+- 200 mililitros de nata para cocinar
+- 1 pastilla de caldo de pescado
+- 1 cucharada de orégano
+- Aceite de oliva
+*** Preparación
+1. Picar la cebolla pequeña, y rehogar en una sartén con un poco de
+   aceite de oliva.
+2. Mientras tanto vamos haciendo los filetes de panga a la plancha con
+   muy poca sal.
+3. Cuando la cebolla este blanda añadimos nata para cocinar, orégano
+   al gusto y la pastilla de caldo de pescado desmenuzada, lo ponemos
+   a fuego medio y metemos en seguida el panga ya hecho por las dos
+   caras.
+4. Dejar espesar la salsa al gusto y listo para comer.
 ** Pastel de atún
 *** Informacion
 - Fuente: http://kocinarte.com/recetas/pastel-de-atun
@@ -6774,6 +6796,47 @@ virgen extra.
    orégano. Cerramos con la bechamel restante y el queso rallado.
 5. Hornear durante 30 minutos a 180 grados.
 
+** Musaka receta original
+*** Información
+- Fuente: http://www.recetamusaka.com/
+*** Ingredientes
+- 2 berenjenas grandes
+- 2 tomates grandes maduros
+- 400 gramos de carne de cordero picada
+- Aceite de oliva
+- Sal
+- Pimienta negra
+- Canela molida
+*** Ingredientes para la cobertura
+- 1 huevo
+- 1 yogur griego
+- 50 gramos de queso feta
+- Queso rallado
+*** Preparación
+1. Cortamos las berenjenas en rodajas no demasiado finas, le echamos y
+   las freímos un poco en abundante aceite de oliva. Una vez fritas
+   las dejamos escurrir sobre papel absorvente, para que pierdan todo
+   el exceso de aceite.
+2. En ese mismo aceite añadimos la carne picada de cordero, a la que
+   previamente le hemos añadido sal, pimienta negra y un poco de
+   canela molida, junto al tomate triturado. Una vez comience a
+   dorarse la mezcla, la apartamos.
+3. En una bandeja de horno previamente engrasada, montamos la primera
+   capa con las berenjenas, recubriendo todo la bandeja.
+4. A continuación añadimos la mezcla de carne y tomate encima de la
+   capa de berenjenas.
+5. Para la última capa, la superior, mezclamos en un cuenco el huevo,
+   un yogur griego y el queso feta desmigado. Una vez estén bien
+   mezclados los ingredientes, echamos por encima en la bandeja, y
+   espolvoreamos un poco de queso rallado.
+6. Esa es la receta tradicional, pero también se puede sustituir la
+   mezcla de huevo, queso y yogur por una bechamel tradicional.
+7. Por último metemos en el horno, previamente precalentado, durante
+   una hora aproximadamente, a 180ºC, controlando que no se queme la
+   capa superior.
+8. Una vez lista, dejar reposar unos 30 o 40 minutos para que la
+   musaka adquiera consistencia y se pueda servir sin que se destrocen
+   las distintas capas.
 ** Pakoras
 *** Información
 - Fuente: http://alacenavegana.blogspot.com.es/2011/03/pakoras.html
@@ -8085,6 +8148,41 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
     delicioso. Cada uno tendrá que coger el puntito a su horno.
 11. A continuación dejar enfriar en una rejilla. Justo antes de
     servir poner por encima cacao espolvoreado con un colador.
+** Galletas de jengibre
+*** Información
+- Fuente: http://www.pequerecetas.com/receta/especial-galletas-de-jengibre/
+*** Ingredientes
+- 4 tazas de harina
+- 1 cucharada de levadura en polvo
+- 2 cucharaditas de jengibre molido
+- 2 cucharaditas de canela molida
+- 1/4 cucharadita de clavo molido
+- 1 taza de mantequilla a temperatura ambiente
+- 1 taza de azúcar moreno
+- 1 huevo grande
+- Media taza de miel o melaza
+*** Preparación
+1. Mezclamos bien los ingredientes secos: la harina, jengibre,
+   levadura, canela y clavo.
+2. Batimos la mantequilla, que estará a temperatura ambiente, con el
+   azúcar hasta que éste se disuelva completamente.
+3. Incorporamos la miel o melaza y el huevo, y finalmente incorporamos
+   la mezcla de la harina con las especias. Tenemos que conseguir una
+   mezcla lo más homogénea posible. Si se queda excesivamente pegajosa
+   podemos incorporar algo más de harina hasta que quede más firme y
+   manejable (pero no pongáis demasiada harina o las galletas quedarán
+   demasiado duras al hornearlas).
+4. Colocar la masa en una bolsa de plástico sellable o en un
+   recipiente de plástico hermético. Reservar en un lugar fresco, pero
+   no en la nevera, durante al menos 2 horas y máximo 6 horas. O
+   refrigerar la masa durante un máximo de 3 días, y llevar a
+   temperatura ambiente antes de usar.
+5. Estirar la masa entre dos hojas de horno para que no se quede
+   pegada al rodillo.
+6. Utilizar los cortapastas para sacar las formas que deseemos.
+7. Hornear en horno precalentado a 180ºC durante 11 a 15 minutos para
+   piezas de gran tamaño, de 6 a 8 minutos para piezas pequeñas. O
+   hasta que los bordes se tiñen de color marrón.
 ** Galletas de turrón
 *** Información
 - Fuente: http://webosfritos.es/2013/12/galletas-de-turron/
@@ -9174,6 +9272,67 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 2. Derretir el chocolate y mezclarlo con la nata.
 3. Repartir la cobertura sobre la tarta y esperar a que se seque.
 4. Refrigerar.
+** Tarta mousse de mango
+*** Información
+- Fuente:
+  http://www.delikatissen.com/2014/02/tarta-de-mousse-de-mango/
+*** Ingredientes para la base de galletas
+- 15 o 17 galletas tipo digestive
+- 100 gramos de mantequilla derretida
+*** Ingredientes para la mousse de mango
+- 1 mango y medio grandes hechos puré con la batidora
+- 300 mililitros de nata líquida para montar
+- 3 claras de huevo XL
+- 4 cucharadas de azúcar
+- 2 sobres de 6 gramos de gelatina neutra u 8 láminas de gelatina
+- 3 cucharadas de agua fría
+*** Ingredientes para la gelée de mango
+- Medio mango hecho puré con la batidora
+- 1 cucharada de azúcar
+- 1 cucharadita de gelatina neutra
+- 1 cucharada de agua fría
+- 1 cucharada de agua hirviendo
+*** Preparación previa
+1. Pelar, trocear y triturar hasta convertir en puré los mangos. 3/4
+   de lo que resulte serán para la mousse y 1/4 para el géele.
+*** Preparación de la base
+1. Forrar con papel un molde desmontable redondo de unos 20 o 22 cm de
+   diámetro.
+2. Picar las galletas con la picadora, hasta conseguir un polvo fino y
+   mezclar bien con la mantequilla derretida.
+3. Volcar la mezcla en el fondo del molde y con ayuda de una cuchara
+   repartir bien cubriendo toda la superficie, lo más nivelado posible
+   (importante llegar bien a la pared del molde para que luego no
+   queden churretes de mousse ;)).
+4. Meter en el congelador 15 minutos o en la nevera 30.
+*** Preparación de la mousse de mango
+1. Batir las claras a punto de nieve con 2 cucharadas de azúcar y
+   reservar.
+2. Batir la nata líquida a montada con 2 cucharadas de azúcar y
+   reservar.
+3. En un bol pequeño mezclar los dos sobres de gelatina neutra en
+   polvo con 3 cucharadas de agua fría.
+4. De los 3/4 del puré de mango separar un poco en una taza y
+   calentarlo en el micro. Cuando esté caliente echar la gelatina
+   hidratada con el agua fría y mezclar bien. Mezclar después con el
+   resto de puré de mango.
+5. En un bol grande empezar a mezclar todos los ingredientes para la
+   mousse: primero echamos todo el puré de mango ya mezclado con la
+   gelatina, 1/3 de las claras montadas y 1/3 de la nata y con una
+   espátula y movimientos envolventes mezclamos bien. Repetimos hasta
+   que se terminen las claras y la nata. No seáis bruscos, la mezcla
+   tiene que mantener el aire de batir los ingredientes.
+6. Echar la mousse en el molde que teníais en el congelador ya con la
+   base preparada y dejar enfriar de nuevo en la nevera mínimo 4
+   horas.
+*** Preparación de la géele de mango
+1. Mezclar la cucharadita de gelatina neutra en polvo con la cucharada
+   de agua fría. Cuando esté hidratada la gelatina echar la cucharada
+   de agua hirviendo y mezclar muy bien.
+2. Mezclar la gelatina con el puré de mango y 1 cucharada de azúcar.
+3. Batir todo bien y repartir por toda la superficie de la tarta (si
+   todo ha ido bien la mousse ya estará firme).
+4. Enfriar en la nevera 1 hora mínimo.
 ** Tarta Sacher en vasitos
 *** Información
 - Comensales: 6 personas (6 vasitos individuales)
@@ -9443,6 +9602,36 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 
 #+LATEX: \clearpage
 
+* Bebidas
+** Vino caliente especiado
+*** Información
+- Glühwein
+- Fuente:
+  http://www.directoalpaladar.com/otras-bebidas/gluhwein-vino-caliente-especiado-receta-de-navidad
+*** Ingredientes
+- 750 mililitros de vino tinto de calidad aceptable
+- 80 gramos de azúcar moreno
+- 2 hojas de laurel
+- 4 vainas de cardamomo
+- 6 clavos
+- 2 estrellas de anís estrellado
+- 2 ramas de canela
+- Una pizca de nuez moscada rallada
+- Piel de 1 limón
+- Piel de 1 naranja mediana
+- Licor para servir (opcional)
+*** Preparación
+1. Disponer todas las especias en una olla o cazuela ancha. Añadir el
+   azúcar y calentar hasta que empiecen a salir los aromas. Mojar el
+   fondo con un poco de vino, sólo para cubrir el azúcar, y calentar
+   removiendo con una cuchara de madera hasta que se disuelva.
+2. Incorporar el resto del vino tinto, mezclando bien. Calentar a
+   media temperatura, sin dejar que llegue a hervir. Cocer a fuego
+   medio-bajo durante unos 30 minutos, vigilando que no suba demasiado
+   la temperatura.
+3. Comprobar el punto de dulzor, con cuidado de no quemarnos, y añadir
+   un poco más de azúcar o miel si fuera necesario. Colar para retirar
+   las especias y guardar en frascos o una botella limpia.
 * Recetas de la abuela
 ** Arroz con habichuelas
 - Dejar en remojo las habichuelas desde la noche anterior.
