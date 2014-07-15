@@ -4432,6 +4432,29 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 #+LATEX: \clearpage
 
 * Pizzas
+** Garbanzos pizzeros
+*** Información
+- Fuente: http://www.amuse-your-bouche.com/pizza-roasted-chickpeas/
+*** Ingredientes
+- 240 gramos de garbanzos cocidos
+- Media cucharada de aceite
+- Media cucharadita de hierbas italianas
+- Sal
+- Pimienta negra
+- Albahaca
+- 1 cucharada de puré de tomate
+- 3 tomates secos troceados
+- 30 gramos de queso mozzarella rallado
+- 1 cucharada de piñones
+*** Preparación
+1. Precalentar el horno a 190º.
+2. Mezclar los garbanzos con el aceite, las hierbas y salpimentar y esparcirlos
+   por la bandeja de horno. Tostar durante unos 15 minutos, hasta que queden 
+   crujientes y dorados.
+3. Sacarlos del horno y añadirles el puré de tomate, los tomates secos, la
+   albahaca, la mozzarella y los piñones. Mezclar bien y volver a meterlos al
+   horno otro 5 minutos, hasta que el queso se haya derretido. Servir
+   inmediatamente.
 ** Espirales de bacon y queso
 *** Información
 - Comensales: 4 personas
