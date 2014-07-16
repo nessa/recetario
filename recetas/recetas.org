@@ -2612,9 +2612,6 @@ Se puede usar de guarnición unas patatas Torner.
 6. Con una espátula, distribuye bien la mezcla y déjala tan fina como quieras.
 7. Mete la bandeja al horno y déjala unos 15 minutos.
 8. Una vez hecha, córtala como una pizza y sírvela con pimienta por encima.
-
-#+LATEX: \clearpage
-
 ** Trenza de hojaldre rellena de puerro y salmón
 *** Información
 - Comensales: 6 personas
@@ -2642,6 +2639,36 @@ Se puede usar de guarnición unas patatas Torner.
    cerramos intercalando una cinta de cada lado hasta terminar.
 5. Cuando ya está bien cerrado pintamos con el huevo batido y
    horneamos durante unos 15 minutos aproximadamente.
+** Zwiebelkuchen
+*** Información
+- Comensales: 8 raciones
+- Fuente: http://www.recetas.com/receta-de-Kuchen-de-Cebolla-_-_-Zwiebelkuchen-7541.html
+*** Ingredientes
+- 1,3 kilos de cebolla
+- 250 gramos de tocino
+- 2 cucharadas y media de harina
+- 150 mililitros de leche
+- 150 mililitros de nata
+- 2 huevos
+- 2 cucharaditas de sal
+- Pimienta
+- Aceitunas
+- Hojaldre
+*** Preparación
+1. Cortar la cebolla en juliana (no es necesario que se corte muy delgada), y
+   cocinarla en una olla hasta que disminuya el volumen y se vea transparente
+   (sin llegar a dorarse).
+2. Aparte mezclar la leche, crema, huevos, sal, harina, pimienta y tocino picado
+   finamente. Remover hasta que quede homogéneo. Agregar esta mezcla a la
+   cebolla y mezclar.
+3. Disponer la masa como base en una bandeja de horno y cubrir con la mezcla de
+   cebolla. Distribuir hasta que quede igualado y agregar a gusto las aceitunas
+   sobre la superficie.
+4. Precalentar el horno a fuego alto, y cocinar el kuchen en el horno entre 25 y
+   30 minutos.
+
+#+LATEX: \clearpage
+
 * Huevos y tortillas
 ** Charlota de tortilla rellena
 *** Información
@@ -7549,6 +7576,29 @@ virgen extra.
 4. Bate bien todos los ingredientes. Tapa el cuenco con papel film y deja que
    se enfríen en el frigorífico por lo menos una hora antes de servir.
 
+** Salsa remoulade
+*** Información
+- Fuente: http://www.gastronomiaycia.com/2008/09/15/salsa-remoulade/
+*** Ingredientes
+- 200 gramos de mayonesa
+- 40 gramos de pepinillos picados muy finos
+- 20 gramos de alcaparras igualmente picadas
+- Perejil
+- Estragón
+- Perifollo
+- 1 cucharadita de mostaza de Dijón
+- Una anchoa bien picada
+- Pimienta negra
+- Sal
+*** Preparación
+1. Picar muy finamente los pepiniñños y las alcaparras.
+2. Trocear lo más posible la anchoa.
+3. Mezclar todos los ingredientes con cuidado hasta que queden todos bien
+   integrados.
+*** Notas
+- Sirve para acompañar verduras al vapor, pescados y carnes frías o calientes,
+  aunque también se usan con patatas fritas, roast beef, gambas o como una
+  salsa para los perritos calientes.
 ** Salsa riojana
 *** Ingredientes
 - 1 cebolla
