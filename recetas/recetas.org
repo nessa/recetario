@@ -241,7 +241,8 @@ tinta aparezcan en nuestra vida.
    de algodón de unos 45 minutos a 1 hora. Para saber el tiempo que se debe
    dejar levar la masa, utiliza el siguiente truco: si la apretamos con un dedo
    y la masa vuelve a su posición original estará lista para preparar.
-
+*** Notas
+- Forma de decoración alternativa: http://i.imgur.com/l8f4zed.jpg
 ** Masa de wonton
 *** Ingredientes
 - 1 huevo
@@ -280,6 +281,8 @@ tinta aparezcan en nuestra vida.
 7. Sobre papel de hornear disponer porciones separadas unas de otras,
    y hornear unos 30 minutos.
 8. Sacar a una rejilla cuando estén horneados.
+** Tarta arcoiris
+- http://www.trusper.com/tips/MELTED-RAINBOW-CAKE-/15000717
 ** Tempura
 *** Ingredientes
 - 2 yemas de huevo
@@ -617,6 +620,46 @@ capas de condumio, para que cuando quitemos el aro quede perfecto.
    añadirlas a la fideuá.
 7. Meter al horno otros 5 minutos.
 8. Dejar reposar fuera del horno unos minutos.
+** Hamburguesas de arroz y lentejas
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.hogarutil.com/cocina/recetas/legumbres/201203/hamburguesas-arroz-lentejas-14444.html
+*** Ingredientes
+- 200 gramos de lentejas
+- 200 gramos de arroz redondo
+- 1 cebolla
+- 1 puerro
+- 1 cebolleta
+- 1 zanahoria
+- 1 diente de ajo
+- 1 vaso de salsa de tomate
+- 1 cucharada de salsa de soja
+- 1 cucharada de salsa inglesa
+- Agua
+- Aceite de oliva virgen extra
+- Sal
+- 1 hoja de laurel
+- Perejil
+*** Preparación
+1. En una cazuela introduce las lentejas junto con la cebolla, el puerro y una
+   hoja de laurel. Cubre con agua y deja cocer durante 30-35 minutos. Sazona.
+   Cuando se hayan ablandado, retira la cebolla, el puerro y la hoja de laurel.
+   Escurre y reserva el caldo y también las lentejas.
+2. Pela y pica la cebolleta y la zanahoria finamente y pon a pochar en una
+   sartén con un chorrito de aceite de oliva. Sazona y reserva.
+3. Pon un diente de ajo machacado y pelado en entero en una cazuela con un
+   chorro de aceite. Agrega el arroz, rehógalo un poco y vierte el doble de agua
+   y un poquito más. Sazona y cuécelo durante 15-16 minutos.
+4. Mezcla las lentejas con el arroz y las verduras pochadas. Amasa hasta que
+   quede una masa homogénea (si no queda muy consistente puedes añadir un poco
+   de pan rallado). Mójate las manos para que no se pegue la masa y forma 8
+   hamburguesas. Colócalas sobre un plato untado de aceite (para que no se
+   peguen) y fríelas en una sartén con un chorrito de aceite, 4 minutos por cada
+   lado.
+5. Para hacer la salsa, pon a reducir en un cazo el caldo de las lentejas con la
+   salsa de tomate, la salsa de soja y la salsa inglesa. Sirve dos hamburguesas
+   por comensal y acompáñalas con la salsa de tomate. Decora con una ramita de
+   perejil.
 ** Risotto ai funghi porcini e trufa
 *** Ingredientes
 - 350 gramos de arroz
@@ -648,6 +691,64 @@ capas de condumio, para que cuando quitemos el aro quede perfecto.
 7. Picamos el perejil fresco y lo añadimos al final del plato.
 8. Rallamos la trufa blanca por encima.
 #+LATEX: \clearpage
+** Risotto de setas y espárragos trigueros
+*** Información
+- Comensales: 2 personas
+- Fuente: http://www.yahoraquecocino.com/risotto-de-setas-y-esparragos-trigueros/
+*** Ingredientes
+- 100 gramos de setas Shiitake
+- 60 gramos de cebolla blanca
+- 700 mililitros de caldo de verduras
+- 100 gramos de espárragos verdes
+- 175 gramos de arroz arborio
+- 75 mililitros de vino blanco
+- 25 gramos de mantequilla o margarina
+*** Preparación
+1. Cortar la cebolla en cuadritos pequeños y los espárragos en trocitos medianos
+   (de unos 2 centímetros aproximadamente).
+2. Cortar las setas a la mitad y luego en juliana.
+3. Calentar el caldo en una olla, sin dejar hervir.
+4. En una sartén derretir la mantequilla o margarina y cocinar la cebolla hasta
+   que este transparente, hacerlo a fuego medio.
+5. Añadir el arroz y los espárragos, mezclar hasta que se impregne bien de la
+   margarina.
+6. Agregar el vino blanco y remover, dejar evaporar el vino, sin que se seque el
+   arroz.
+7. Añadir poco a poco el caldo de verduras y remover hasta que reduzca, sin
+   dejar secar del todo.
+8. Continuar añadiendo el caldo y remover de forma envolvente.
+9. Cuando queden 5 minutos, añadir las setas cortadas y remover.
+10. Servir acompañado de queso parmesano.
+** Risotto verde
+*** Información
+- Comensales: 3 personas
+- Fuente: http://www.paulinacocina.net/arroz-con-pollo-verde/763
+*** Ingredientes
+- 1 pechuga de pollo
+- 1 atado de espinacas
+- 1 diente de ajo
+- Caldo de verduras
+- Sal
+- Pimineta
+- 2 cucharadas de nata (opcional)
+- Agua
+- 1 taza de arroz bomba
+*** Preparación
+1. Lo primero es poner a hervir agua y, cuando rompa a hervor, agregar la
+   espinaca lavada. Dejar unos 3 minutos.
+2. Trituramos la espinaca con el diente de ajo crudo y su caldo. Que quede un
+   puré homogéneo y sin trozos.
+3. Troceamos el pollo en brunoise. Ponemos aceite a calentar en una sartén y
+   lo doramos.
+4. Agregamos el arroz y la pasta de espinacas. Bajamos el fuego a medio y
+   revolvemos bien hasta integrar bien el arroz con la pasta verde. 
+5. Agregar media taza de agua y revolver. Ir removiendo cada poco tiempo.
+   Cuando quede poca agua, agregar una taza más. Seguir removiendo cada poco
+   tiempo. El arroz debe estar siempre caldoso, pero no lleno de agua. Al
+   final, agregar la última media taza de agua y remover.
+6. Rectificar de sal. Servir el arroz formando una especie de volcan: con una
+   cuchara de madera hacer un agujero en medio. Echar un chorro de nata en el
+   agujero y terminar con pimienta negra molida.
 ** Tomates rellenos de arroz
 *** Información
 - Comensales: 4 personas
@@ -708,6 +809,37 @@ capas de condumio, para que cuando quitemos el aro quede perfecto.
 
 #+LATEX: \clearpage
 
+* Asados
+** Cocotte de verduras y pollo al pimentón
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.gastroandalusi.com/2014/09/cocotte-de-verduras-y-pollo-al-pimenton.html
+*** Ingredientes
+- 2 patatas grandes
+- 4 zanahorias
+- 1 cebolla grande
+- 2 limones
+- Tomillo
+- 2 pechugas de pollo
+- Pimentón de la vera dulce
+- 1/2 litro de caldo de pollo
+- Pimienta negra
+- Sal
+- Aceite de oliva virgen extra
+*** Preparación
+1. Pelamos las zanahorias, la cebolla y las patatas.
+2. En una cocotte (fuente especial para horno), cubrimos la base con aceite de
+   oliva virgen extra y ponemos las patatas troceadas, las zanahorias partidas
+   en dos mitades, y la cebolla en gajos. Por encima de las verduras, ponemos
+   las rodajas de un limón y ramitas de tomillo. Metemos en el horno previamente
+   precalentado durante 35 minutos a 180º.
+3. Mientras, salpimentamos las pechugas con pimienta negra, sal y pimentón dulce
+   y en una plancha o sartén pincelada con aceite de oliva virgen extra, pasamos
+   las pechugas vuelta y vuelta (para que queden selladas pero no hechas del
+   todo).
+4. Sacamos la cocotte o la fuente del horno, y le añadimos el caldo de pollo. Le
+   ponemos las pechugas por encima y volvemos a meter en el horno unos 15
+   minutos aproximadamente hasta que las patatas estén en su punto. 
 * Bocadillos y sandwiches
 ** Barquitas rellenas de cuscus
 *** Información
@@ -826,6 +958,45 @@ capas de condumio, para que cuando quitemos el aro quede perfecto.
    encima y los introducimos en el horno durante 15 o 20 minutos, dependiendo de
    si queremos los huevos más o menos cocinados. Servir.
 * Carnes
+** Albóndigas a la pizzaiola
+*** Información
+- Comensales: 6 personas
+- Fuente: http://www.foodnetwork.com/recipes/giada-de-laurentiis/meatballs-a-la-pizzaiola-recipe.html
+*** Ingredientes
+- 225 gramos de queso mozzarella ahumado
+- 2 chalotas grandes picadas 
+- 5 o 6 tomates secos en aceite, escurridos 
+- Hojas de albahaca fresca envasados 
+- Queso mozzarella rallado 
+- Queso parmesano rallado 
+- 1 cucharada de pasta de tomate
+- Cayena
+- Sal
+- Pimienta molida 
+- 600 gramos de carne de ternera picada
+- 450 gramos de carne de cerdo picada
+- Aceite de oliva
+- Aceite vegetal
+- Salsa de tomate
+*** Preparación
+1. Precaliente el horno a 180º. Trocee la mozzarella ahumada en cubos de 1
+   centímetro. Reserve.
+2. En un procesador de alimentos, añada las chalotas, los tomates secos, la
+   albahaca, la mozzarella rallada, el parmesano, la pasta de tomate, la cayena,
+   sal y pimienta y triture hasta que se mezclen. Mueva la mezcla a un tazón
+   grande. Agregue la carne de res y carne de cerdo y, usando una cuchara de
+   madera o las manos limpias, remueva hasta que se mezclen.
+3. Forme las albóndigas. Introduzca 1 taquito de mozzarella ahumado en el centro
+   de cada albóndiga y dele forma a la carne alrededor de él.
+4. En una cacerola grande, verter partes iguales de aceite de oliva y aceite
+   vegetal hasta llenar la mitad del recipiente. Calentar a fuego medio-alto
+   hasta unos 180º. Freír las albóndigas hasta que se doren (1 o 2 minutos).
+   Retire y escurra en un plato con papel absorbente.
+5. Coloque las albóndigas fritas en una bandeja para hornear forrada con papel
+   de horno. Poner en el horno y hornear hasta que estén cocidas (de 10 a 12
+   minutos). Dejar enfriar un poco y servir inmediatamente.
+*** Notas
+- Se pueden acompañar de salsa de tomate.
 ** Albóndigas en salsa
 *** Ingredientes para 4 personas
 - 500 gramos de carne picada de ternera
@@ -881,6 +1052,31 @@ capas de condumio, para que cuando quitemos el aro quede perfecto.
    sal.
 7. Añadir la clara de huevo cocida, cortada en trocitos, y un poco de
    perejil.
+** Alitas de pollo con salsa de soja
+*** Información
+- Comensales: 4 o 6 personas
+- Fuente: http://www.ladulzurademari.es/2014/08/alitas-de-pollo-con-salsa-de-soja.html
+*** Ingredientes
+- 1 kilo de alitas de pollo
+- 9 cucharadas grandes de salsa de soja
+- 3 cucharadas grandes de zumo de limón
+- 3 cucharadas grandes de miel
+- 2 o 3 cucharadas grandes de aceite de oliva
+- Pimientas rosa molida
+- Pimienta verde molida
+- Pimienta negra molida
+- Pimienta blanca molida
+*** Macerado del día previo
+1. Cortamos las alitas en tres trozos y desechamos la parte del extremo.
+2. Preparamos la salsa mezclando la soja con el zumo de limón, la miel y las
+   pimientas molidas que pondremos al gusto.
+3. Batimos para que quede bien mezclada y la echamos sobre las alitas que
+   habremos puesto en una fuente. Las dejamos así hasta el momento de
+   hornear, dándoles la vuelta de vez en cuando.
+*** Preparación
+1. Colocamos las alitas ya maceradas en una bandeja de horno o en una fuente.
+2. Echamos la salsa que haya por encima, y las metemos a 180º durante unos 20
+   minutos o hasta que veamos que están hechas. 
 ** Bolas de pollo y queso
 *** Información
 - Fuente: http://kocinarte.com/recetas/bolas-de-pollo-y-queso
@@ -1093,6 +1289,53 @@ capas de condumio, para que cuando quitemos el aro quede perfecto.
    cubrirlos), y dejar que se hagan. Mejor hacerlos de dos en dos para no bajar
    la temperatura del aceite y que queden más crujientes.
 5. Dejarlos escurrir en papel de cocina.
+** Jagerschnitzel
+*** Información
+- Comensales: 4 o 6 personas
+- Fuente: http://www.foodnetwork.com/recipes/guy-fieri/jagerschnitzel-with-bacon-mushroom-gravy-jager-hunter-recipe.html
+*** Ingredientes
+- 600 gramos de lomo de carne de cerdo, cortado en porciones de 120 o 150 gramos
+- 1 taza de harina
+- 1 cucharada de sal 
+- 1 cucharadita de pimienta negro
+- 1 cucharadita de ajo molido
+- 1 cucharadita de pimentón 
+- 1 huevo 
+- Media taza de leche 
+- 2 cucharaditas de mostaza 
+- 1 taza de crackers sin sal machacados
+- 1 taza de pan rallado panko
+- 225 gramos de bacon, cortado en cubitos 
+- Media cebolla cortada en cubitos
+- 2 tazas de champiñones troceados
+- 1/4 taza de vino tinto 
+- Aceite de oliva
+- 2 tazas de caldo de carne 
+- 2 cucharadas de mantequilla sin sal, a temperatura ambiente 
+- 2 cucharadas de hojas de perejil italiano fresco picado 
+*** Preparación
+1. Machaca las tiras de lomo entre hojas de papel sulfurizado hasta que midan
+   medio centrímetro aproximadamente.
+2. En un bol mezcla 3/4 de taza de harina con la sal, la pimienta, el ajo y el
+   pimentón. En otro bol, mezcle el huevo, la leche y la mostaza. En otro mezcle
+   los crackers con el pan rallado panko.
+3. Pasa cada trozo de lomo primero por harina, luego por leche y por último por
+   el pan. Deja reposar en una bandeja de horno equipado con una rejilla unos 5
+   minutos. 
+4. En una sartén mediana a fuego medio cocina el bacon hasta que esté
+   crujiente. Sácalo de la sartén a escurrir sobre papel. En la misma sartén
+   con la grasa del bacon, echa las cebollas y saltea durante 3 minutos. Agrega
+   los champiñones y continúa salteando durante 2 minutos.
+5. Eche 1/4 de taza de harina y cocínela hasta que se dore otros 2 minutos.
+   Añada el vino y cocine durante 3 minutos (hasta que reduzca 1/3 de su
+   volumen), luego agregue el caldo. Continúa la cocción hasta que reduzca de
+   nuevo. Sazone con sal y pimienta. Mantenga caliente. 
+6. Calienta el aceite en una sartén a fuego muy fuerte. Cocina la carne de cerdo
+   de manera uniforme por ambos lados, cerca de 5 minutos para la primera parte,
+   de 3 a 4 minutos para la segunda. Sacar a un plato cuando esté cocinado.
+7. Añadir la mantequilla a la salsa, revolviendo hasta que se haya derretido.
+8. Sirve la carne de cerdo cubierta con la salsa. Espolvorea con bacon picado y
+   perejil fresco para decorar y acompaña con un puré de patatas.
 ** Lomo de cerdo adobado
 *** Información
 - Comensales: 4 personas
@@ -1244,6 +1487,48 @@ Se puede usar de guarnición unas patatas Torner.
 8. Poner un cazo pequeño con aceite de oliva virgen extra, y cuando esté
    caliente, empezar a freír los medallones. Sacarlos a papel absorbente de
    cocina, y servir inmediatamente.
+** Murgh Kari
+*** Información
+- Curry de pollo indio
+- Comensales: 4 o 6 personas
+- Fuente: http://imgur.com/a/6ulff
+*** Ingredientes
+- 1 kilo de muslos de pollo 
+- Sal
+- Pimienta
+- Curry en polvo
+- 3 cucharadas de aceite de oliva
+- 1 cebolla picada
+- 1/2 cucharada de jengibre 
+- 3 o 4 dientes de ajo 
+- 1 cucharada de agua 
+- 4 cucharadas de yogur 
+- 500 gramos de tomate triturado
+- 1 cucharada de cilantro picado
+*** Especias
+- 1 cucharada de curry en polvo 
+- 1 cucharadita de comino
+- 1 cucharadita de cilantro
+- 1 cucharadita de cúrcuma
+- 1 cucharadita de pimienta de cayena
+- 1 cucharadita de garam masala
+*** Preparación
+1. Saltear la cebolla, el ajo y el jengibre en la sartén a fuego medio-alto con
+   un poco de aceite de oliva hasta que esté transparente (unos 10 minutos).
+2. Mientras que la cebolla se cocina, cortar el pollo en trozos de tamaño
+   similar. Sazonar con sal, pimienta y curry en polvo.
+3. Sofreir el pollo a bastante temperatura hasta que se dore (se terminará de 
+    hacer despúes).
+4. Añadir todas las especias, excepto el garam masala y el cilantro, a la
+   cebolla y cocinar durante un par de minutos.
+5. Echar el agua y volver a cocinar durante un minuto.
+6. Echar el tomate triturado y remover bien. Probar el punto de especias y
+   rectificar si es necesario.
+7. Añadir el pollo y el garam masala a la salsa y llevar a ebullición,
+   removiendo durante unos minutos. Probar de nuevo y añadir más cayena si no
+   está lo suficientemente picante.
+8. Añadir el yogur y mezclar bien. Por último, añade un poco de cilantro para
+   decorar.
 ** Muslos de pollo a la cerveza
 *** Información
 - Comensales: 4 personas
@@ -1291,6 +1576,85 @@ Se puede usar de guarnición unas patatas Torner.
    punto hay que probar la salsa y mirar si le hace falta un poquito
    de sal. Se puede preparar unas horas antes y darle un calentón en
    el momento.
+** Muslos de pollo en salsa de soja y patatas a murro
+*** Información
+- Fuente: http://webosfritos.es/2009/08/muslos-de-pollo-en-salsa-de-soja-y-patatas-a-murro/
+*** Ingredientes
+- Unos muslos de pollo (dos por persona)
+- Dos cucharadas soperas de miel
+- 5 cucharadas soperas de salsa de soja
+- Un par de cucharadas de aceite de oliva virgen extra
+- Sal
+- Pimienta
+- Unas gotas de limón
+- Un vaso de agua
+- Unas patatas nuevas
+- Dos tomates maduros
+- Una cebolleta
+- Papel de aluminio
+- Unos canónigos de bolsa o la lechuga que te guste
+*** Preparación
+1. Precalentar el horno a 200°
+2. Pon en una fuente apta para el horno los muslitos.
+3. Ponles un poco de sal y de pimienta por un lado y por otro.
+4. Con una cuchara pequeña, poner un poco de miel encima de cada muslo.
+5. Reparte las cucharadas de soja por encima de todos los muslos y ponles unas
+   gotas de limón.
+6. Añádele el agua y mete la bandeja en el horno.
+7. Lava las patatas, los tomates y la cebolleta, y sécalos.
+8. Envuélvelos en papel de aluminio pieza por pieza y mételos en el horno en la
+   misma bandeja.
+9. A la media hora dar la vuelta a los muslos con unas pinzas y también a los
+   ingredientes envueltos en papel de aluminio.
+10. 15 minutos después saca los tomates y la cebolleta.
+11. Cuenta otros 20 minutos más y comprueba como van los muslos. Si están
+    hechos, sácalos del horno.
+12. Pincha con un palillo de brocheta las patatas y comprueba si están tiernas.
+    Si es así, sácalas también y abre el papel de aluminio sin quemarte, para
+    que no generen humedad.
+** Papas con carne
+*** Información
+- Comensales: 4 personas
+- Fuente: http://javirecetas.hola.com/papas-con-carne-nueva-receta/
+*** Ingredientes
+- 800 gramos de carne de cerdo
+- 1 kilo de patatas
+- 2 zanahorias grandes
+- 1 cebolla bien grande
+- 4 dientes de ajo
+- 1 litro de agua
+- 1/2 vaso de vino blanco
+- 80 mililitros de aceite de oliva
+- 1 hoja de laurel
+- Sal
+- Pimienta negra
+*** Preparación
+1. Pela la cebolla y los ajos. Pica bien la cebolla y corta en rodajas los ajos.
+   Limpia la carne del exceso de grasa y si no está troceada córtala en trozos
+   medianos.
+2. Pon una olla (puede ser una olla normal o una olla a presión sin tapar) a
+   fuego medio y añade el aceite. Luego añade la cebolla, los ajos, la hoja de
+   laurel y una cucharada pequeña con sal. Deja hasta que se pochen y cojan algo
+   de color (unos 15 o 20 minutos).
+3. Sube el fuego y añade la carne troceada. Deja que tome algo de color y cuando
+   desaparezca todo el líquido (excepto el aceite) añade el vino blanco. Deja
+   que se reduzca el vino y mientras con una cuchara de madera desglasamos el
+   fondo.
+4. Cuando el vino se haya reducido totalmente (vuelve a quedar solo el aceite)
+   añade el agua y una cucharada pequeña con sal. Tapa la olla y deja al fuego
+   hasta que la carne esté blanda. Si usas olla normal tardará entre 1 y 2 horas
+   dependiendo del tipo de carne y de la fuerza del fuego. Si usas una olla a
+   presión con 25 minutos serán más que suficientes para ablandar la carne de
+   cerdo.
+5. Mientras se hace la carne pela las patatas, enjuágalas y córtalas en
+   cachelos. Pela también las zanahorias y córtalas en rodajas gruesas.
+6. Cuando la carne esté blanda añade las patatas y las zanahorias. Si es
+   necesario añade un poco más de agua para que las patatas queden cubiertas,
+   pero solo lo justo. Vuelve a tapar la olla y deja unos 25 o 35 minutos si
+   usas una olla normal o solo 10 minutos en una olla a presión.
+7. Cuando las patatas estén tiernas prueba de sal el caldo y si es necesario
+   añade un poco más. Si te gusta añade también una pizca de pimienta negra
+   molida.
 ** Pechugas de pollo asadas
 *** Información
 - Fuente: http://kocinarte.com/recetas/pechugas-de-pollo-asadas
@@ -1315,6 +1679,38 @@ Se puede usar de guarnición unas patatas Torner.
 4. Cocinar a fuego medio durante 30 minutos aproximadamente, aunque dependerá
    del horno que tengamos. Dar la vuelta cada cierto tiempo para que se haga
    uniformemente.
+** Pechugas de pollo rellenas de jamón serrano y espinacas
+*** Información
+- Comensales: 4 personas
+- Fuente: http://chiquirecetas.com/pechugas-rellenas-jamon-espinacas-recetas-para-ninos/
+*** Ingredientes
+- 2 pechugas
+- 300 gramos de espinacas
+- 4 lonchas de queso
+- 50 gramos de jamón serrano
+- 1 cebolla blanca
+- 1 cebolla roja
+- 1 zanahoria
+- 1 cerveza sin alcohol
+- Aceite de oliva
+- Sal
+- Pimienta molida
+- Albahaca
+*** Preparación del relleno
+1. Sofreímos la cebolla blanca, picada finamente, en dos cucharadas de aceite.
+2. Cuando esté pochada, añadimos el jamón, también picado, y por último las
+   espinacas.
+*** Preparación de las pechugas
+1. Abrimos las pechugas y las aliñamos con sal, pimienta molida y albahaca.
+2. Sobre ellas, colocamos las lonchas de queso y el relleno.
+3. Enrollamos las pechugas y las colocamos en una fuente, apta para el horno,
+   donde previamente habremos echado una cucharada de aceite, la cebolla roja y
+   la zanahoria picadas.
+4. Añadimos la cerveza sin alcohol y horneamos a 180º, calor arriba y
+   ventilador, durante 1 hora y 15 minutos. A la mitad de la cocción hay que
+   darle la vuelta a las pechugas.
+5. Si se desea, se puede triturar la salsa antes de servir, para que quede más
+   fina.
 ** Pimientos rellenos de carne
 *** Información
 - Comensales: 4 personas
@@ -1501,6 +1897,33 @@ Se puede usar de guarnición unas patatas Torner.
    durante otros 10 o 15 minutos, o hasta que el pollo esté dorado y crujiente.
 6. Servir con la bechamel caliente por encima.
 
+** Pollo dulce fuego
+*** Información
+- Comensales: 4 personas
+- Fuente: http://damndelicious.net/2014/08/02/panda-express-sweet-fire-chicken-copycat/
+*** Ingredientes
+- 1 cucharada de aceite de oliva
+- 1 pimiento rojo troceado
+- 1 taza y media de piña cortada en taquitos
+- 1/2 taza de salsa de chili dulce
+- 2 ajos tiernos, finamente cortados en tiras
+*** Ingredientes para el pollo 
+- 1/2 taza de aceite vegetal
+- 1/2 kilo de pechugas de pollo cortada en tacos
+- 1 taza de harina
+- 2 huevos batidos
+*** Preparación
+1. Calentar el aceite vegetal en una sartén grande a fuego medio-alto. 
+2. Echar el pollo en la harina, luego en el huevo y de nuevo en la harina,
+   presionado para cubrir bien.
+3. Echar el pollo en la sartén y cocinar hasta que esté bien dorado y crujiente
+   (unos 2 minutos por cada lado). Sacar, escurrir el aceite y reservar.
+4. Calentar el aceite de oliva en una sartén grande a fuego medio-alto. Añadir
+   el pimiento y la piña y cocinar hasta que estén tiernos (alrededor de 3 o 4
+   minutos) removiendo de vez en cuando.
+5. Añadir el pollo y la salsa de chile dulce tailandesa y remover hasta que se
+   integren bien con el resto de ingredientes.
+6. Sirver de inmediato, con los ajos tiernos como decoración.
 ** Pollo en pepitoria
 *** Información
 - Comensales: 4 personas
@@ -1528,6 +1951,33 @@ Se puede usar de guarnición unas patatas Torner.
 3. Cuando esté casi listo, añadiremos la yema del huevo cocido para espesar y
    cortaremos en trozos muy pequeños la clara.
 
+** Pollo valdostana
+*** Información
+- Comensales: 5 personas
+- Fuente: http://foodyschmoodyblog.com/chicken-valdostana/
+*** Ingredientes
+- 5 pechugas de pollo
+- 1/4 tazas de harina salpimentada
+- 2 cucharadas de mantequilla
+- 1 cucharada de aceite de oliva
+- 1/2 taza de vino blanco
+- 1/2 taza de caldo de pollo
+- 100 gramos de queso Fontina, troceado
+- 5 lonchas de jamón serrano
+*** Preparación
+1. Espolvorear ligeramente el pollo con harina. 
+2. Calentar una cucharada de mantequilla y el aceite en una sartén a fuego
+   medio-alto. Echar el pollo en la sartén y dorar por las dos caras. Retirar el
+   pollo de la sartén y reservar. 
+3. Colocar la sartén de nuevo en el fuego, agregar el vino y el caldo, raspando
+   los pedacitos de la parte inferior de la cacerola. Reducir la salsa a la
+   mitad.
+4. Mientas la salsa se está cocinando, colocar un pedazo de queso sobre cada 
+   pechuga de pollo y envolverla con una tira de jamón.
+5. Una vez la salsa se haya reducido, eche la cucharada de mantequilla restante.
+   Volver a poner el pollo en la sartén, cubrir y cocinar a fuego lento 
+   aproximadamente 5 minutos. 
+6. Servir cada pechuga sobre un nido de pasta y salsear bien.
 ** Roast beef
 *** Información
 - Fuente: Escuela MasterChef
@@ -1551,6 +2001,34 @@ Se puede usar de guarnición unas patatas Torner.
 4. Colocamos la carne en un molde y lo prensamos para que suelte la
    sangre.
 5. Emplatamos y acompañamos con los ingredientes que deseemos.
+** Rollitos de pollo rellenos de espárragos trigueros y pimiento asado
+*** Información
+- Comensales: 4 personas
+- Fuente: http://pamojarpan.blogspot.com.es/2013/10/rollitos-de-pollo-rellenos-de.html
+*** Ingredientes
+- 2 pechugas de pollo
+- 1 manojo de espárragos trigueros
+- Unas tiritas de pimiento rojo asado
+- 2 cucharadas de soja
+- Unas gotas de aceite de sésamo
+- Sal
+- Pimienta
+- Aceite de oliva
+*** Preparación
+1. Fileteamos las pechugas de pollo en lonchas muy finas. Salpimentamos y
+   reservamos.
+2. Mientras, en una sartén, salteamos las puntas de los espárragos trigueros
+   unos minutos para que no estén tan duros.
+3. Precalentamos el horno a 180º.
+4. Cogemos los filetes, añadimos un par de tiritas de pimiento asado y un par de
+   puntas de espárrago. Enrollamos y le clavamos un palillo (previamente mojado
+   para que no se queme).
+5. Colocamos los rollitos en una bandeja de horno que habremos untado con un
+   chorrito de aceite de oliva.
+6. Introducimos la bandeja en el horno.
+7. En un cuenco echamos la soja y el aceite de sésamo y mezclamos.
+8. Con la ayuda de un pincel, vamos pintando los rollitos para que tomen color.
+9. Dejamos unos 20 minutos al horno o hasta que estén dorados.
 ** Rollitos de pollo superapañaos
 *** Información
 - Comensales: 4 personas
@@ -1840,6 +2318,37 @@ Se puede usar de guarnición unas patatas Torner.
 
 #+LATEX: \clearpage
 
+** Wok de pollo con soja, miel y sésamo
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.persucar-hipa.blogspot.com.es/2013/01/wok-de-pollo-con-soja-miel-y-sesamo.html
+*** Ingredientes
+- 600 gr pechuga de pollo 
+- Sal 
+- Pimienta
+- 4 cucharadas de aceite
+- 4 cucharadas de salsa de tomate
+- 30 mililitros de salsa de soja
+- 60 mililitros de miel
+- 1 cebolla
+- 1 diente de ajo
+- Semillas de sésamo tostado 
+*** Preparación
+1. Picar el ajo y la cebolla en trocitos muy pequeños.
+2. En una cazuela tipo wok calentar el aceite, salpimentar las pechugas e
+   incorporarlas al wok. Dorar ligeramente por todos los lados.
+3. Mientras tanto, en un bol mezclar el ajo, la cebolla, la miel, la salsa de
+   tomate y la soja. Cubrir el pollo con la mezcla y dejar cocer tapado durante
+   1 hora por lo menos.
+4. Una vez cocido el pollo, retirar del wok, trocear a dados grandes de unos 2
+   centímetros de lado y reservar.
+5. Espesar la salsa, añadiéndole un par de cucharadas de maicena disueltas en
+   agua.
+6. Incorporar el pollo una vez haya espesado la salsa, remover y dejar cocer un
+   par de minutos más.
+7. Espolvorear con sésamo tostado.
+*** Notas
+- Se puede servir sobre arroz blanco cocido o sobre fideos chinos.
 * Croquetas
 ** Croquetas de gambas
 *** Información
@@ -1936,52 +2445,6 @@ Se puede usar de guarnición unas patatas Torner.
 7. Una vez sea manipulable, darles forma a las croquetas, rebozarlas
    y freírlas en aceite muy caliente.
 
-** Falafel de pistachos con salsa de yogur
-*** Información
-- Comensales: 2 o 4 personas
-- Fuente: http://www.hogarutil.com/cocina/recetas/legumbres/201406/falafel-pistachos-salsa-yogur-25298.html
-*** Ingredientes
-- 300 gramos de garbanzos secos
-- 1 cebolla
-- 2 dientes de ajo
-- 1 puñadito de pistachos pelados
-- 1 cucharada de levadura química
-- Harina de garbanzo para rebozar
-- Aceite de oliva suave
-- Sal
-- Hojas verdes (para acompañar)
-- Cilantro
-- Comino molido
-- Perejil
-- Vinagreta
-*** Ingredientes para la salsa de yogur
-- 1 yogur natural
-- 1 diente de ajo
-- El zumo de medio limón
-- Aceite de oliva virgen extra
-- Sal
-- Pimienta
-- 6 hojas de menta
-*** Preparación
-1. Pon a remojar los garbanzos en un bol durante 24 o 48 horas y
-   después extiéndelos en un paño limpio para que se sequen durante 30
-   minutos aproximadamente. 
-2. Pasa los garbanzos a una picadora, agrega un poco de polvo de
-   hornear y tritura bien. Pica la cebolla finamente, añádela y
-   acompaña con un poco de comino. Espolvorea con perejil picado y un
-   poco de cilantro, incorpora los pistachos y agrega el ajo. Sazona y
-   tritura el conjunto hasta que quede la mezcla bien picada y
-   homogénea.
-3. Pasa la mezcla a un bol, tápalo con un papel transparente y deja
-   que repose durante 1 hora aproximadamente. Haz unas bolas con la
-   mezcla, pásalas por harina de garbanzo y fríelas en un cazo con
-   abundante aceite. 
-4. Para la salsa de yogur, pon el yogur en un bol, pica el ajo,
-   agrégalo y riega con el jugo del limón. Salpimienta, moja con el
-   aceite de oliva virgen extra y mezcla bien todo. 
-5. Sirve unas hojas verdes en un bol y aderézalas con un poco de
-   vinagreta. Coloca la salsa de yogur en otro bol y sirve las bolas
-   de falafel de pistachos en el plato.
 ** Falafel con salsa de yogur
 *** Información
 - Fuente: http://kocinarte.com/recetas/falafel-con-salsa-de-yogur
@@ -2163,6 +2626,31 @@ Se puede usar de guarnición unas patatas Torner.
 3. En un bol, mezclamos el aceite, la sal, el zumo de limón, el perejil, la 
    pimienta y la albahaca.
 4. Añadir el aliño al calabacín.
+** Ensalada de col tailandesa
+*** Información
+- Fuente: http://theweiserkitchen.com/recipe/thai-slaw/
+*** Ingredientes
+- 3 cucharadas de zumo de lima
+- 2 cucharadas de aceite de sésamo
+- 1 cucharada y media de sal
+- 1 cucharadita de azúcar
+- 3 tazas (aproximadamente media) de col lombarda cortada en juliana
+- 2 tazas de nabo
+- 1/2 taza de zanahorias cortada en juliana
+- 4 cebolletas (parte verde y blanca) finamente troceadas
+- 1/2 pimiento jalapeño, limpio y troceado
+- 1/4 taza de ramitas de cilantro, troceadas para adornar
+- 1/4 taza de albahaca tailandesa (opcional)
+- 4 pepinos pequeños cortados en juliana
+- 2 pimientos rojos medianos cortados en juliana
+*** Preparación
+1. Batir el zumo de limón, el aceite de sésamo, la sal y el azúcar en un bol
+   grande.
+2. Añadir la col, la col lombarda, la zanahoria, la cebolleta, el jalapeño, el
+   cilantro y la albahaca tailandesa al bol. Mezclarlo bien. Cubrir y refrigerar
+   por lo menos 1 hora. 
+3. Justo antes de servir, añadir el pepino y el pimiento rojo. Adornar con
+   cilantro adicional.
 ** Ensalada de cuscús de ahumados con mango
 *** Información
 - Fuente: http://cocinandoentreolivos.blogspot.com.es/2012/04/ensalada-de-cous-cous-de-marlin-y-atun.html
@@ -2312,6 +2800,24 @@ Se puede usar de guarnición unas patatas Torner.
    al gusto, encima de la ensalada.
 *** Notas
 - Se puede sustituir la vinagreta por mahonesa.
+** Ensalada de lentejas
+*** Información
+- Fuente: http://www.thedatingdepartment.com/easy-healthy-lentil-salad/
+*** Ingredientes
+- 225 gramos de lentejas cocidas
+- 1/2 taza de zanahorias troceadas
+- 1/2 taza de apio troceado
+- 1/4 pimiento rojo troceado
+- Perejil
+- 2 cucharadas de cebolla troceada
+- 1 cucharada de vinagre de vino tinto
+- 1/2 cucharada de aceite de oliva
+- 1/2 cucharada de queso feta
+*** Preparación
+1. Echar en un bol las lentejas, las zanahorias, el apio, el pimiento rojo, el
+   perejil y la cebolla. Añadir vinagre y aceite.
+2. Por último echar el queso feta.
+3. Salpimentar y refrigerar (incluso de un día para otro).
 ** Ensalada de mejillones en escabeche
 *** Información
 - Fuente: http://www.cocinario.es/recetas/ensalada-de-mejillones-en-escabeche
@@ -2342,6 +2848,67 @@ Se puede usar de guarnición unas patatas Torner.
    ligeramente y riega con este aliño la ensalada.
 7. Meter en la nevera unos 10 minutos para que se enfríe.
 
+** Ensalada de patatas y espinacas
+*** Información
+- Comensales: 6 a 8 personas
+- Fuente: http://www.suindependent.com/news/id_6205/Healthy-Recipe-of-the-Week:-Spinach-Potato-Salad.html
+*** Ingredientes para el aderezo de mostaza dulce
+- 10 pequeños dátiles deshuesados 
+- 1/2 taza de vinagre de arroz sin azúcar 
+- 1/2 taza de agua
+- 1 cucharada de semillas de girasol
+- 1 cucharada de semillas de chía (o usar 3 cucharadas de semillas de girasol) 
+- 1 cucharada de mostaza preparada
+*** Ingredientes
+- 1 kilo de patatas rojas, cortadas en pequeños trozos 
+- Agua para cubrir 
+- 1 cucharadita de estragón 
+- 2 tazas de maíz
+- 1/2 taza de cebolla roja cortada en rodajas
+- 1 pimiento rojo, picado 
+- 3 tazas de espinacas baby picadas
+- 1/2 aguacate, cortado en cubitos 
+- 1/2 cucharadita de sal
+- Pimienta
+*** Preparación del aderezo
+1. Para facilitar la mezcla, remojar los dátiles en agua y vinagre durante unas
+   4 horas. 
+2. Mezcle todos los ingredientes hasta que quede suave.
+*** Preparación de la ensalada
+1. Cocinar las patatas en agua hirviendo hasta que estén tiernas.
+2. Escurrir bien y transferir a un recipiente para servir y dejar que se
+   enfríen.
+3. Agregar los ingredientes restantes.
+4. Mezclar bien y servir inmediatamente.
+** Ensalada de pollo barbacoa
+*** Información
+- Comensales: 2 personas
+- Fuente: http://damndelicious.net/2014/01/03/bbq-chicken-salad/
+*** Información
+- 1 cucharada de aceite de oliva
+- 2 pecuchas de pollo finamente cortadas en rodajas
+- Sal
+- Pimienta
+- 6 tazas de lechuga romana picada
+- 1 tomate cortado en taquitos
+- 3/4 taza de maíz
+- 3/4 taza de frijoles negros en lata
+- 1/4 taza de cebolla roja troceada
+- 1/4 taza de queso Monterey Jack rallado
+- 1/2 taza de queso queso cheddar rallado
+- 1/4 taza de salsa ranchera
+- 1/4 taza de salsa barbacoa
+- 1/4 taza de tiras de tortilla de maíz
+*** Preparación
+1. Calentar el aceite de oliva en una sartén mediana a fuego medio-alto. 
+2. Salpimentar las pechugas de pollo al gusto. Echar a la sartén y cocinar,
+   aproximadamente 3 o 4 minutos de cada lado. Dejar enfriar antes de cortar en
+   en taquitos pequeños. 
+3. Para montar la ensalada, colocar la lechuga romana en un tazón grande. A
+   continuación poner el pollo, el tomate, el maíz, los frijoles, la cebolla y
+   los quesos. Echar la salsa ranchera y la barbacoa por encima y remover 
+   suavemente hasta mezclar.
+4. Sirva inmediatamente, rematado con tiras de tortilla.
 ** Ensalada de pollo con salsa de romero
 *** Información
 - Comensales: 2 personas
@@ -2517,6 +3084,53 @@ Se puede usar de guarnición unas patatas Torner.
    lleven unos 15 minutos a 200°, bajar el horno a 180° y continuar el horneado
    hasta que veamos que se doran.
 4. Sacarlas del horno y dejarlas enfriar.
+** Pan de cebolla con cerdo al curry
+*** Información
+- Fuente: http://imgur.com/a/SNbkT
+*** Ingredientes
+*** Preparación
+1. Prepara el cerdo al curry cocinando la carne de cerdo con cardamomo, pimienta
+   negra, sal, ajo, cúrcuma, semillas de cilantro, chile, semillas de comino,
+   jengibre, cebolla, canela y clavo.
+2. Cortar las cebollas en brunoise, lo más pequeño que sea posible, y
+   caramelizarlas.
+3. Añadir una cantidad decente de aceite de oliva a una sartén y calentar a
+   fuego fuerte. Dejar caer un trocito de cebolla, para comprobar si el aceite
+   está suficientemente caliente. Bajar el fuego.
+4. Echar las cebollas y remover de vez en cuando para que no se quemen.
+5. Después de unos 25 minutos (cuando se hayan caramelizado) sacarlas y colar
+   el aceite. Ponerlas en un recipiente con papel para que se sequen.
+6. Echar agua caliente en un bol y mezclar un poco de azúcar. Añadir agua fría 
+   y esperar a que se atempere. Añadir la levadura y dejar unos 10 minutos.
+7. Machacar las vainas de cardamomo para que se abran. Sacar las semillas a un
+   recipiente. Añadir canela molida, nuez moscada, semillas de comino y semillas
+   de cilantro. Las proporciones son por cada parte de cardamomo, 1 de nuez
+   moscada, 1 de canela, 3 de comino y 2 de cilantro. Moler.
+8. Separar con un colador las partes que están molidas de los trozos grandes.
+9. Volviendo a la mezcla de levadura, añadimos media taza de harina y batimos.
+10. Añadimos un huevo y algo de leche. Mezclar. Añadir la mezcla de especias
+    molidas y las cebollas caramelizadas.
+11. Seguir añadiendo harina y mezclando. Cuando no puedas seguir batiendo,
+    utiliza una espátula o una cuchara.
+12. La textura que debe quedar es un poco pegajosa, pero no demasiado. Si se
+    pega a sus manos y es difícil de quitarla, agrega más harina. Si se pega
+    sólo un poco, pero no se quedan los trozos, ya está correcto.
+13. Engrasa con aceite un recipiente y coloca la bola de masa en su interior.
+    Coloca un paño limpio en la parte superior y deja reposar durante sólo 25
+    minutos.
+14. Hacer las bolas rellenas de cerdo al curry cogiendo una bola de masa y
+    estirándola. Coloca la masa alrededor del cerdo y forma la bola.
+15. Una vez hechas rodas las bolas, dejar que reposen unos 10 o 15 minutos para
+    que cojan cuerpo.
+16. Rociar las bolas con un poco de agua.
+17. Haga una mezcla a partes iguales de harina, sal y semillas de comino y
+    rocíala sobre la parte superior. 
+18. Justo antes de colocarlo en el horno, rocíe con más agua. El agua deja
+    inflar más antes de que se forme de la corteza, dejando el pan más
+    esponjoso.
+19. Cocinar a 190º durante 25 minutos. Quedarán sin terminar de cocinar, así 
+    puedes guardarlos en el frigorífico para más tarde.
+20. Cuando vayas a comerlos, simplemente cocínalos otros 10 minutos a 190º.
 ** Panizas
 *** Información
 - Comensales: 4 personas
@@ -2541,6 +3155,38 @@ Se puede usar de guarnición unas patatas Torner.
 5. Se prepara el aceite en la sartén, que debe estar bastante caliente (como si
    se fuera a freír pescado o croquetas) y se van dorando por las dos caras.
    Se sirven calientes.
+** Quiche Lorraine
+*** Información
+- Fuente: http://compilacionderecetas.blogspot.com.es/2007/05/quiche-lorraine.html
+*** Ingredientes para la masa quebrada
+- 175 gramos de harina
+- 80 gramos de mantequilla
+- 1 huevo
+- 1 cucharadita de agua
+- Sal
+*** Ingrediente para el relleno
+- 150 gramos de bacon
+- 1 o 2 pimientos verdes
+- 3 huevos
+- 100 mililitros de nata líquida
+- 150 gramos de queso emmental
+- Pimienta blanca
+- Sal
+*** Preparación de la masa quebrada
+1. En un bol hacer un volcan con la harina, añadir la mantequilla reblandecida y
+   cortada en trocitos. Incorporar el huevo, agua y la sal.
+2. Mezclar hasta formar migas de pan, pasar a la mesa y amasar ligeramente (lo
+   justo para que los ingredientes estén incorporados).
+3. Dejar enfriar la masa en el frigorífico durante 30 minutos.
+*** Preparación del relleno
+1. Freír el bacon y los pimientos.
+2. Extender la masa sobre papel film y poner en el molde. Pinchar la masa con un
+   tenedor.
+3. Precalentar el horno a 180º y hornear la masa sola durante 12 minutos. Sacar
+   y dejar enfriar.
+4. Repartir sobre ella el bacon y los pimientos. Batir los huevos, añadir la
+   nata, el queso emmental, la pimienta y la sal. Repartir esta mezcla sobre la
+   masa y hornear nuevamente durante 30 minutos.
 ** Socca de chile y romero
 *** Información
 - Comensales: 2 como entrante ligero
@@ -2563,9 +3209,47 @@ Se puede usar de guarnición unas patatas Torner.
 6. Con una espátula, distribuye bien la mezcla y déjala tan fina como quieras.
 7. Mete la bandeja al horno y déjala unos 15 minutos.
 8. Una vez hecha, córtala como una pizza y sírvela con pimienta por encima.
-
-#+LATEX: \clearpage
-
+** Tarta de tomates
+*** Información
+- Comensales: 4 o 6 personas
+- Fuente: http://webosfritos.es/2014/07/tarta-de-tomates/
+*** Ingredientes
+- 1 plancha de masa quebrada
+- 3 huevos
+- 2 yemas
+- 300 gramos de nata para montar
+- 3 cucharadas soperas de tomate frito
+- Una pizca de sal
+- Una pizca de pimienta
+- 150 gramos de bacon en dados
+- 100 gramos de queso rallado
+*** Preparación
+1. Precalienta el horno a 200º calor arriba y abajo.
+2. Engrasa el molde.
+3. Pon la plancha de la masa quebrada en el molde, procurando no estirarla, sino
+   cubriendo con cuidado el fondo del molde. Pasa un rodillo o tus dedos por el
+   borde para retirar la masa sobrante. Pincha la masa con un tenedor, pero no
+   apretando demasiado, porque luego se te puede salir el contenido de la tarta
+   por los agujeros: es simplemente marcar un poco con el tenedor.
+4. Pon papel de hornear sobre la masa, y coloca encima unas bolas de cerámica o
+   unas legumbres que tengas para este proceso (horneado a ciegas). Hornea
+   durante 12 o 15 minutos.
+5. Mientras tanto, bate los huevos y las yemas en un cuenco. Salpimenta y añade
+   la nata, sin montar, y el tomate frito casero. Remueve.
+6. Quítale al bacon la corteza y las ternillas, y córtalo en dados. Añádelo
+   junto con el queso a la mezcla anterior y vuelve a remover con unas varillas.
+7. Saca el molde del horno, quita con cuidado las legumbres y el papel y vierte
+   el contenido del cuenco con la ayuda de un cazo, para repartir bien el beicon
+   por toda la tarta.
+8. Hornea durante 25 minutos hasta que la masa esté cuajada. Si la tarta no se
+   cuaja y ves que la masa se tuesta demasiado, pon un papel de aluminio por
+   encima hasta el final del horneado.
+9. Saca, deja templar un poco y sirve.
+*** Notas
+- Se necesita un molde redondo, bajo, rizado y desmontable de 25 centímetros de
+  diámetro.
+- Si prefieres que el beicon tenga un sabor más intenso, pásalo un minuto por la
+  sartén sin aceite y a fuego fuerte.
 ** Trenza de hojaldre rellena de puerro y salmón
 *** Información
 - Comensales: 6 personas
@@ -2593,6 +3277,36 @@ Se puede usar de guarnición unas patatas Torner.
    cerramos intercalando una cinta de cada lado hasta terminar.
 5. Cuando ya está bien cerrado pintamos con el huevo batido y
    horneamos durante unos 15 minutos aproximadamente.
+** Zwiebelkuchen
+*** Información
+- Comensales: 8 raciones
+- Fuente: http://www.recetas.com/receta-de-Kuchen-de-Cebolla-_-_-Zwiebelkuchen-7541.html
+*** Ingredientes
+- 1,3 kilos de cebolla
+- 250 gramos de tocino
+- 2 cucharadas y media de harina
+- 150 mililitros de leche
+- 150 mililitros de nata
+- 2 huevos
+- 2 cucharaditas de sal
+- Pimienta
+- Aceitunas
+- Hojaldre
+*** Preparación
+1. Cortar la cebolla en juliana (no es necesario que se corte muy delgada), y
+   cocinarla en una olla hasta que disminuya el volumen y se vea transparente
+   (sin llegar a dorarse).
+2. Aparte mezclar la leche, crema, huevos, sal, harina, pimienta y tocino picado
+   finamente. Remover hasta que quede homogéneo. Agregar esta mezcla a la
+   cebolla y mezclar.
+3. Disponer la masa como base en una bandeja de horno y cubrir con la mezcla de
+   cebolla. Distribuir hasta que quede igualado y agregar a gusto las aceitunas
+   sobre la superficie.
+4. Precalentar el horno a fuego alto, y cocinar el kuchen en el horno entre 25 y
+   30 minutos.
+
+#+LATEX: \clearpage
+
 * Huevos y tortillas
 ** Charlota de tortilla rellena
 *** Información
@@ -2676,6 +3390,29 @@ Se puede usar de guarnición unas patatas Torner.
 8. Si los ingredientes están fríos, servir inmediatamente. Si no los
    vas a consumir de inmediato, ponlos en el frigo tapados con un
    plástico sin la yema rallada, que pondrás justo antes de servir.
+** Nubes de huevo
+*** Información
+- Comensales: 4 personas
+- Fuente: http://cavemanketo.com/eggs-in-a-cloud/
+*** Ingredientes
+- 4 huevos grandes
+- 200 gramos de bacon troceado
+- Sal
+- Pimienta
+- Cebolla en polvo
+- Ajo en polvo
+- 2 cucharadas de queso parmesano
+*** Preparación
+1. Separarar las yemas de las claras.
+2. Cortar el bacon en taquitos y cocinarlo en una sartén hasta que esté
+   crujiente. No hace falta añadir aceite.
+3. Poner las claras de los huevos en un bol y montarlas.
+4. Rallar el queso parmesano en la claras montadas y añadir el bacon también.
+5. Formar las nubes con un hueco en el centro encima de una bandeja con papel
+   de horno.
+6. Cocinar las claras a 180º unos 5 minutos.
+7. Colocar cada yema de huevo en el hueco de cada nube.
+8. Cocinar hasta que las claras estén tostadas.
 ** Tamagoyaki
 *** Información
 - Tortilla japonesa
@@ -3225,7 +3962,47 @@ unos 12 minutos o hasta que esté en su punto.
 
 #+LATEX: \clearpage
 
+* Mermeladas
+** Mermelada de tomates
+*** Información
+- Fuente: http://cocina.facilisimo.com/blogs/general/mermelada-de-tomates-y-tostaditas-de-ricotta_1175909.html?aco=1032&fba
+*** Ingredientes
+- 1 kilo de tomates
+- 2 clavos de olor
+- 1 limón pelado, sin la parte blanca y sin pepitas
+- 1/2 kilo de azúcar
+- 1 palo de canela
+*** Preparación
+1. Triturar los tomates muy bien.
+2. Añadir el limón y triturar de nuevo hasta que se mezcle. Trasladar a una
+   olla.
+3. Añadir el azúcar, los clavos y la canela y cocinar a fuego medio-fuerte 1
+   hora removiendo de vez en cuando.
+*** Notas
+- Se puede tomar en tostadas acompañada de queso ricotta o queso de cabra.
 * Pasta
+** Cacio e Pepe
+*** Información
+- Fuente: https://www.youtube.com/watch?v=bdg_aKXAnmQ
+*** Información
+- Un buen puñado de pimienta negra (al gusto)
+- 220 gramos de pasta
+- 4 cucharadas de aceite de oliva
+- 1 cucharada de mantequilla
+- 50 gramos de queso pecorino rallado
+- 50 gramos de queso grana padano rallado
+*** Preparación
+1. Cocer la pasta en abuntante agua con sal.
+2. Mientras se cuece, rallar el queso pecorino y grana padano (misma
+   cantidad de cada uno).
+3. Poner al fuego una sartén y echar un buen puñado de pimienta negra. Añadir un
+   cazo del agua de cocción de la pasta y remover.
+4. Añadir el aceite de oliva y la mantequilla. Cocinar durante unos 2 minutos.
+5. Parar la cocción de la pasta cuando esté al dente. Escurrir guardando un poco
+   del agua de cocción.
+6. Añadir la pasta a la sartén con la salsa y mantecarla. Echar otro cazo de
+   agua de cocción.
+7. Echar los quesos rallados y cocinar un minuto. Servir.
 ** Canelones de espinacas y ricotta
 *** Ingredientes
 - 24 canelones
@@ -3369,6 +4146,40 @@ unos 12 minutos o hasta que esté en su punto.
 2. Esta salsa la mezclaremos en un sartén con los gnocchi,
    agregándole un poco de agua de la cocción de los gnocchi.
 3. Al servir, echar un poco de parmesano rallado por encima.
+** Gnocchi de salmón con crema de puerros
+*** Información
+- Comensales: 2 personas
+- Fuente: http://cocinarconamigos.blogspot.com.es/2010/11/gnocchinoquis-de-salmon-con-crema-de.html
+*** Ingredientes para los gnocchi
+- 2 patatas medianas (aproximadamente 500 gramos)
+- 1 filete de salmón fresco (unos 300 gramos sin limpiar)
+- 1 huevo
+- 5 cucharadas colmadas de harina
+- Sal
+- Aceite
+- Agua
+*** Ingredientes para la salsa
+- 1 puerro grande
+- 200 mililitros de nata
+- 2 rodajas de queso de cabra fresco
+- 1 cucharadita de eneldo picado
+- Sal
+- Aceite
+*** Preparación de los gnocchi
+1. Cocemos las patatas en agua con sal.
+2. Cogemos la rodaja de salmón y le ponemos sal por ambos lados. En una sartén
+   echamos aceite y cocinamos el salmón, totalmente. Lo limpiamos de piel y
+   espinas y dejamos que un papel absorbente quite el aceite.
+3. Cogemos un bol y ponemos la patata y el salmón. Con un tenedor vamos
+   machacando y mezclando los ingredientes, hasta que quede una masa uniforme.
+   Le añadiremos un huevo y la harina y continuaremos mezclando. Se puede dejar
+   reposando la mezcla mientras se enfría hasta poder manejarla con las manos.
+4. Damos forma a los gnocchi y los cortamos de unos 2 centímetros de largo.
+5. Cocemos los gnocchi en abundante agua con sal.
+6. Para la salsa, limpiamos el puerro y lo troceamos. Le echamos sal y lo
+   salteamos en una sartén, a fuego medio, durante 10 minutos. Le añadimos la
+   nata, el eneldo y el queso de cabra y cocinamos hasta que la salsa se
+   reduzca. Pasamos por la batidora y servimos con los gnocchi.
 ** Lasaña de calabacín y gambas
 *** Información
 - Fuente: http://webosfritos.es/2011/09/lasana-de-calabacin-y-gambas-para-la-llevar-a-la-oficina/
@@ -3704,6 +4515,24 @@ unos 12 minutos o hasta que esté en su punto.
    dorado.
 7. Servir echando perejil picado por encima.
 
+** Nidos Luigi
+*** Información
+- Fuente: Luis Martínez Zarza
+*** Ingredientes
+- Nidos de pasta al huevo
+- Queso gorgonzola
+- Nata
+- Pimienta
+- Albahaca
+- Orégano
+- Salmón ahumado
+- Huevas de lumpo
+*** Preparación
+1. Cocer la pasta en abundante agua con sal y orégano.
+2. Hacer la salsa con el queso y la nata. Echar un poco de pimienta al gusto.
+3. Una vez cocida la pasta, colocar un nido en cada plato y salsear bien.
+4. Encima de los nidos colocar unas tiras de salmón ahumado y terminar el plato
+   con unas hojas de albahaca.
 ** Pasta con champiñones
 *** Información
 - Comensales: 4 personas
@@ -3752,6 +4581,36 @@ unos 12 minutos o hasta que esté en su punto.
 7. Servir en el plato, y poner por encima la salsa de nata y queso.
 8. Adornar con un toque de alguna hierba aromática que tengáis.
 
+** Pasta con salsa de brandy
+*** Información
+- Fuente: Receta propia
+*** Ingredientes
+- 110 gramos por persona de pasta del tipo que se desee (preferiblemente larga)
+- 6 u 8 gambones por persona
+- Ajo
+- Brandy
+- Nata de cocina
+- 30 gramos de queso semi curado
+- Pimienta blanca
+- Aceite de oliva
+- Perejil
+*** Preparación
+1. Se pone a cocer la pasta en abundante agua con sal.
+2. Se pica muy finamente el ajo y se ralla el queso que vayamos a utilizar.
+3. Se echa el ajo en una sartén con 2 cucharadas de aceite de oliva.
+4. Se añaden los gambones y se dejan hacer unos 3 minutos dándoles la vuelta.
+5. Cuando estén listos se sacan y reservar.
+6. Se añade un buen chorreón de brandy (al gusto, a mí me gusta con bastante
+   cantidad) y se deja reducir hasta que no huela a alchohol.
+7. Se añade la nata y se mezcla bien con el brandy.
+8. Entonces añadimos el queso rallado y dejamos que se forme una salsa algo
+   espesa y homogénea.
+9. Añadimos sal y pimienta blanca al gusto (a mí me gusta con bastante pimienta
+   para darle más sabor).
+10. Cuando la pasta esté cocida añadimos un par de cucharadas grandes del agua
+    de cocción y la pasta escurrida. Mantecamos la pasta un minuto o dos.
+11. Emplatamos colocando la pasta (si es larga en forma de nido), encima los
+    gambones y cubrimos con un poco de pimienta blanca y perejil picado.
 ** Pasta con salmón y queso fresco
 *** Información
 - Comensales: 4 personas
@@ -4233,42 +5092,34 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 7. El tiempo de cocción depende mucho de la clase de la patata. Éstas
    estaban perfectas en unos 20 o 25 minutos. Parte del caldo habrá
    evaporado y espesado y la cocina tendrá un olor de espectáculo.
-** Patatas panaderas
+** Patatas deluxe
 *** Información
-- Comensales: 4 o 6 personas
-- Fuente: http://tengolareceta.com/patatas-panadera-receta/1195
+- Fuente: http://www.gastroandalusi.com/2014/09/como-hacer-patatas-deluxe-como-mc-donlalds-receta.html
 *** Ingredientes
-- 1 kilo de patatas
-- 1 cebolla grande
-- 400 gramos de aceite de oliva suave
-- 100 gramos de vino blanco 
+- 4 o 5 patatas medianas
+- 100 gramos de harina
+- 1 cucharada de orégano
+- 1 cucharadita de pimentón de la vera dulce
+- 1 cucharadita de pimentón de la vera picante
+- 1 cucharadita de cebolla en polvo
+- 1 cucharadita de ajo en polvo
 - Sal
-- Pimienta blanca molida
+- Aceite de Oliva virgen Extra
 *** Preparación
-1. Ponemos el horno a calentar a 180º.
-2. Pelamos las patatas y las cortamos en rodajas de unos 3 milímetros.
-3. Una vez cortadas, las lavamos bien para quitarlas el almidón y las
-   colocamos en una fuente o bandeja de horno.
-4. Pelamos la cebolla y la cortamos en juliana muy fina.
-5. Ponemos la cebolla en la placa con las patatas, le añadimos un poco
-   de sal y pimienta. Revolvemos bien, cubrimos con el aceite y
-   volvemos a revolver para que se mezcle todo bien.
-6. Cubrimos la bandeja con papel de aluminio, asegurándonos de que las
-   patatas quedan bien tapadas, para que no se nos resequen y las
-   metemos en el horno a 160º durante una hora.
-7. Sacamos las patatas del horno, escurrimos casi todo el aceite y
-   añadimos el vino blanco.
-8. Volvemos a introducir la placa de las patatas en el horno, pero
-   esta vez sin tapar y la dejamos otros 20 minutos a 160º.
-*** Notas
-- Si os gustan los pimientos, podemos añadirle a nuestras patatas
-  panadera además de la cebolla, medio pimiento verde y otro medio
-  rojo cortado en juliana.
-- Si no disponemos de horno, para hacer esta receta, podemos poner
-  las patatas en una cazuela  o sartén grande y cocinarlas junto con
-  la cebolla y el aceite a fuego lento.
-- El aceite sobrante escurrido antes de meter el vino puede
-  aprovecharse para el sofrito de cualquier guiso.
+1. Lavamos y pinchamos las patatas.
+2. Las envolvemos una por una en papel transparente y las metemos en el
+   microondas 6 minutos a potencia máxima (lo justo para enternecerlas y que no
+   se desmoronen).
+3. Mientras, en una bolsa de plástico (como las de congelación) ponemos la
+   harina, el orégano, el pimentón, la sal, la cebolla y el ajo en polvo.
+   Cerramos y agitamos para que se integren bien los ingredientes.
+4. Cuando el tiempo del microondas llegue a su fin, desenvolvemos las patatas y
+   sin quitarles la piel, las cortamos en gajos simulando a las patatas deluxe.
+5. Metemos todos los gajos en la bolsa que teníamos preparada y agitamos para
+   que la harina se quede pegada en las patatas.
+6. En una sartén con abundante aceite de oliva virgen extra, freímos todas las
+   patatas, aunque también se pueden poner en el horno 30 minutos
+   aproximadamente a 180º y girándolas una vez.
 ** Patatas rellenas al horno
 *** Información
 - Comensales: 4 personas
@@ -4299,6 +5150,30 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 6. Cuando este todo bien mezclado, rellenamos las patatas asadas con
    la mezcla, añadimos el queso rallado por encima de las patatas e
    introducimos en el horno para que se gratinen.
+** Patatas rellenas de jamón cocido y queso
+*** Información
+- Comensales: 4 personas
+- Fuente: http://cocina.facilisimo.com/blogs/recetas-primeros/patatas-rellenas-de-jamon-y-queso_1182347.html?aco=105k&fba
+*** Ingredientes
+- 4 patatas medianas del mismo tamaño
+- 100 gramos de jamón dulce
+- 80 gramos de queso parmesano rallado
+- Queso que funda para gratinar
+- 1 cucharada de mantequilla
+- 4 cucharadas de leche o nata para cocinar
+- Sal
+- Pimienta
+- Cebollino picado
+*** Preparación
+1. Limpiamos bien las patatas debajo del grifo y las ponemos a hervir con agua
+   y sal unos 25 o 30 minutos, dependiendo del tamaño y la clase de patatas. Una
+   vez tiernas las escurrimos y dejamos que se templen.
+2. Cortamos con cuidado la parte superior y con ayuda de una cuchara las
+   vaciamos procurando que no se nos rompan.
+3. Mezclamos el puré con la mantequilla, el queso parmesano, la leche y el jamón
+   picado. Salpimentamos y añadimos el cebollino picado al gusto.
+4. Rellenamos bien las patatas, espolvoreamos con queso rallado y horneamos a
+   200º hasta que el queso se funda y se gratine un poco.
 ** Patatas Torner
 *** Información
 - Comensales: guarnición de otros platos
@@ -4419,6 +5294,29 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 #+LATEX: \clearpage
 
 * Pizzas
+** Garbanzos pizzeros
+*** Información
+- Fuente: http://www.amuse-your-bouche.com/pizza-roasted-chickpeas/
+*** Ingredientes
+- 240 gramos de garbanzos cocidos
+- Media cucharada de aceite
+- Media cucharadita de hierbas italianas
+- Sal
+- Pimienta negra
+- Albahaca
+- 1 cucharada de puré de tomate
+- 3 tomates secos troceados
+- 30 gramos de queso mozzarella rallado
+- 1 cucharada de piñones
+*** Preparación
+1. Precalentar el horno a 190º.
+2. Mezclar los garbanzos con el aceite, las hierbas y salpimentar y esparcirlos
+   por la bandeja de horno. Tostar durante unos 15 minutos, hasta que queden 
+   crujientes y dorados.
+3. Sacarlos del horno y añadirles el puré de tomate, los tomates secos, la
+   albahaca, la mozzarella y los piñones. Mezclar bien y volver a meterlos al
+   horno otro 5 minutos, hasta que el queso se haya derretido. Servir
+   inmediatamente.
 ** Espirales de bacon y queso
 *** Información
 - Comensales: 4 personas
@@ -4697,6 +5595,28 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 4. Servimos acompañado de una salsa tipo alioli o salmorejo con taquitos de
    jamón.
 
+** Boquerones al limón
+*** Información
+- Fuente: http://webosfritos.es/2014/07/boquerones-al-limon/
+*** Ingredientes
+- 1 kilo de boquerones
+- 1 limón
+- 2 dientes de ajo
+- Sal
+- Harina 
+- Aceite de oliva virgen extra
+*** Preparación
+1. Limpia los boquerones quitándoles la tripa. Colócalos en un recipiente y
+   échales sal.
+2. Pon los ajos pelados y el zumo de limón en un mortero, machácalos y
+   repártelos por los boquerones. Mete el recipiente en el frigorífico durante
+   una media hora.
+3. Sácalos, rebózalos en harina y golpéalos suavemente con tus dedos para
+   eliminar la harina sobrante.
+4. Calienta abundante aceite de oliva virgen extra en una sartén no muy grande.
+   Fríelos con paciencia.
+5. Ponlos a escurrir en un colador y a continuación pásalos a un papel de
+   hornear. Sírvelos inmediatamente.
 ** Boquerones en vinagre
 *** Información
 - Comensales: 4 personas
@@ -4984,28 +5904,6 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 - Se puede hacer con bacalao (bien desalado) o pescadilla y la
   fritada admite pimiento rojo, verde y un poco de tomate.
 
-** Panga en salsa de orégano
-*** Información
-- Comensales: 4 personas
-- Fuente:
-  http://www.gallinablanca.es/receta/panga-en-salsa-de-oregano/
-*** Ingredientes
-- 4 filetes de panga
-- 1 cebolla
-- 200 mililitros de nata para cocinar
-- 1 pastilla de caldo de pescado
-- 1 cucharada de orégano
-- Aceite de oliva
-*** Preparación
-1. Picar la cebolla pequeña, y rehogar en una sartén con un poco de
-   aceite de oliva.
-2. Mientras tanto vamos haciendo los filetes de panga a la plancha con
-   muy poca sal.
-3. Cuando la cebolla este blanda añadimos nata para cocinar, orégano
-   al gusto y la pastilla de caldo de pescado desmenuzada, lo ponemos
-   a fuego medio y metemos en seguida el panga ya hecho por las dos
-   caras.
-4. Dejar espesar la salsa al gusto y listo para comer.
 ** Pastel de atún
 *** Informacion
 - Fuente: http://kocinarte.com/recetas/pastel-de-atun
@@ -5315,35 +6213,6 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 5. Añadimos un puñado de especias a la olla metidas en una gasa o bolsita.
    Cerramos de nuevo la olla a presión y dejamos al fuego otros 40 minutos.
 
-** Fabada
-*** Información
-- Comensales: 4 personas
-- Fuente:
-  http://www.hogarutil.com/cocina/recetas/legumbres/201208/fabada-16245.html
-*** Ingredientes
-- 350 gramos de fabes
-- 2 chorizos 
-- 2 morcillas ahumadas
-- 100 gramos de jamón salado
-- 200 gramos de tocineta curada
-- 1 cebolla
-- 2 dientes de ajo
-- Agua
-- Aceite de oliva
-- Sal
-- Pimentón 
-*** Preparación
-1. Pon las alubias a remojo de víspera. En otro cuenco con agua
-   templada pon a remojo el chorizo y la morcilla. Y en otro, la
-   tocineta y el jamón. En el momento de cocinar, escurre todo.
-2. Introduce las alubias en una cazuela grande y cúbrelas con
-   agua. Sazona. Pela y pica en juliana una cebolla y añade junto con
-   los chorizos. Cocina durante una hora a fuego lento e incorpora la
-   morcilla, la tocineta y el jamón. Cocina otra hora.
-3. Por otro lado, pela y pica los ajos y haz un refrito en una sartén
-   con un chorro de aceite y el pimentón. 
-4. Agrega el sofrito a la cazuela, cocina otros 45 minutos a fuego
-   lento y sirve en plato hondo.
 ** Fabes con almejas
 *** Información
 - Fuente: Escuela MasterChef
@@ -5374,136 +6243,6 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    almejas las limpiamos y las reservamos.
 6. Una vez cocidas las fabes, servimos añadiendo las almejas y un poco
    de perejil picado.
-** Garbanzos al plato
-*** Información
-- Comensales: 4 personas
-- Fuente:
-  http://www.hogarutil.com/cocina/recetas/legumbres/201210/garbanzos-plato-16811.html
-*** Ingredientes
-- 250 gramos de garbanzos
-- 2 zanahorias
-- 3 puerros
-- 2 patatas
-- 12 ajos frescos
-- 50 gramos de jamón
-- 50 gramos de chorizo
-- Agua
-- Aceite de oliva virgen extra
-- Sal
-- Perejil
-*** Preparación
-1. Pon los garbanzos a remojo de víspera. Escurre.
-2. Pon abundante agua en la olla rápida. Agrega los garbanzos, las
-   zanahorias peladas y los puerros limpios en entero. Cuando empiece
-   a hervir el agua, añade los garbanzos. Sazona. Cierra la olla y
-   cuécelos durante 5 minutos a partir de que comience a salir el
-   vapor.
-3. Pasado este tiempo, abre la olla, retira las verduras y
-   resérvalas. Vuelve a cerrar la olla y deja cocinar los garbanzos 20
-   minutos más a partir de que salga el vapor. Escurre y reserva los
-   garbanzos.
-4. Limpia los ajos frescos y pícalos en cilindros. Saltéalos con los
-   garbanzos en una sartén con aceite. Sazona.
-5. Para el puré de patata, cuece las patatas en una cazuela con agua y
-   sal durante 25 minutos. Deja templar, pela y trocéalas. Pasa las
-   patatas y las verduras reservadas por el pasa purés. Pon a punto de
-   sal. Coloca en el fondo del plato el puré de patata y distribuye
-   por encima los garbanzos.
-6. Pica el chorizo y el jamón en trocitos pequeños y saltéalos en una
-   sartén con un chorrito de aceite. Salpica los garbanzos y
-   sirve. Decora con una hojita de perejil.
-** Huevos de fraile
-*** Información
-- Comensales: 4 personas
-- Fuente:
-  http://www.elfogondelaperlagris.com/2010/03/huevos-de-fraile.html
-*** Ingredientes
-- 1 taza de harina de garbanzo 
-- 1 taza y media de agua
-- Cebolletas 
-- Perejil fresco
-- Aceite de oliva 
-- Sal 
-- Vinagre de vino blanco
-*** Preparación
-1. Diluimos la harina poco a poco en un cazo con agua con un poco de
-   sal y removemos para que no nos salgan grumos. A continuación,
-   ponemos el cazo a fuego lento hasta conseguir una masa muy espesa,
-   que nos cueste moverla y se despegue de las paredes del
-   cazo. Tenemos que tener cuidado y no dejar de remover para que no
-   se nos quemedurante la cocción de la harina.
-2. Echamos la masa en un molde de aluminio si tenemos o en un plato y
-   le damos un poco de forma aplanándolo. Tenemos que dejar que se
-   enfríe completamente.
-3. Una vez fría la masa, la cortamos en taquitos.
-4. Cortamos la cebolleta picándola muy fina, el perejil y a
-   continuación lo mezclamos echando un poco de sal, el vinagre y el
-   aceite. Servimos frío.
-*** Notas
-- La proporción es por cada medida de agua, una medida y media de
-  harina.
-** Lentejas a la jardinera
-*** Información
-- Comensales: 4 personas
-- Fuente:
-  http://www.hogarutil.com/cocina/recetas/legumbres/201208/lentejas-jardinera-16229.html
-*** Ingredientes
-- 350 gramos de lentejas 
-- 1 cebolleta 
-- 2 zanahorias 
-- 2 o 3 patatas 
-- 1 pimiento verde 
-- 1 pimiento rojo 
-- 1 puerro 
-- 2 tomates maduros 
-- 4 dientes de ajo 
-- Un trozo de chorizo
-- Medio vasito de vino blanco 
-- Vinagre 
-- Agua 
-- Aceite de oliva 
-- Sal 
-- 1 hoja de laurel
-*** Preparación
-1. Pon las lentejas a remojo de víspera (si son pardinas, no hace
-   falta). Escurre y reserva.
-2. Pela y pica los dientes de ajo y la cebolleta y pon a pochar en la
-   olla a presión con un chorrito de aceite. Pela y pica en brunoise
-   el resto de las verduras.
-3. Incorpora la zanahoria, la patata, el puerro, los pimientos rojo y
-   verde, y el tomate. Sazona y rehoga.
-4. Corta el chorizo en rodajas, agrega a la olla y remueve. Añade las
-   lentejas y rehoga.
-5. Vierte el vino blanco y el vinagre. Deja que se evapore el
-   alcohol. Cubre con agua y añade la hoja de laurel. Pon a punto de
-   sal. Tapa y cocina durante 10 o 12 minutos a partir de que suba la
-   válvula de seguridad. Deja enfriar y abre.
-6. Retira la hoja de laurel y sirve las lentejas a la jardinera.
-** Lentejas con ajos frescos y chistorra
-*** Información
-- Comensales: 4 personas
-- Fuente:
-  http://www.hogarutil.com/cocina/recetas/legumbres/201310/lentejas-ajos-frescos-chistorra-21953.html
-*** Ingredientes
-- 300 gramos de lentejas 
-- 200 gramos de chistorra 
-- 2 puerros 
-- 1 zanahoria 
-- 1 calabacín 
-- 16 ajos frescos 
-- Agua
-- Aceite de oliva virgen extra 
-- Sal
-*** Preparación
-1. Pica finamente los puerros, la zanahoria y el calabacín. Ponlos a
-   rehogar en una cazuela con aceite hasta que queden bien pochados.
-2. Agrega las lentejas. Mezcla bien, sazona, cubre con agua y
-   cocínalas a fuego medio durante 30-35 minutos con la tapa puesta.
-3. Limpia los ajos frescos, córtalos en cilindros y saltéalos en una
-   sartén con un chorrito de aceite. Sazona.
-4. Corta la chistorra en 8 trozos, pínchalos y cocínalos a la
-   plancha. Sirve las lentejas, coloca encima los ajos frescos
-   salteados y los trozos de chistorra.
 ** Olla gitana
 *** Información
 - Fuente: Escuela MasterChef
@@ -5918,6 +6657,38 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    de una forma diferente: colocar el gazpacho en un bol y añadir el
    aceite batiendo con varillas.
 4. Después dejar reposar en nevera, y emplatar al gusto.
+** Holodnik de remolacha
+*** Información
+- Sopa fría rusa
+- Comensales: 6 u 8 personas
+- Fuente: http://www.olgasflavorfactory.com/soups/cold-beet-holodnik/
+*** Ingredientes
+- 6 o 7 tazas de agua
+- 1 o 2 remolachas (1 grande o 2 pequeñas)
+- 2 cucharadas de zumo de limón
+- 4 pepinos
+- 6 huevos cocidos
+- Eneldo
+- Cebollino
+*** Preparación
+1. Precalientar el horno a 200º.
+2. Lavar las remolachas, cortar las hojas, rociar con un poco de aceite, sazonar
+   y cubrir completamente con papel de aluminio. Hornear de 30 minutos a una
+   hora, dependiendo del tamaño. Cuando un palillo atraviese fácilmente las 
+   remolachas, estarán hechas.
+3. Cuando estén lo suficientemente frías, quitar la piel usando toallas de papel
+   o las manos. También puede utilizar un cuchillo de cocina.
+4. Rallar las remolachas.
+5. Echar las remolachas en agua con zumo de limón (no sólo para darle sabor,
+   sino para mantener el color intenso de las remolachas). Llevar a ebullición.
+   Sazonar.
+6. Enfriar la sopa en la nevera hasta que esté completamente fría.
+7. A la hora de servir, cortar en brunoise los huevos, los pepinos pelados y
+   vaciados de pepitas y muy finamente el eneldo y el cebollino. Agregarlos a
+   la crema.
+*** Nota
+- Servir con un plato de patatas hervidas con acompañamiento de cebolla y bacon
+  picados y sofritos.
 ** Salmorejo
 *** Información
 - Comensales: 2 personas si es plato principal, 4 si es entrante
@@ -6038,6 +6809,24 @@ La salsa carbonara es apropiada especialmente para pastas largas.
   vayamos a servir y a continuación añadir la sopa muy caliente. Dejar reposar
   un poco, y el huevo coge un punto magnífico.
 
+** Sopa de arroz
+*** Información
+- Comensales: 4 o 6 personas
+- Fuente: http://webosfritos.es/2010/12/sopa-de-arroz/
+*** Ingredientes
+- 100 gramos de arroz (si preferís una sopa espesa, usad 50 gramos más)
+- 1,5 litros de caldo de pollo y verduras
+- 1/2 diente de ajo
+- Un poco de perejil picado
+- 4 hebras de azafrán
+*** Preparación
+1. Preparar un caldo casero con cuerpo con el pollo y las verduras.
+2. Cuando esté hirviendo en una cacerola, poner el medio diente de ajo, cortado
+   en trocitos muy pequeños, y echar el arroz. Dejar cocer 5 minutos a fuego
+   fuerte.
+3. Añadir el azafrán y bajar a fuego medio, y dejar otros 5 a 8 minutos más
+   hasta que esté cocido.
+4. Espolvorear con un poco de perejil y servir caliente.
 ** Sopa fría de tomate
 *** Información
 - Comensales: 4 personas
@@ -6158,6 +6947,20 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 8. Vertemos el queso en la fondue. Pinchamos los dados de pan con un tenedor y
    los introducimos en la fondue, untando el queso.
 9. Acompañamos con la ensalada y las patatas cocidas.
+** Pan de queso
+*** Información
+- Fuente: http://thecookrocker.com/2012/03/13/pan-de-queso-brasileno/
+*** Ingredientes
+- 500 gramos de harina de maíz y/o mandioca
+- 2 tazas de leche
+- 1 cucharada de aceite
+- 3 huevos
+- 100 gramos de queso rallado (edam o parmesano)
+*** Preparación
+1. Mezclamos la leche con el aceite y lo calentamos en una cazuelita hasta que
+   hierva. Lo apartamos del fuego, echamos los huevos y batimos bien.
+2. Echamos la harina y el queso y amasamos durante media hora más o menos. Las
+   introducimos en el horno a 180 grados unos 20 o 25 minutos.
 ** Pan relleno de queso
 *** Información
 - Fuente: http://kocinarte.com/recetas/pan-relleno-de-queso
@@ -6447,8 +7250,7 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 ** Berenjenas rebozadas en salsa de vino tinto
 *** Información
 - Comensales: 4 personas
-- Fuente:
-  http://www.hogarutil.com/cocina/recetas/ensaladas-verduras/201311/berenjenas-rebozadas-salsa-vino-tinto-22295.html
+- Fuente: http://www.hogarutil.com/cocina/recetas/ensaladas-verduras/201311/berenjenas-rebozadas-salsa-vino-tinto-22295.html
 *** Ingredientes
 - 2 berenjenas
 - 2 cebolletas
@@ -6462,24 +7264,21 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 - Sal
 - Perejil
 *** Preparación
-1. Pela y pica las cebolletas en dados. Ponlos a pochar y
-   sazónalas. Cuando estén bien pochadas, agrega media cucharada de
-   harina, el vino (dale un hervor) y 1 vaso de agua. Deja reducir
-   durante 20 minutos y tritura. Reserva la salsa de vino tinto.
-2. Pica las judías verdes en daditos. Pela las zanahorias, corta cada
-   una en 4 cilindros y tornéalas. Cuécelas al vapor durante 8 o 10
-   minutos, añádelas a la salsa y cocina el conjunto durante 5 minutos
-   más.
+1. Pela y pica las cebolletas en dados. Ponlas a pochar y sazónalas. Cuando
+   estén bien pochadas, agrega media cucharada de harina, el vino (dale un
+   hervor) y un vaso de agua. Deja reducir durante 20 minutos y tritura.
+   Reserva la salsa de vino tinto.
+2. Pica las judías verdes en daditos. Pela las zanahorias, corta cada una en 4
+   cilindros y tornéalas. Cuécelas al vapor durante 8 o 10 minutos, añádelas a
+   la salsa y cocina el conjunto durante 5 minutos más.
 3. Pela las berenjenas, córtalas en lonchas de 1 centímetro de grosor,
-   extiéndelas sobre una fuente y sazónalas. Deja que suden y retira
-   el líquido que suelten.
-4. Seca las berenjenas, pásalas por harina y huevo batido con una
-   pizca de sal. Fríelas en una sartén con abundante
-   aceite. Escúrrelas sobre un plato forrado con papel absorbente de
-   cocina.
-5. Sirve la salsa de vino tinto con las verduras en el fondo del plato
-   y coloca encima las berenjenas rebozadas. Adorna con unas hojas de
-   perejil.
+   extiéndelas sobre una fuente y sazónalas. Deja que suden y retira el líquido
+   que suelten.
+4. Seca las berenjenas, pásalas por harina y huevo batido con una pizca de sal.
+   Fríelas en una sartén con abundante aceite. Escúrrelas sobre un plato forrado
+   con papel absorbente de cocina. 
+5. Sirve la salsa de vino tinto con las verduras en el fondo del plato y coloca
+   encima las berenjenas rebozadas. Adorna con unas hojas de perejil.
 ** Bricks de champiñón con salsa de queso
 *** Información
 - Comensales: 4 personas
@@ -7105,47 +7904,6 @@ virgen extra.
    orégano. Cerramos con la bechamel restante y el queso rallado.
 5. Hornear durante 30 minutos a 180 grados.
 
-** Musaka receta original
-*** Información
-- Fuente: http://www.recetamusaka.com/
-*** Ingredientes
-- 2 berenjenas grandes
-- 2 tomates grandes maduros
-- 400 gramos de carne de cordero picada
-- Aceite de oliva
-- Sal
-- Pimienta negra
-- Canela molida
-*** Ingredientes para la cobertura
-- 1 huevo
-- 1 yogur griego
-- 50 gramos de queso feta
-- Queso rallado
-*** Preparación
-1. Cortamos las berenjenas en rodajas no demasiado finas, le echamos y
-   las freímos un poco en abundante aceite de oliva. Una vez fritas
-   las dejamos escurrir sobre papel absorvente, para que pierdan todo
-   el exceso de aceite.
-2. En ese mismo aceite añadimos la carne picada de cordero, a la que
-   previamente le hemos añadido sal, pimienta negra y un poco de
-   canela molida, junto al tomate triturado. Una vez comience a
-   dorarse la mezcla, la apartamos.
-3. En una bandeja de horno previamente engrasada, montamos la primera
-   capa con las berenjenas, recubriendo todo la bandeja.
-4. A continuación añadimos la mezcla de carne y tomate encima de la
-   capa de berenjenas.
-5. Para la última capa, la superior, mezclamos en un cuenco el huevo,
-   un yogur griego y el queso feta desmigado. Una vez estén bien
-   mezclados los ingredientes, echamos por encima en la bandeja, y
-   espolvoreamos un poco de queso rallado.
-6. Esa es la receta tradicional, pero también se puede sustituir la
-   mezcla de huevo, queso y yogur por una bechamel tradicional.
-7. Por último metemos en el horno, previamente precalentado, durante
-   una hora aproximadamente, a 180ºC, controlando que no se queme la
-   capa superior.
-8. Una vez lista, dejar reposar unos 30 o 40 minutos para que la
-   musaka adquiera consistencia y se pueda servir sin que se destrocen
-   las distintas capas.
 ** Pakoras
 *** Información
 - Fuente: http://alacenavegana.blogspot.com.es/2011/03/pakoras.html
@@ -7249,33 +8007,6 @@ virgen extra.
 5. Añadimos un poco de pimentón y tras dejar un momento que el
    pimentón se mezcle se añade el caldo. Subimos el fuego, tapamos la
    olla y lo dejamos unos 30 minutos.
-** Patatas con guisantes y habas
-*** Información
-- Comensales: 4 personas
-- Fuente: http://www.hogarutil.com/cocina/recetas/legumbres/201402/patatas-guisantes-habas-23577.html
-*** Ingredientes
-- 1 kilo de patatas 
-- 500 gramos de guisantes con vaina 
-- 500 gramos de habas con vaina 
-- 1 cebolleta 
-- 2 huevos 
-- 2 lonchas de tocino entreverado 
-- Sal
-*** Preparación
-1. Cuece los huevos en un cazo con agua y una pizca de sal durante 12
-   minutos a partir de que empiece a hervir el agua. Deja templar,
-   pélalos, córtalos a tu gusto y resérvalos. 
-2. Desgrana los guisantes y las habas. Cuécelos por separado durante 5
-   minutos. Escurre y reserva.
-3. Pela y casca las patatas (introduce el cuchillo y rompe la patata
-   con un movimiento brusco de muñeca) en trozos medianos y cuécelas
-   durante 10 minutos. Agrega los guisantes y las habas. 
-4. Corta el tocino en tiras y fúndelo en una sartén. Pica finamente la
-   cebolleta y dórala en esta grasita.
-5. Añádelo al guiso, rectifica de sal y sigue cociendo hasta que las
-   patatas estén blandas y el caldo ligeramente espeso. 
-6. Emplata muy caliente en cazuelitas de barro. Pon encima el huevo
-   duro y sirve enseguida.
 ** Pionono de calabacín
 *** Información
 - Fuente: http://bearecetasymas.blogspot.com.es/2013/11/pionono-de-calabacin.html
@@ -7741,6 +8472,31 @@ virgen extra.
 4. Echar una o dos latas de tomate triturado.
 5. Si no es estilo boloñesa, se puede pasar por la  batidora para que
    no encontrar trozos.
+** Salsa gaucha
+*** Información
+- Comensales: 200 mililitros
+- Fuente: http://canalcocina.es/receta/salsa-gaucha
+*** Ingredientes
+- 4 cucharadas de agua
+- 5 cucharadas de tomate concentrado
+- 2 cucharadas de aceite de girasol
+- 1 diente de ajo
+- 1 cucharada de vinagre de manzana
+- 1/2 cucharada de vinagre balsámico
+- 1 cucharada de zumo de limón
+- Orégano
+- Perejil
+- Tomillo
+- Comino
+- Curry)
+- 2 cucharadas de mostaza de djon
+- unos granos de pimienta
+- 1/2 guindilla
+- 1/2 cucharada de espesante agar-agar
+*** Preparación
+1. Disolver el agar-agar en agua tibia.
+2. Triturar junto al resto de ingredientes con la batidora. Compensar cantidades
+   al gusto.
 ** Salsa holandesa
 *** Ingredientes
 - 2 yemas de huevo
@@ -7830,6 +8586,29 @@ virgen extra.
 4. Bate bien todos los ingredientes. Tapa el cuenco con papel film y deja que
    se enfríen en el frigorífico por lo menos una hora antes de servir.
 
+** Salsa remoulade
+*** Información
+- Fuente: http://www.gastronomiaycia.com/2008/09/15/salsa-remoulade/
+*** Ingredientes
+- 200 gramos de mayonesa
+- 40 gramos de pepinillos picados muy finos
+- 20 gramos de alcaparras igualmente picadas
+- Perejil
+- Estragón
+- Perifollo
+- 1 cucharadita de mostaza de Dijón
+- Una anchoa bien picada
+- Pimienta negra
+- Sal
+*** Preparación
+1. Picar muy finamente los pepiniñños y las alcaparras.
+2. Trocear lo más posible la anchoa.
+3. Mezclar todos los ingredientes con cuidado hasta que queden todos bien
+   integrados.
+*** Notas
+- Sirve para acompañar verduras al vapor, pescados y carnes frías o calientes,
+  aunque también se usan con patatas fritas, roast beef, gambas o como una
+  salsa para los perritos calientes.
 ** Salsa riojana
 *** Ingredientes
 - 1 cebolla
@@ -7856,6 +8635,26 @@ virgen extra.
 - Corregimos la sal y la pimienta.
 - Batimos todo bien y pasamos por un colador para eliminar impurezas.
 
+** Salsa Romanoff
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.recettes.qc.ca/recette/sauce-romanoff-150660
+*** Ingredientes
+- 2 cucharadas de aceite
+- 1 cucharada de mantequilla
+- 4 chalotas picadas
+- 2 dientes de ajo
+- 400 gramos de tomate cortados en taquitos
+- 150 gramos de pasta de tomate
+- 1/2 cucharada de cayena o chiles
+- 3 cucharadas de vodka
+- 250 mililitros de nata
+*** Preparación
+1. Rehogar las chalotas y el ajo.
+2. Añadir los tomates, la pasta y la cayena. Mezclar bien. Añadir el vodka.
+   Cocinar a fuego lento 20 minutos, removiendo de vez en cuando.
+3. Añadir poco a poco la crema. No deje que la mezcla hierva.
+4. Agitar y servir sobre la pasta escogida.
 ** Salsa rosa exprés
 *** Ingredientes
 - 4 cucharadas soperas de mayonesa
@@ -7865,6 +8664,25 @@ virgen extra.
 - Una cucharada de brandy
 *** Preparación
 1. Mezclar todos los ingredientes en un bol.
+** Salsa Sriracha
+*** Información
+- Fuente: http://www.loquecomemos.com/cocina-comida/receta-salsa-sriracha-hecha-en-casa/
+*** Ingredientes
+- 400 gramos de jalapeños rojos
+- 4 dientes de ajo picados
+- 1 cucharada sopera de sal
+- 3 cucharadas soperas de azúcar morena
+- 1/2 taza de vinagre blanco
+*** Preparación
+1. Lavar bien los jalapeños y picarlos en trozos grandes.
+2. Añadir la sal, el azúcar y el ajo picado. Dejar reposar de un día para el otro.
+3. Trituramos los jalapeños (junto con el jugo que hayan soltado).
+4. Dejamos reposar 5 días. La mezcla debería comenzar a fermentar al segundo día
+   y burbujear hasta el quinto día. Cuando la mezcla deje de burbujear, es el
+   momento de volver a triturar junto con el vinagre hasta obtener una mezcla
+   homogénea.
+5. Colamos la salsa sobre una olla para eliminar las semillas y otros restos.
+6. Hervimos y reducimos la salsa hasta que tenga la consistencia deseada.
 ** Salsa tártara
 *** Ingredientes
 - 250 gramos de mayonesa casera
@@ -8101,6 +8919,32 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 - Si se quiere variar las cantidades hay que tener en cuenta que por cada medida
   de yogur, hay que echar dos de azúcar, una de aceite y tres de harina, además
   de tres huevos, una cucharadita de levadura y la ralladura de limón.
+** Bombones helados
+*** Información
+- Comensales: 10 o 12 raciones
+- Fuente: http://www.nestle.es/nestlepostres/recetas/155/bombones-helados.aspx
+*** Ingredientes
+- 150 gramos de Chocolate NESTLÉ Postres
+- 300 gramos de nata montada
+- 50 gramos de azúcar
+- 3 yemas de huevo
+- 200 gramos de Chocolate NESTLÉ Postres Intenso
+*** Preparación
+1. Mezclar las yemas con el azúcar y 50 mililitros de agua y cocerlo al baño
+   maría, batiéndolo con unas varillas eléctricas, hasta que esté espumoso y
+   haya doblado su volumen (unos 8 minutos). Dejarlo enfriar batiéndolo fuera
+   del fuego unos minutos más.
+2. Añadir el chocolate fundido al baño maría y la nata montada y mezclarlo con
+   cuidado.
+3. Verterlo en pequeños moldes esféricos para bombones y dejarlos en el
+   congelador durante una horas.
+4. Fundir el chocolate intenso troceado al baño maría.
+5. Desmoldear los bombones sobre una rejilla y cubrirlos con el chocolate
+   fundido. Dejarlos en el refrigerador durante 30 minutos para que el chocolate
+   se solidifique.
+*** Notas
+- Si se preparan con antelación, ponerlos en el congelador y sacarlos 30
+  minutos antes de servirlos.
 ** Brownie After Eight
 *** Información
 - Fuente: http://webosfritos.es/2011/11/brownie-after-eight/
@@ -8232,6 +9076,25 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
    rejilla boca abajo sobre del molde y dándole la vuelta al mismo.
 10. Una vez frío, y con la ayuda de un colador espolvorear azúcar glas por
     encima.
+** Caracolas de hojaldre y nutella
+*** Información
+- Fuente: http://webosfritos.es/2014/09/caracolas-de-hojaldre-y-nutella/
+*** Ingredientes
+- 1 plancha de hojaldre
+- 3 cucharadas soperas de Nutella
+*** Preparación
+1. Precalienta el horno a 200º, calor arriba y abajo.
+2. Desenrolla la plancha de hojaldre.
+3. Pon Nutella a la mitad de la plancha, y extiéndela con una espátula. No
+   pongas mucha cantidad, que no es necesario.
+4. Corta la otra mitad de la plancha y ponla por encima.
+5. Espolvorea un poco de azúcar por encima, y pásale un rodillo suavemente.
+6. Corta unas tiras de igual tamaño.
+7. Coge los extremos de cada tira con las manos y retuércelas.
+8. Enróllalas sobre sí mismas, haciendo caracolas.
+9. Hornea los 10 primeros minutos a 200ºC. Baja el horno a 180ºC, y termina de
+   hornear unos 5 minutos más.
+10. Saca a una rejilla y deja enfriar.
 ** Chocolate a la taza
 *** Información
 - Fuente: Recetas de Nestlé POSTRES.
@@ -8448,6 +9311,31 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 3. Lo introducimos en el horno al baño María durante 35 minutos.
 4. Dejamos enfriar, lo sacamos de la flanera y lo podemos decorar con nueces,
    piñones, pasas o virutas de chocolate por ejemplo.
+** Galletas de chocolate blanco y coco
+*** Información
+- Comensales: 6 u 8 raciones
+- Fuente: http://www.nestle.es/nestlepostres/recetas/47/galletas-de-chocolate-blanco-y-coco.aspx
+*** Ingredientes
+- 80 gramos de mantequilla
+- 60 gramos de azúcar moreno
+- 50 gramos de azúcar glas
+- 1 cucharadita de vainilla azucarada
+- Media cucharadita de levadura en polvo
+- 1 huevo
+- 170 gramos de harina
+- 150 grmos de Chocolate NESTLÉ Postres Blanco
+- 3 cucharadas de coco rallado
+*** Preparación
+1. Calentar el horno a 180º. Batir en un recipiente hondo mantequilla, azúcar
+   moreno, azúcar glacé y vainilla azucarada hasta obtener una masa homogénea.
+2. Añadir el huevo y mezclar.
+3. Añadir poco a poco harina tamizada con levadura en polvo y mezclar la masa
+   con una espátula evitando que se formen grumos.
+4. Incorporar a la masa el chocolate blanco troceado y 1 cucharada de coco
+   rallado.
+5. Formar con las manos pequeños montoncitos de masa y colocar espaciados en
+   una placa de horno.
+6. Espolvorear con el resto de coco rallado. Cocer en el horno 12 min.
 ** Galletas de chocolate sin huevo
 *** Información
 - Fuente: http://webosfritos.es/2013/07/galletas-de-chocolate-sin-huevo/
@@ -8484,41 +9372,6 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
     delicioso. Cada uno tendrá que coger el puntito a su horno.
 11. A continuación dejar enfriar en una rejilla. Justo antes de
     servir poner por encima cacao espolvoreado con un colador.
-** Galletas de jengibre
-*** Información
-- Fuente: http://www.pequerecetas.com/receta/especial-galletas-de-jengibre/
-*** Ingredientes
-- 4 tazas de harina
-- 1 cucharada de levadura en polvo
-- 2 cucharaditas de jengibre molido
-- 2 cucharaditas de canela molida
-- 1/4 cucharadita de clavo molido
-- 1 taza de mantequilla a temperatura ambiente
-- 1 taza de azúcar moreno
-- 1 huevo grande
-- Media taza de miel o melaza
-*** Preparación
-1. Mezclamos bien los ingredientes secos: la harina, jengibre,
-   levadura, canela y clavo.
-2. Batimos la mantequilla, que estará a temperatura ambiente, con el
-   azúcar hasta que éste se disuelva completamente.
-3. Incorporamos la miel o melaza y el huevo, y finalmente incorporamos
-   la mezcla de la harina con las especias. Tenemos que conseguir una
-   mezcla lo más homogénea posible. Si se queda excesivamente pegajosa
-   podemos incorporar algo más de harina hasta que quede más firme y
-   manejable (pero no pongáis demasiada harina o las galletas quedarán
-   demasiado duras al hornearlas).
-4. Colocar la masa en una bolsa de plástico sellable o en un
-   recipiente de plástico hermético. Reservar en un lugar fresco, pero
-   no en la nevera, durante al menos 2 horas y máximo 6 horas. O
-   refrigerar la masa durante un máximo de 3 días, y llevar a
-   temperatura ambiente antes de usar.
-5. Estirar la masa entre dos hojas de horno para que no se quede
-   pegada al rodillo.
-6. Utilizar los cortapastas para sacar las formas que deseemos.
-7. Hornear en horno precalentado a 180ºC durante 11 a 15 minutos para
-   piezas de gran tamaño, de 6 a 8 minutos para piezas pequeñas. O
-   hasta que los bordes se tiñen de color marrón.
 ** Galletas de turrón
 *** Información
 - Fuente: http://webosfritos.es/2013/12/galletas-de-turron/
@@ -9046,7 +9899,46 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
    será suficiente si la tarta se sigue horneando una vez puesto el
    relleno, pero si la tarta se rellena en frío puede necesitar hasta
    5 minutos más de horno, ya sin las legumbres.
+** Minisoufflés de chocolate
+*** Información
+- Comensales: 4 o 6 raciones
+- Fuente: http://www.nestle.es/nestlepostres/recetas/381/minisouffles-de-chocolate.aspx
+*** Ingredientes
+- 125 gramos de chocolate Nestlé postres
+- 3 huevos
+- 125 gramos de mantequilla
+- 100 gramos de azúcar glas
+- 40 gramos de harina
+*** Preparación
+1. Precalentar el horno a 200º
+2. Derretir el chocolate con la mantequilla al baño maria o en el microondas,
+   siguiendo las instrucciones del embalaje.
+3. Batir los huevos con el azúcar hasta que la mezcla sea blanquecina y un poco
+   espumosa. Poco a poco agregar la harina tamizada y por último, el chocolate
+   derretido.
+4. Verter la mezcla en unos moldes individuales o ramekines, previamente
+   engrasados con un poco de mantequilla y sin llenarlos del todo (pues la
+   mezcla subirá al cocer).
+5. Hornearlos unos 15 minutos.
 ** Mousse de chocolate
+*** Información
+- Fuente: http://compilacionderecetas.blogspot.com.es/2009/02/mousse-de-chocolate.html
+*** Ingredientes
+- 90 gramos de azúcar moreno
+- 85 gramos de chocolate negro
+- 30 gramos de mantequilla
+- 300 mililitros de nata líquida
+*** Preparación
+1. Montamos la nata y reservamos.
+2. Ponemos el azúcar en un cazo a fuego medio y hacemos caramelo líquido.
+3. Retiramos del fuego y le añadimos la mantequilla y tres cucharadas de nata
+   montada. Mezclamos bien.
+4. Vertemos esta mezcla en un bol donde previamente habremos puesto el chocolate
+   troceado. Removemos hasta su total incorporación. Dejamos enfriar un poco y
+   le añadimos el resto de nata con movimientos envolventes.
+5. Rellenamos los moldes y tapamos con papel film. Dejamos en el frigorífico
+   hasta el día siguiente.
+** Mousse de chocolate a la naranja
 *** Información
 - Fuente: http://webosfritos.es/2008/03/mousse-de-chocolate-a-la-naranja/
 *** Ingredientes
@@ -9121,6 +10013,33 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 6. Abrir las naranjas por el extremo superior y vaciarlas con un poco
    de paciencia. Rellenarlas de mousse con la ayuda de una manga
    pastelera. Meter las naranjas en el congelador un mínimo de dos horas.
+** Pastel helado de chocolate
+*** Información
+- Comensales: 8 o 10 raciones
+- Fuente: http://www.nestle.es/nestlepostres/recetas/29/pastel-helado-de-chocolate.aspx
+*** Ingredientes para el bizcocho
+- 100 gramos de Chocolate NESTLÉ Postres Intenso
+- 3 huevos
+- 100 gramos azúcar
+- Harina
+*** Ingredientes para el helado
+- 100 gramos de Chocolate NESTLÉ Postres Negro
+- 350 gramos de nata montada
+- 100 gramos de azúcar
+- 4 huevos
+*** Preparación del bizcocho
+1. Fundir al baño maría el chocolate troceado con 2 o 3 cucharadas de agua.
+2. Batir las yemas y el azúcar hasta que estén cremosas. Añadir chocolate
+   fundido, mezclar bien e incorporar claras montadas a punto de nieve.
+3. Verter en un molde de bizcocho enharinado y cocer, a horno suave, hasta que
+   esté firme al tacto (unos 10 minutos). Dejar enfriar y retirar del molde.
+*** Preparación del helado
+1. Batir las yemas y el azúcar hasta que estén cremosas. Añadir chocolate
+   fundido (previamente con 2 o 3 cucharadas de agua) y mezclar bien. Añadir la
+   nata montada y mezclar. Dejar en el congelador unas horas.
+2. Finalmente, cuando el bizcocho esté frío, cubrir con el helado de chocolate y
+   dejar en el congelador unos 15 min. Decorarlo con unas virutas de chocolate,
+   cacao o frutas.
 ** Pastel de mousse de chocolate
 *** Información
 - Fuente: http://www.nestle.es/nestlepostres/recetas/139/pastel-del-mousse-de-chocolate.aspx
@@ -9155,6 +10074,52 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 4. Verter la mousse sobre la base ya fría y dejar el pastel en el refrigerador
    durante 2 ó 3 horas antes de desmoldearlo.
 5. Servirlo espolvoreado con cacao en polvo.
+** Rocas de chocolate y frutos secos
+*** Información
+- Comensales: 6 raciones
+- Fuente: http://www.nestle.es/nestlepostres/videotalleres/8/419/rocas-de-chocolate-y-frutos-secos.aspx
+*** Ingredientes para las blancas
+- 75 gramos de Chocolate NESTLÉ PÒSTRES Blanco
+- 60 gramos de pistacho
+- 15 gramos de sésamo
+*** Ingredientes para las negras
+- 75 gramos de Chocolate NESTLÉ POSTRES Negro
+- 20 gramos de pasas
+- 25 gramos de avellanas
+*** Preparación
+1. Fundimos el chocolate intenso y blanco al microondas.
+2. Mezclamos los frutos secos de cada preparación con el chocolate derretido
+   en un bol.
+3. Hacemos pequeños montoncitos de cada uno sobre un papel vegetal.
+4. Llevamos a la nevera hasta que solidifique.
+** Sablés de chocolate
+*** Información
+- Comensales: 6 u 8 raciones
+- Fuente: http://www.nestle.es/nestlepostres/recetas/382/sables-de-chocolate.aspx
+*** Ingredientes
+- 100 gramos de Chocolate NESTLÉ Postres Negro
+- 160 gramos de harina
+- 40 gramos de mantequilla blanda
+- 60 gramos de azúcar glas
+- 1 huevo
+- 1 pizca de sal
+*** Preparación
+1. Precalentar el horno a 200º y fundir el chocolate en el microondas según las
+   instrucciones del embalaje.
+2. Mezclar el chocolate con la mantequilla cortada en trozos y el azúcar.
+3. Añadir la harina, el huevo batido y  la sal; y mezclar con las manos hasta
+   formar una bola de masa.
+4. Colocarla en el refrigerador unos 30 minutos.
+5. Enharinar ligeramente una parte pequeña del mármol o superficie de la cocina
+   y estirar la masa con un rodillo de cocina hasta que tenga unos 2 centímetros
+   de grosor.
+6. Con ayuda de unos cortapastas, cortar las figuras.
+7. Con los restos de la masa, formar de nuevo una bola y extender la masa de
+   nuevo y repetir la operación. 
+8. Colocar las figuras sobre una bandeja del horno cubierta con papel de
+   hornear.
+9. Cocerlas en el horno unos 8 minutos.
+10. Dejarlas enfriar.
 ** Sakuskiyas
 *** Información
 - Fuente: http://webosfritos.es/2010/04/sakuskiyas/
@@ -9419,6 +10384,31 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 9. Dejar reposar 10 minutos, desmoldar y adornar con la cruz de cartón
    y con un colador poner azúcar glas por encima.
 
+** Tarta de queso de Nutella
+*** Información
+- Fuente: http://rasamalaysia.com/nutella-cheesecake-recipe/2/
+*** Ingredientes
+- 300 gramos de galletas 
+- 5 cucharadas de mantequilla sin sal
+- 1 tarro (350 o 400 gramos) de Nutella a temperatura ambiente
+- 3/4 de taza de avellanas tostadas picadas 
+- 500 gramos de queso crema a temperatura ambiente 
+- Media taza de azúcar glas
+*** Preparación
+1. Romper las galletas en un recipiente, agregar la mantequilla y 15 mililitros
+   o una cucharada de Nutella y batir hasta que comience a mezclarse. Añadir 25
+   gramos o 3 cucharadas de avellanas y seguir hasta obtener que tenga una
+   mezcla húmeda y arenosa.
+2. Echar la mezcla en un molde de unos 23 cm y presionar la base, ya sea con las
+   manos o la parte de atrás de una cuchara. Meter en el refrigerador para
+   enfriar. 
+3. Batir el queso crema y el azúcar glas hasta que quede suave y luego añadir el
+   resto de Nutella a la mezcla. Seguir batiendo hasta que se mezclen
+   completamente.
+4. Saca el model de la nevera y deposita cuidadosamente la mezcla de Nutella 
+   sobre la base. Esparce las avellanas picadas restantes en la parte superior
+   y colocar el molde en la nevera durante al menos cuatro horas o toda la
+   noche. Servir directamente de la nevera para obtener mejores resultados.
 ** Tarta de zanahorias y coco
 *** Información
 - Fuente: http://www.recetariocanecositas.com/tarta-de-zanahorias-y-coco/
@@ -9474,6 +10464,49 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
    pegajosa.
 3. Hacer bolitas con la masa y darles forma de zanahoria.
 4. Ponerles un rabito con perejil o cebollino.
+** Tarta del diablo
+*** Información
+- Fuente: http://compilacionderecetas.blogspot.com.es/2012/12/tarta-del-diablo-devils-food-cake.html
+- Molde: 18 o 20 centímetros de diámetro
+*** Ingredientes para el bizcocho
+- 210 gramos de harina
+- 200 gramos de azúcar moreno
+- 125 gramos de mantequilla
+- 125 gramos de cacao en polvo
+- 125 mililitros de leche
+- 125 mililitros de agua
+- 3 huevos
+- 16 gramos de levadura química (tipo Royal)
+- Una pizca de sal
+- Esencia de vainilla
+*** Ingredientes para el glaseado
+- 400 gramos de chocolate
+- 400 gramos de mantequilla
+- 100 mililitros de leche
+- Esencia de vainilla
+*** Preparación del bizcocho
+1. En un bol batimos los huevos junto con el azúcar moreno y la pizca de sal
+   hasta obtener una mezcla espumosa. Añadimos la esencia de vainilla.
+2. En un cazo ponemos el agua, la leche, la mantequilla cortada en trocitos y el
+   cacao en polvo. Calentamos, removiendo, hasta que todos los ingredientes
+   estén disueltos.
+3. Tamizamos la harina junto con la levadura que iremos añadiendo en 3 tandas al
+   batido de huevos y azúcar. Añadimos también la mezcla de chocolate, hasta que
+   todos los ingredientes estén bien incorporados.
+4. Untamos el molde con mantequilla, espolvoreamos un poco de cacao en polvo, y
+   volcamos el sobrante. Rellenamos el molde con la masa.
+5. Horneamos a 180º durante 40 o 50 minutos (hasta que al pinchar con un palillo
+   éste salga limpio).
+6. Dejamos enfriar en el propio molde. Desmoldamos, y retiramos la capa de
+   arriba que habrá quedado un poco abombada. Cortamos el resto del bizcocho en
+   tres trozos, rellenando y cubriendo con el glaseado.
+*** Preparación del glaseado
+1. Troceamos el chocolate y la mantequilla.
+2. En un cazo ponemos todos los ingredientes y a fuego suave removemos hasta
+   que estén completamente disueltos.
+3. Lo movemos a un bol y dejamos enfriar hasta que la crema tenga una
+   consistencia cremosa como para poder untarla (puede tardar varias horas
+   dependiendo de la temperatura ambiente).
 ** Tarta helada al whisky
 *** Información
 - Fuente:
@@ -9608,67 +10641,6 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 2. Derretir el chocolate y mezclarlo con la nata.
 3. Repartir la cobertura sobre la tarta y esperar a que se seque.
 4. Refrigerar.
-** Tarta mousse de mango
-*** Información
-- Fuente:
-  http://www.delikatissen.com/2014/02/tarta-de-mousse-de-mango/
-*** Ingredientes para la base de galletas
-- 15 o 17 galletas tipo digestive
-- 100 gramos de mantequilla derretida
-*** Ingredientes para la mousse de mango
-- 1 mango y medio grandes hechos puré con la batidora
-- 300 mililitros de nata líquida para montar
-- 3 claras de huevo XL
-- 4 cucharadas de azúcar
-- 2 sobres de 6 gramos de gelatina neutra u 8 láminas de gelatina
-- 3 cucharadas de agua fría
-*** Ingredientes para la gelée de mango
-- Medio mango hecho puré con la batidora
-- 1 cucharada de azúcar
-- 1 cucharadita de gelatina neutra
-- 1 cucharada de agua fría
-- 1 cucharada de agua hirviendo
-*** Preparación previa
-1. Pelar, trocear y triturar hasta convertir en puré los mangos. 3/4
-   de lo que resulte serán para la mousse y 1/4 para el géele.
-*** Preparación de la base
-1. Forrar con papel un molde desmontable redondo de unos 20 o 22 cm de
-   diámetro.
-2. Picar las galletas con la picadora, hasta conseguir un polvo fino y
-   mezclar bien con la mantequilla derretida.
-3. Volcar la mezcla en el fondo del molde y con ayuda de una cuchara
-   repartir bien cubriendo toda la superficie, lo más nivelado posible
-   (importante llegar bien a la pared del molde para que luego no
-   queden churretes de mousse ;)).
-4. Meter en el congelador 15 minutos o en la nevera 30.
-*** Preparación de la mousse de mango
-1. Batir las claras a punto de nieve con 2 cucharadas de azúcar y
-   reservar.
-2. Batir la nata líquida a montada con 2 cucharadas de azúcar y
-   reservar.
-3. En un bol pequeño mezclar los dos sobres de gelatina neutra en
-   polvo con 3 cucharadas de agua fría.
-4. De los 3/4 del puré de mango separar un poco en una taza y
-   calentarlo en el micro. Cuando esté caliente echar la gelatina
-   hidratada con el agua fría y mezclar bien. Mezclar después con el
-   resto de puré de mango.
-5. En un bol grande empezar a mezclar todos los ingredientes para la
-   mousse: primero echamos todo el puré de mango ya mezclado con la
-   gelatina, 1/3 de las claras montadas y 1/3 de la nata y con una
-   espátula y movimientos envolventes mezclamos bien. Repetimos hasta
-   que se terminen las claras y la nata. No seáis bruscos, la mezcla
-   tiene que mantener el aire de batir los ingredientes.
-6. Echar la mousse en el molde que teníais en el congelador ya con la
-   base preparada y dejar enfriar de nuevo en la nevera mínimo 4
-   horas.
-*** Preparación de la géele de mango
-1. Mezclar la cucharadita de gelatina neutra en polvo con la cucharada
-   de agua fría. Cuando esté hidratada la gelatina echar la cucharada
-   de agua hirviendo y mezclar muy bien.
-2. Mezclar la gelatina con el puré de mango y 1 cucharada de azúcar.
-3. Batir todo bien y repartir por toda la superficie de la tarta (si
-   todo ha ido bien la mousse ya estará firme).
-4. Enfriar en la nevera 1 hora mínimo.
 ** Tarta Sacher en vasitos
 *** Información
 - Comensales: 6 personas (6 vasitos individuales)
@@ -9825,7 +10797,7 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
   abajo.
 ** Torta de chocolate
 *** Información
-- Fuente: Recetas de Nestlé POSTRES 
+- Fuente: http://www.nestle.es/nestlepostres/recetas/274/torta-de-chocolate.aspx
 *** Ingredientes
 - 250 gramos de Chocolate NESTLÉ Postres Negro
 - 200 gramos de nata montada
@@ -9938,36 +10910,6 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 
 #+LATEX: \clearpage
 
-* Bebidas
-** Vino caliente especiado
-*** Información
-- Glühwein
-- Fuente:
-  http://www.directoalpaladar.com/otras-bebidas/gluhwein-vino-caliente-especiado-receta-de-navidad
-*** Ingredientes
-- 750 mililitros de vino tinto de calidad aceptable
-- 80 gramos de azúcar moreno
-- 2 hojas de laurel
-- 4 vainas de cardamomo
-- 6 clavos
-- 2 estrellas de anís estrellado
-- 2 ramas de canela
-- Una pizca de nuez moscada rallada
-- Piel de 1 limón
-- Piel de 1 naranja mediana
-- Licor para servir (opcional)
-*** Preparación
-1. Disponer todas las especias en una olla o cazuela ancha. Añadir el
-   azúcar y calentar hasta que empiecen a salir los aromas. Mojar el
-   fondo con un poco de vino, sólo para cubrir el azúcar, y calentar
-   removiendo con una cuchara de madera hasta que se disuelva.
-2. Incorporar el resto del vino tinto, mezclando bien. Calentar a
-   media temperatura, sin dejar que llegue a hervir. Cocer a fuego
-   medio-bajo durante unos 30 minutos, vigilando que no suba demasiado
-   la temperatura.
-3. Comprobar el punto de dulzor, con cuidado de no quemarnos, y añadir
-   un poco más de azúcar o miel si fuera necesario. Colar para retirar
-   las especias y guardar en frascos o una botella limpia.
 * Recetas de la abuela
 ** Arroz con habichuelas
 - Dejar en remojo las habichuelas desde la noche anterior.
