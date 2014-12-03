@@ -332,6 +332,57 @@ tinta aparezcan en nuestra vida.
 
 #+LATEX: \clearpage
 
+* Aperitivos
+** Aceitunas en casilla
+*** Información
+- Comensales: 4 personas
+- Fuente: http://canalcocina.es/receta/olivas-en-casilla
+*** Ingredientes
+- 60 gramos de queso feta
+- 75 gramos de queso parmesano
+- 75 gramos de queso ahumado de cabra u oveja
+- 100 gramos de queso "Cottage"
+- 100 gramos de mantequilla
+- Un vaso y medio de harina
+- 1 huevo
+- Semillas de sésamo
+- 50 aceitunas sin hueso
+*** Preparación
+1. Lo primero que hacemos es rallar los quesos duros y mezclarlos con el resto
+   de quesos, la mantequilla y la harina.
+2. Envolvemos cada aceituna con una capa fina de esta masa.
+3. Untamos con huevo batido cada bolita y recubrimos un lado con semillas de
+   sésamo.
+4. Disponemos en una bandeja de horno untada con aceite y horneamos
+   aproximadamente 30 minutos a 190ºC.
+5. Servimos.
+** Galletitas picantes de pimentón y cheddar
+*** Información
+- Fuente: http://www.gastroandalusi.com/2014/10/galletitas-picantes-de-pimenton-de-la-vera-ahumado-las-hermanas.html
+*** Ingredientes
+- 60 gramos de queso cheedar rallado
+- 60 gramos de  mantequilla sin sal
+- 70 gramos de harina
+- 1 cucharadita de pimentón picante
+- 1 cucharada de leche entera
+- Una pizca de sal
+*** Preparación
+1. Precalentar el horno a 180º. Cubrir una bandeja con papel para hornear o con
+   un tapete de silicona. En una procesadora de alimentos, poner el queso
+   cheddar rallado o triturado, la mantequilla, la harina, la sal y el pimentón
+   picante.
+2. Mezclar todo hasta que quede combinado. Añadir la leche y volver a mezclar
+   unos 30 segundos, hasta que la masa forme una bola.
+3. En un papel apto para el horno, o un tapete de silicona enharinado, extender
+   la masa con un rodillo dejando un espesor de 4 milimetros.
+4. Cortar con un cortador de la forma deseada la masa de las galletas, y con el
+   extremo de un termómetro digital o palillo de dientes, hacemos agujeros en el
+   centro de cada galletita.
+5. Transferir las galletas con cuidado y con ayuda de una espátula a la bandeja
+   para hornear forrada con el papel de horno o un tapete de silicona. Pincelar
+   con mantequilla derretida y espolvorear con pimentón.
+6. Hornear para cocerlas 12 a 15 min aproximadamente a 180º hasta que los
+   extremos comiencen a estar dorados. 
 * Arroz
 ** Arancini rellenos de mozzarella
 *** Información
@@ -368,6 +419,40 @@ tinta aparezcan en nuestra vida.
 4. Freír con aceite bien caliente hasta que estén doradas por fuera
    (no hace falta que se cocine, porque el risotto ya está hecho, así
    que no se tarda mucho).
+** Arroz a la griega
+*** Información
+- Fuente: http://cocinerovocacional.blogspot.com.es/2010/09/arroz-la-griega.html?m=1
+*** Ingredientes
+- 200 gramos de arroz
+- 150 gramos de cebolla
+- 150 gramos de pimiento rojo
+- 150 gramos de guisantes
+- 6 salchichas frescas
+- 200 gramos de panceta salada
+- 750 mililitros de caldo de pollo
+- Sal
+- Pimienta molida
+- Aceite
+- 1 huevo
+- Un diente de ajo
+- 200 mililitros de aceite
+*** Preparación
+1. Trocear las salchichas. Reservar.
+2. Quitar la piel de la panceta salada y trocear el resto. Reservar.
+3. Trocear la cebolla y el pimiento y sofreírlos en una cazuela de barro con un
+   poco de sal durante diez minutos.
+4. Añadir las salchichas y la panceta y dejar cocinar otros 5 minutos.
+5. Agregar el arroz, los guisantes y la pimienta molida. Si los guisantes son
+   frescos incorpóralos un poco más tarde para que no se deshagan demasiado.
+6. Agregar el caldo de pollo (siempre el triple de caldo que de arroz para un
+   arroz seco).
+7. Cocer el conjunto a fuego fuerte los diez primeros minutos. Es muy importante
+   no mover nada de nada el arroz.
+8. Pasados estos minutos, corcer diez minutos más a fuego lento. Comprobar el
+   punto del arroz, retirarlo del fuego y dejarlo reposar cinco minutos
+   tapándolo con papel de periódico limpio.
+9. Mientras reposa, preparar un falso alioli con el huevo, la sal, el diente de
+    ajo, el aceite y unas gotas de vinagre.
 ** Arroz con atún, gambas y verduras
 *** Información
 - Comensales: 4 personas
@@ -1100,6 +1185,63 @@ capas de condumio, para que cuando quitemos el aro quede perfecto.
 3. En una sartén con abundante aceite freímos las bolas de pollo y las
    escurrimos con papel de cocina antes de servir.
 
+** Burritos de chili con carne
+*** Información
+- Comensales: 4 personas
+- Fuente: http://javirecetas.hola.com/burritos-mexicanos-de-chili-con-carne/
+*** Ingredientes
+- 500 gramos de carne picada de ternera
+- 400 gramos de alubias negras remojadas
+- 4 tortillas de trigo grandes
+- 1/2 botella de vino tinto (unos 375 mililitros)
+- 1/2 litro de caldo de carne (también puede ser de pollo)
+- 10 cucharadas de aceite de oliva
+- 1 zanahoria cortada a taquitos
+- 1 cebolla mediana picada (unos 250 gramos)
+- 2 dientes de ajo picados
+- 1 anís estrellado
+- 1 pimienta de cayena
+- 1 chile verde o jalapeño
+- 4 cucharadas de tomate triturado
+- 1/2 cucharada pequeña de cominos molidos
+- 1/2 cucharada pequeña de pimentón dulce
+- 1/2 cucharadas de ketchup
+- 3/4 de litro de agua
+- Sal
+*** Preparación
+1. Pon 5 cucharadas de aceite de oliva en una sartén honda.
+2. Añade 500 gramos de carne picada de ternera y media cucharada pequeña de sal.
+   Deja a fuego medio fuerte mientras golpeas con una espumadera de plástico
+   para separar la carne y cuando esté bien dorada la retiramos a un plato.
+3. Añade en la sartén otras 5 cucharadas de aceite de oliva, 1 cebolla picada,
+   2 dientes de ajo picados, 1 zanahoria a taquitos y 1 anís estrellado. Si te
+   gusta el picante pon 1 cayena picada. Y deja que se poche la cebolla a fuego
+   medio.
+4. Mientras tanto pica 1 chile jalapeño y cuando la cebolla esté dorada añade el
+   chile picado y 4 cucharadas de tomate triturado. Sube el fuego y fríe el
+   tomate durante 5 minutos.
+5. Luego añade media botella de vino tinto y deja a fuego fuerte. El vino tiene
+   que reducirse hasta tener la consistencia del caramelo líquido entonces
+   incorporamos la carne que hemos dorado y medio litro de caldo de carne.
+6. Añade también media cucharada pequeña de cominos molidos, media cucharada
+   pequeña de pimentón y 2 cucharadas de ketchup. Tapa y deja que se cocine el
+   chili durante 1 hora a fuego medio.
+7. Mientras se hace la carne ponemos en una olla a presión 400 gramos de alubias
+   negras remojadas. Cúbrelas con 3/4 de litro de agua, cierra la olla y cocina
+   hasta que estén tiernas (unos 15 minutos). Cuando los frijoles o las alubias
+   estén listas abre la olla y espera a que la carne termine de cocinarse.
+8. Cuando la carne lleve una hora al fuego incorporamos las alubias con el caldo
+   de cocción y dejamos a fuego medio fuerte hasta que el chili con carne
+   espese. Entonces probamos de sal y si es necesario añadimos un poco más.
+   Aparta la sartén del fuego y tapa para conservar caliente (sin olvidar
+   retirar el anís estrellado).
+9. Ahora pon en otra sartén sin aceite una tortilla de trigo para burritos (son
+   más grandes que las normales). Calienta durante unos segundos por cada lado y
+   luego aparta a un plato. Añade un poco de chili con carne en el centro de la
+   tortilla y cierra el Burrito. Si quieres tuesta un poco el burrito en la
+   sartén sin aceite. Repite con todos los Burritos.
+10. Y eso es todo. Puedes servirlos con un poco de arroz blanco y lechuga picada
+    y listo.
 ** Cerdo caramelizado con patatas deluxe
 *** Información
 - Comensales: 2 personas
@@ -1455,6 +1597,34 @@ Se puede usar de guarnición unas patatas Torner.
    estén hechas, se sirven calientes, templadas o temperatura ambiente, al
    gusto.
 5. Acompañar de unas patatas fritas y un par de huevos fritos por comensal.
+** Malfuf mahshi
+*** Información
+- Rollitos de col (origen egipcio)
+- Comensales: 4 personas
+- Fuente: http://www.directoalpaladar.com/recetas-de-carnes-y-aves/receta-de-malfuf-mahshi-o-rollitos-de-col
+*** Ingredientes
+- 1 col rizada
+- 500 gramos de carne picada
+- 100 gramos de arroz
+- 1 cebolla
+- 2 limones
+- Menta seca
+- Canela molida
+- Pimentón dulce
+- Pimienta molida
+- Sal
+- Aceite de oliva
+*** Preparación
+1. Lavamos la col y separamos las hojas. Las hervimos durante 4 minutos en agua
+   ligeramente salada. Las escurrimos y eliminamos el nervio duro.
+2. Pelamos y troceamos la cebolla finamente. En un bol mezclamos la carne, el
+   arroz lavado, la cebolla, un pellizco de sal y pimienta, media cucharadita de
+   canela y otra de pimentón.
+3. Repartimos el relleno en las hojas de la col y hacemos rollitos. Los
+   colocamos en el fondo de una olla, los cubrimos con agua y le echamos un
+   chorrito de aceite. Lo ponemos a hervir a fuego suave durante 45 minutos.
+4. 10 minutos antes de terminar la cocción le agregamos una cucharadita de menta
+   y el zumo de los limones.
 ** Medallones crujientes de pollo, queso y sobrasada
 *** Información
 - Comensales: 4 personas
@@ -1487,6 +1657,82 @@ Se puede usar de guarnición unas patatas Torner.
 8. Poner un cazo pequeño con aceite de oliva virgen extra, y cuando esté
    caliente, empezar a freír los medallones. Sacarlos a papel absorbente de
    cocina, y servir inmediatamente.
+** Minihamburguesas de pollo y espinacas
+*** Información
+- Comensales: 
+- Fuente: http://www.gastroandalusi.com/2014/11/mini-hamburguesas-de-pollo-y-espinacas.html
+*** Ingredientes del pan de curry
+- 200 gramos de harina panificable
+- 45 gramos de levadura fresca
+- 45 mililitros de agua templada
+- 25 gramos de leche de vaca
+- 1 cucharadita de sal
+- 15 gramos de azúcar
+- 20 mililitros de mantequilla
+- 1 huevo
+- 2 cucharadas de curry
+- 2 cucharadas de cúrcuma
+*** Ingredientes para la hamburguesa
+- 150 gramos de espinacas frescas
+- 400 gramos de pechuga de pollo picada
+- 1 huevo
+- 2 dientes de ajo
+- Pimienta
+- Sal
+- Nuez moscada
+- Mezcla de 4 quesos en daditos
+*** Otros ingredientes
+- Lechuga rizada
+- Pepinillos
+- Ketchup
+- Mayonesa
+- Queso en lonchas
+*** Preparación del pan
+1. En un bol poner la harina, la sal, el azúcar, la cúrcuma, el curry y la
+   mantequilla. Mezclar los ingredientes a mano para evitar cualquier grumo.
+2. Disuelve la levadura fresca en el agua templada e incorporarla a la harina
+   junto con el huevo y la leche. Mezcla a mano hasta conseguir una masa fina y
+   elástica . La masa tiene una textura pegajosa. Si notas que se te pega
+   demasiado en las manos puedes untarlas ligeramente con aceite y/o harina.
+3. Unta ligeramente con aceite mediante un papel o trapo un bol dónde verter la
+   masa. Y con las manos untadas en aceite, forma una única bola y cubrirla con
+   un trapo (que no suelte pelo) y deja reposar 15 minutos. (Durante el reposo
+   es importante evitar corrientes de aire. Por ejemplo, puedes dejarlo reposar
+   dentro de un armario, cajón o incluso dentro  del microondas apagado)
+4. Vuelve a cubrir la masa con un trapo y deja reposar otros 15 minutos.
+   (Durante el reposo es importante evitar corrientes de aire)
+5. Unta con aceite la prensa y las bolas de masa. Aplana la masa haciendo
+   presión para que quede una superficie regular. Cubre los moldes con un trapo
+   fino húmedo (permitiendo que el pan adquiera volumen). Deja fermentar el pan
+   hasta que doble su volumen (entre 60 y 90 minutos aproximadamente,
+   dependiendo de la temperatura ambiente. A más calor, más rápido fermentará).
+6. Al cabo de media hora, pon en marcha el horno a 220º de temperatura (cocción
+   arriba/abajo y ventilador). Saca la rejilla y coloca los moldes encima. Con
+   un pincel especial para cocina, pincela con agua los bollitos, y encima
+   espolvorea semillas de sésamo blanco y negro que se quedaran pegadas
+   fácilmente. Cuece los panes bajando la temperatura a 200º durante 8 o 10
+   minutos. Saca la rejilla y deja enfriar durante 5 minutos. A continuación,
+   desmolda los panes y ponlos directamente encima de la rejilla. Deja que se
+   enfríen de nuevo y ya estarán listos para preparar nuestra hamburguesa. 
+*** Preparación de la carne
+1. En un bol mezclar la carne picada de pollo, con el huevo, los daditos de
+   queso, las especias y las espinacas y el ajo finamente picados. Mezclar
+   hasta que todos los ingredientes queden incorporados. Quedará una masa un
+   poco blanda, así que para que luego sea más fácil manipularlas después,
+   metemos el bol con la carne en el frigorífico durante una hora, o
+   simplemente se le añaden dos cucharadas de pan rallado. Ahora para formarlas
+   con el Kit burger de Lékue es muy fácil. Depositamos parte de la masa en el
+   aro rojo, con ayuda de la prensa aplastamos la hamburguesa, y luego
+   cuidadosamente tiramos del aro rojo de silicona y ya tenemos las hamburguesas
+   perfectas. Si notamos que se pega un poco engrasamos con aceite la presa y
+   el aro y no habrá problemas.
+*** Montaje
+1. En primer lugar asar las hamburguesas en una plancha, sartén o barbacoa con
+   unas gotas de aceite de oliva virgen extra. Cortar el pan por la mitad y en
+   rodajas; el tomate, el queso y los pepinillos.
+2. Limpiamos las hojas de lechuga. Poner sobre la base del pan la lechuga en
+   primer lugar, después los pepinillos, el tomate, el queso, y la hamburguesa.
+3. Tapar con la parte superior del bollo de curry y cúrcuma y servir. 
 ** Murgh Kari
 *** Información
 - Curry de pollo indio
@@ -2075,6 +2321,25 @@ Se puede usar de guarnición unas patatas Torner.
     a fuego lento para que no se queme.
 11. Cortar los rollitos en tiras gruesas y acompañar de la salsa.
 
+** San Choy Bau
+*** Información
+- Fuentes: http://www.gastroandalusi.com/2013/09/beef-san-choy-bau-rollitos-de-cogollos.html
+*** Ingredientes
+- 2 chiles thailandeses rojos picados
+- 500 gramos de carne picada de ternera o pollo
+- 2 cogollos
+- 1 cucharada de aceite de cacahuete
+- 2 cucharadas de salsa de pescado
+- 2 cucharadas de zumo de limón
+- 1 cucharada de soja
+- Media taza de hojas picadas de cilantro y menta
+*** Preparación
+1. Freímos en una sartén caliente con el aceite de cacahuete los dos chiles
+   thailandeses rojos picados y la carne picada.
+2. Añadimos 2 cucharadas de salsa de pescado, 2 cucharadas de zumo de limón, 1
+   cucharada de soja y dejamos cocer durante 1 minuto.
+3. Retiramos del fuego y mezclamos con las hojas picadas de cilantro y menta.
+4. Para servir, lo repartimos en hojas de cogollos como si fueran platitos.
 ** Solomillo de cerdo al vino tinto
 *** Información
 - Fuente: http://webosfritos.es/2013/12/solomillo-de-cerdo-iberico-al-vino-tinto/
@@ -2350,6 +2615,32 @@ Se puede usar de guarnición unas patatas Torner.
 *** Notas
 - Se puede servir sobre arroz blanco cocido o sobre fideos chinos.
 * Croquetas
+** Bolitas de guacamole
+*** Información
+- Cantidad: 30 a 36 unidades
+- Fuente: http://www.veggieeats.com/gaucamole-popper/
+*** Ingredientes
+- 3 aguacates
+- 1/3 taza de tomates finamente troceados (1 o 2 tomates)
+- 1/3 taza de cebollas finamente troceadas (1/4 de cebolla aproximadamente)
+- 3 dientes de ajo finamente troceados
+- 2 cucharadas de zumo de lima
+- Sal
+- Pimienta negra
+- Aceite vegetal para freír
+- Media taza de harina
+- 3/4 taza de agua
+- Media cucharada de especias
+- 3 tazas de panko
+*** Preparación
+1. Echar todos los ingredientes en un bol y machacarlos bien hasta que quede una
+   masa homogénea. Hacer bolitas con la masa y meterlas en la nevera una hora y
+   media.
+2. Mezclar la harina, el agua y las especias en un bol y poner el panko en otro
+   bol.
+3. Calentar el aceite para freír.
+4. Pasar las bolitas por la mezcla, luego por el panko y freír hasta que estén
+   doradas.
 ** Croquetas de gambas
 *** Información
 - Cantidad: 50 croquetas pequeñas
@@ -2477,6 +2768,32 @@ Se puede usar de guarnición unas patatas Torner.
 #+LATEX: \clearpage
 
 * Ensaladas
+** Aguacate relleno de atún
+*** Información
+- Comensales: 4 personas
+- Fuente: http://m.directoalpaladar.com/recetario/receta-de-aguacate-relleno-con-atun
+*** Ingredientes
+- 2 agucates maduros pero que estén firmes
+- 1 lata de atún mediana
+- Media cebolla pequeña
+- 1 huevo cocido
+- 1 tomate
+- Un puñado de hojas de cilantro fresco
+- El zumo de un limón
+- 4 cucharadas de mayonesa
+- 2 cucharaditas de mostaza de dijon
+- Sal
+- Pimienta
+*** Preparación
+1. En un recipiente hondo se mezcla el atún con el tomate, la cebolla y el huevo
+   cocido, todos cortados finamente.
+2. Luego se cortan los aguacates en mitades y se les retira la semilla. Con
+   cuidado se les saca una buena parte de la pulpa que se corta en daditos y se
+   agrega al recipiente con el atún.
+3. Se añade la mayonesa, la mostaza y el zumo de limón.
+4. Por último se agrega el cilantro cortado finamente, sal y pimienta al gusto y
+   se revuelve todo muy bien.
+5. Con la mezcla se rellenan las mitades de aguacate. Servir inmediatamente.
 ** Ensalada alemana
 *** Información
 - Comensales: 2 personas
@@ -3042,6 +3359,36 @@ Se puede usar de guarnición unas patatas Torner.
 #+LATEX: \clearpage
 
 * Empanadas y hojaldres
+** Empanadillas de gambas
+*** Información
+- Fuente: http://www.sabororiental.com/empanadillas-de-gambas-siomay/
+*** Ingredientes de relleno
+- 100 gramos de carne picada de pollo
+- 100 gramos de gambas peladas
+- 50 gramos de harina de tapioca
+- Una pizca de azúcar
+- 1 cucharada pequeña de sal
+- 1 cucharada pequeña de aceite de sésamo
+*** Ingredientes del wonton
+- Pasta de wonton
+- 1 cucharada de zanahorias troceadas pequeñas
+*** Ingredientes de la salsa de cacahuetes
+- 1 vaso de agua
+- 2 cucharadas de mantequilla de cacahuetes
+- Una pizca de sal
+- Una pizca de azúcar moreno
+- Una cucharada pequeña de zumo de lima
+*** Preparación
+1. Preparar el relleno. Poner a triturar todos los ingredientes de relleno.
+2. Añadir el relleno a la pasta. Coger una cucharada del relleno y ponerlo en
+   el centro de la pasta. Cubrirlo, dejando una parte abierta para añadir las
+   zanahorias troceadas.
+3. Poner a hervir 1 litro de agua en una olla. Preparar un aparato para cocinar
+   al vapor. Cocinar el siomay al vapor durante 20 minutos.
+4. Mientras tanto, preparar la salsa de cacahuete. Mezclar todos los
+   ingredientes bien en una olla pequeña. Poner a hervir y sacarlo de fuego.
+   Añadir el zumo de lima al final.
+5. Servir el siomay con la salsa cacahuetes.
 ** Empanada de jamón, queso y dátiles
 *** Información
 - Comensales: 8 o 10 personas
@@ -3276,6 +3623,34 @@ Se puede usar de guarnición unas patatas Torner.
   diámetro.
 - Si prefieres que el beicon tenga un sabor más intenso, pásalo un minuto por la
   sartén sin aceite y a fuego fuerte.
+** Tartaletas de revuelto de boletus
+*** Información
+- Comensales: 4 personas
+- Fuente: http://webosfritos.es/2014/10/tartaletas-de-revuelto-de-boletus/
+*** Ingredientes
+- 4 tartaletas de hojaldre
+- 300 gramos de boletus
+- 150 gramos de ajetes
+- 200 gramos de gambas
+- 3 huevos
+- Sal
+- 2 cucharadas de aceite de oliva virgen extra
+*** Preparación
+1. Prepara las tartaletas como te enseñé en esta entrada.
+2. Limpia y corta los boletus en láminas un poco gruesas. Reserva.
+3. Limpia los ajetes, dejando la parte más tierna y quita bien toda la tierra.
+   Córtalos en trozos. Reserva.
+4. Pela las gambas y reserva.
+5. Pon en una sartén el aceite de oliva virgen extra. Echa los ajetes a freír
+   con una pizca de sal. Cuando estén listos, retíralos y escúrrelos. Reserva.
+6. En el mismo aceite cuando esté caliente, añade los boletus con una pizca de
+   sal y deja que se hagan a fuego medio. Añade los ajetes fritos y las gambas
+   crudas.
+7. Bate los huevos con otra pizca de sal, y viértelos inmediatamente sobre los
+   boletus, ajetes y gambas. Da unas vueltas a fuego fuerte, y retira cuando el
+   huevo no esté cuajado del todo; el propio calor de los ingredientes, lo
+   terminará de hacer, pero quedando jugoso, que es el secreto.
+8. Sirve inmediatamente.
 ** Trenza de hojaldre rellena de puerro y salmón
 *** Información
 - Comensales: 6 personas
@@ -3548,6 +3923,36 @@ Se puede usar de guarnición unas patatas Torner.
 #+LATEX: \clearpage
 
 * Mariscos
+** Almejas casino
+*** Información
+- Fuente: http://m.cocinasemana.com/recetas/receta/almejas-casino/25960
+*** Ingredientes
+- 18 almejas en concha, lavadas
+- 2 cucharadas de mantequilla
+- Media taza de pimentón rojo, sin semillas, pelado y picado finamente
+- 1 cebolla roja pequeña rallada
+- 1 diente de ajo triturado
+- Un cuarto de taza de vino blanco seco o Vermouth
+- Media taza de migas de pan hechas en casa
+- Un cuarto de taza de queso parmesano rallado
+- Un cuarto de taza de perejil liso rallado
+- Pimienta molida
+- 3 tajadas de tocineta cortadas en pedazos
+- Trozos de limón para servir
+*** Preparación
+1. Ponga la rejilla en el horno. Coloque las conchas lavadas en una bandeja y
+   hornéelas de 5 a 7 minutos, hasta que se abran, y deseche las que quedaron
+   cerradas. 
+2. Guarde el líquido que suelten y póngalas sobre una concha grande o un plato
+   resistente al calor.
+3. Derrita la mantequilla a fuego medio. Saltee la cebolla con el ajo triturado
+   y el pimentón. Revuelva  ocasionalmente, durante 5 minutos. 
+4. Agregue el vino y el líquido que soltaron las almejas y cocine hasta que se
+   reduzca a la mitad. 
+5. Retire del fuego y añada la miga de pan, luego el parmesano, el perejil y un
+   poco de pimienta molida. 
+6. Vierta esta mezcla sobre las almejas. Coloque la tocineta encima y dore
+   durante 5 minutos. Sirva con los trozos de limón.
 ** Aguacate con gambas
 *** Información
 - Fuente: http://kocinarte.com/recetas/aguacate-con-gambas
@@ -3932,6 +4337,45 @@ unos 12 minutos o hasta que esté en su punto.
 4. Sirve el salpicón de pochas y acompáñalo con unos trocitos de
    pulpo. Riega con un poco de vinagreta y añade una pizca de pimentón
    dulce.
+** Sepia a la plancha con salsa negra
+*** Información
+- Comensales: 4 personas
+- Fuente: http://webosfritos.es/2014/11/sepia-la-plancha-con-salsa-negra/
+*** Ingredientes
+- 1 kilo de sepia
+- Un poco de sal
+- Un poco de perejil
+- Media cucharada de aceite de oliva virgen extra
+*** Ingredientes para la salsa
+- 3 cucharadas de aceite de oliva virgen extra
+- 1 diente de ajo
+- 2 cebollas 
+- 3 tomates grandes maduros
+- 1 pimiento verde
+- 250 gramos de fumet de pescado
+- Una pizca de pimienta
+- Una pizca de sal
+- Media cucharada de azúcar
+- 75 gramos de brandy
+- 4 sobres de tinta de calamar
+*** Preparación de la salsa
+1. Corta el ajo, la cebolla y el pimiento en dados pequeños. Reserva.
+2. Pela los tomates y córtalos también en dados. Reserva.
+3. Echa el aceite en una sartén y ponla al fuego. Cuando el aceite esté caliente
+   fríe el ajo y la cebolla a fuego medio.
+4. Cuando estén a medio hacer, añade el pimiento.
+5. A los 5 minutos incorpora el tomate. Añade una pizca de sal y la media
+   cucharada de azúcar.
+6. Cuando la salsa haya reducido echa el brandy y da unas vueltas.
+7. Viértela en un vaso de batidora y tritura. Vuélcala en un cazo y pon a fuego
+   medio.
+8. Echa la tinta en el fumet y remueve. Incorpora esta mezcla al cazo de la
+   salsa. Deja al fuego 5 minutos. Tiene que quedarte un poco espesa. Reserva.
+*** Preparación de la sepia
+1. Lava, limpia, seca y trocea la sepia.
+2. Pon la plancha al fuego y echa unas gotas de aceite de oliva virgen extra.
+   Echa un poco de sal a la sepia y ponla en la plancha hasta que esté hecha.
+3. Sirve con la salsa caliente. Espolvorea una pizca de perejil por encima.
 ** Tallarines de surimi
 *** Información
 - Comensales: 4 personas
@@ -4044,6 +4488,235 @@ unos 12 minutos o hasta que esté en su punto.
    hora removiendo de vez en cuando.
 *** Notas
 - Se puede tomar en tostadas acompañada de queso ricotta o queso de cabra.
+* Panes y pizzas
+** Garbanzos pizzeros
+*** Información
+- Fuente: http://www.amuse-your-bouche.com/pizza-roasted-chickpeas/
+*** Ingredientes
+- 240 gramos de garbanzos cocidos
+- Media cucharada de aceite
+- Media cucharadita de hierbas italianas
+- Sal
+- Pimienta negra
+- Albahaca
+- 1 cucharada de puré de tomate
+- 3 tomates secos troceados
+- 30 gramos de queso mozzarella rallado
+- 1 cucharada de piñones
+*** Preparación
+1. Precalentar el horno a 190º.
+2. Mezclar los garbanzos con el aceite, las hierbas y salpimentar y esparcirlos
+   por la bandeja de horno. Tostar durante unos 15 minutos, hasta que queden 
+   crujientes y dorados.
+3. Sacarlos del horno y añadirles el puré de tomate, los tomates secos, la
+   albahaca, la mozzarella y los piñones. Mezclar bien y volver a meterlos al
+   horno otro 5 minutos, hasta que el queso se haya derretido. Servir
+   inmediatamente.
+** Espirales de bacon y queso
+*** Información
+- Comensales: 4 personas
+- Fuente: http://webosfritos.es/2014/03/espirales-de-beicon-y-queso/
+*** Ingredientes
+- 500 gramos de harina panadera o de fuerza
+- 300 gramos de agua
+- 20 gramos de aceite de oliva virgen extra
+- 10 gramos de levadura fresca
+- 10 gramos de sal
+- 180 gramos de queso mozarella y parmesano
+- 150 gramos de beicon cortado en dados
+- 300 gramos de tomate frito casero
+- Una pizca de orégano
+- Aceite de oliva virgen extra para pincelar
+*** Preparación
+1. Poner en un cuenco hermoso la harina y desmigar la levadura en ella con la
+   ayuda de los dedos.
+2. Echar el resto de los ingredientes y mezclar con la mano o con el extremo
+   redondeado de la rasqueta de plástico —si tienes— durante 3 minutos, hasta
+   que la masa empiece a formarse.
+3. Sacar la masa y ponerla en la superficie de trabajo. No poner más harina en
+   la encimera.
+4. Tomar la masa entre las manos por el lado izquierdo, deslizando los dedos por
+   debajo de la masa, y con los pulgares por encima, pero sin presionar la masa.
+5. Levantar la masa y dejarla caer.
+6. Sin soltarla estirar la masa, levantarla sobre sí misma formando un arco para
+   atrapar el aire, y cerrarla sobre sí misma.
+7. Este proceso hay que repetirlo durante unos minutos hasta que la masa sea
+   firme pero se maneje bien.
+8. Formar una bola, escondiendo los bordes hacia abajo.
+9. Untar un cuenco con aceite de oliva virgen extra, y dejar reposar la bola de
+   masa dentro de él. Cubrir con un plástico de cocina untado de aceite también.
+   Dejar una hora u hora y media reposando en un sitio alejado tanto de fuentes
+   de calor como de corrientes.
+*** Formado
+1. Poner harina generosamente en la encimera. Esto es importante, porque si no
+   se te pegará al hacer la espiral.
+2. Sacar la bola. Aplanar con un rodillo hasta formar un rectángulo.
+3. Extender el tomate frito hasta unos dos centímetros de los bordes.
+4. Poner a continuación el queso bien repartido y el beicon por encima.
+   Espolvorear con orégano.
+5. Enrollar la masa como si estuviésemos haciendo un brazo gitano. Si se te pega
+   a la encimera en este proceso, pon un poco de harina, y si tienes rasqueta o
+   una espátula, te puedes ayudar de ella para enrollarla.
+6. Cortar rodajas de unos 2 cm de ancho con decisión y con un cuchillo de sierra
+   o con la propia rasqueta. Colocarlas con cuidado en el molde engrasado,
+   solapando un poco cada trozo con el anterior.
+7. Dejar reposar unos 45 minutos, tapado con un plástico transparente untado en
+   aceite.
+8. Hacia la mitad del reposo precalentar el horno a 250ºC, calor arriba y abajo.
+9. Si te apetece puedes pincelarlas con un poco de aceite de oliva virgen extra.
+   Hornear durante 15 minutos a 240ºC, y otros 10 minutos a 220ºC. Sacar del
+   molde y dejar enfriar en rejilla.
+
+** Pan chino
+*** Información
+- Fuente: http://bizcochela.blogspot.com.es/2013/01/pan-chino-delicioso.html
+*** Ingredientes
+- 300 gramos de harina
+- 25 gramos de levadura panadería
+- 150 mililitros de leche templada
+- 1 cucharada sopera de manteca de cerdo
+- 1 cucharadita de sal
+- 2 cucharadas de azúcar
+*** Preparación
+1. Echamos la levadura en la leche templada y removemos hasta que se diluya.
+2. Mezclamos la harina con la sal y el azúcar. Le añadimos la leche con la
+   levadura, la manteca y amasamos.
+3. Dejar reposar 1 hora aproximadamente a temperatura ambiente (o media hora en
+   el horno a 50º).
+4. Una vez ha subido, cogemos porciones y hacemos unas bolas, que estiramos a lo
+   largo y enrollamos. 
+5. Y volvemos a meter en el horno unos 15 minutos a 50º o media hora a
+   temperatura ambiente.
+6. Cocemos los panes al vapor durante 30 minutos con el pliegue hacia abajo.
+7. ponemos aceite de girasol a calentar y los freímos a fuego fuerte (si está
+   muy flojo quedará muy aceitoso) hasta que estén dorados.
+8. Escurrimos sobre papel de cocina absorbente y servimos.
+** Pan de hamburguesa
+*** Información
+- Fuente: http://bizcochela.blogspot.com.es/2013/11/pan-de-hamburguesa.html
+*** Ingredientes
+- 500 gramos de harina de trigo normal
+- 10 gramos de levadura fresca
+- 10 gramos de sal
+- 20 gramos de azúcar
+- 1 huevo
+- 125 gramos de agua caliente
+- 150 gramos de leche
+- 25 mililitros de aceite de girasol
+- Un poco de leche para pintar los panes
+- Sésamo
+*** Preparación
+1. Ponemos en un bol la leche, el agua, el huevo, el aceite, la sal y la
+   levadura y batimos todo muy bien, hasta que la levadura esté totalmente
+   diluida.
+2. Añadimos luego la harina y el azúcar y amasamos bien, unos 5 minutos, para
+   que quede todo bien ligado. Debe quedar un poco pegajoso.
+3. Hacemos una bola y tapamos con un par de paños. Dejamos reposar una hora y
+   media. Doblará su volumen.
+4. Pasado ese tiempo sacamos la masa del bol y volvemos a amasar muy bien,
+   perderá todo el volumen, ya que le quitaremos el aire al amasarlo. 
+5. Y si queréis panes grandes, haced bolas de 100 gramos y las vais colocando
+   en la fuente de horno con papel sulfurizado. Yo las hice de 50 gramos, que
+   quereís los panes más pequeños.
+6. Aplastamos un poco las bolas y dejamos reposar otra hora tapado, yo prefiero
+   meterlo en el horno apagado, para evitar corrientes y suban mejor.
+7. Pasada la hora, sacamos del horno, cogemos un cazo de aluminio con agua, lo
+   metemos en el fondo del horno y lo encendemos a 220º, que vaya calentando
+   mientras decoramos los panes.
+8. Pincelamos los panes con leche y los espolvoreamos con sésamo. Y metemos al
+   horno, que bajaremos a 180º, durante 20 minutos.
+** Pizza con scamorza, patata y romero
+*** Información
+- Comensales: 4 personas
+- Fuente: http://canalcocina.es/video-receta/pizza-con-scamorza-patate-e-romero-pizza-con-scamorza-y-patata
+*** Ingredientes para la masa
+- 1 litro de agua tibia
+- 1300 gramos de harina
+- 10 gramos de levadura fresca
+- 50 gramos de sal
+- 1 chorro de aceite de oliva
+*** Ingredientes para la pizza
+- 500 gramos de patatas cocidas en rodajas finas
+- 500 gramos de scamorza
+- 1 trozo de parmesano para rallar
+- 4 ramitas de romero fresco
+- Aceite de oliva virgen
+- Sal
+- Pimienta
+*** Preparación
+1. Preparamos la masa de pizza. Para ello, mezclamos agua tibia con
+   levadura en un bol. Incorporamos la harina, el aceite, el parmesano
+   rallado y la sal. Amasamos bien y dejamos reposar durante una hora.
+2. Transcurrido el tiempo, estiramos la masa y la colocamos sobre una
+   bandeja de horno.
+3. A continuación, la cubrimos con la scamorza, parmesano rallado,
+   aceite, unas rodajas de patatas muy finas y romero. Salpimentamos
+   al gusto.
+4. Por último, horneamos a 220ºC durante 25 minutos.
+** Pizza de carne picada con huevo
+*** Información
+- Comensales: 2 personas
+- Tiempo: 40 minutos
+- Fuente: http://kocinarte.com/recetas/pizza-de-carne-picada-con-huevo
+*** Ingredientes
+- Una masa de pizza
+- 250 gramos de carne picada
+- 50 gramos de bacon picado
+- 50 mililitros de vinho blanco
+- 2 huevos
+- 1 diente de ajo picado
+- 1 cuchara de cebolla picada
+- 2 cucharadas de aceite
+- 1 cucharadita de orégano
+- 3 cucharadas de salsa de tomate
+- 150 gramos de queso Mozzarela
+- Sal
+- Pimenta
+*** Preparación
+1. En una sartén freír el bacon para liberar un poco de grasa. A continuación,
+   añadir el aceite, la cebolla, el ajo y dejar que se dore.
+2. Añadir la carne picada y el vino blanco. Sazonar con sal, pimienta, orégano y
+   dejar cocinar.
+3. Estirar la masa de pizza. Extender la salsa de tomate, cubrir con la carne y
+   el queso. Espolvorear con orégano, abrir los huevos y ponerlos encima.
+4. Hornear en horno precalentado a 180º durante 10-15 minutos.
+** Pizza hojaldrada de verduras y pollo
+*** Información
+- Fuente: http://www.olorahierbabuena.com/2014/03/pizza-hojaldrada-de-verduras-y-pollo.html
+*** Ingredientes
+- 2 puerros
+- 2 pimientos verdes
+- 1 berenjena grande
+- 3 pimientos del piquillo
+- 3 tomates naturales
+- 1 rama de romero
+- 1 pechuga de pollo en tiras
+- 30 gramos de aceite de oliva virgen
+- Sal
+- 2 cucharadas de azúcar moreno
+- 1 huevo
+- Queso rallado
+- 1 lámina de hojaldre
+*** Preparación
+1. En una sartén pasamos la pechuga a la plancha, reservamos.
+2. Troceamos en cuadraditos las verduras por separado y reservamos.
+3. Vertemos el aceite y pochamos las verduras en este orden, primero los puerros
+   con la rama de romero, los pimientos verdes, la berenjena, los pimientos del
+   piquillo y los tomates, añadimos la sal y el azúcar y dejamos que reduzca el
+   agua a fuego lento. Cuando casi estén hechas, añadimos la pechuga en tiras
+   para que se integren sabores.
+4. Ponemos sobre un escurridor que suelten todo el jugo posible.
+*** Montaje
+1. Ponemos la lámina de hojaldre sobre una bandeja apta para el horno, pinchamos
+   la superficie y pincelamos con el huevo batido (Esto hará que el hojaldre no
+   se quede más blando por el agua de las verduras.
+2. Vertemos las verduras y el pollo sobre la base de hojaldre, quitamos la rama
+   de romero y cubrimos con el queso rallado.
+3. Horneamos a 200º calor arriba y abajo durante 20 minutos o hasta que el queso
+   esté fundido y dorado.
+
+#+LATEX: \clearpage
+
 * Pasta
 ** Cacio e Pepe
 *** Información
@@ -4514,6 +5187,46 @@ unos 12 minutos o hasta que esté en su punto.
 10. Sacamos y emplatamos para servir bien caliente acompañado de un poco de
     crema de guisantes.
 
+** Macarrones con bechamel de morrones
+*** Información
+- Comensales: 5 o 6 personas
+- Fuente: http://www.gastroandalusi.com/2014/11/receta-de-pasta-macarrones-con-bechamel-de-pimiento-patatas-fritas-queso-cumbres-del-segura-patas-santo-reino-degusta-jaen.html
+*** Ingredientes
+- 500 gramos de macarrones
+- 125 gramos de harina
+- 125 gramos de mantequilla
+- 1 litro de leche
+- 2 quesitos
+- 1 lata de pimientos morrones
+- Queso semicurado de cabra
+- Patatas fritas con aceite de oliva
+- Pimienta blanca
+- Nuez moscada
+- Sal
+*** Preparación
+1. En una olla con abundante agua hirviendo cocer los macarrones con el tiempo
+   indicado por el fabricante.
+2. En un procesador de alimentos, o con un mortero, machacar las patatas fritas
+   hasta dejarlas hechas polvo (como si fuera pan rallado). Reservar.
+3. Hacer lo mismo con un pequeño taco de queso, e integrar con las patatas para
+   que queden mezclados. Reservar.
+4. Para la bechamel de morrones, en un cazo verter la leche y poner a calentar a
+   fuego medio (sin que llegue a hervir).
+5. Mientras, en un cazo a fuego medio, poner la mantequilla hasta que se
+   derrita, justo entonces añadir la harina y con ayuda de unas varillas mover
+   hasta que se integren juntas y sin grumos. Mover unos segundos y añadir toda
+   la leche caliente de golpe sin dejar de mover. Sazonar con pimienta blanca,
+   sal y nuez moscada y pasar la "bechamel" al vaso de la batidora. Añadir 2
+   quesitos y la lata escurrida de pimientos morrones. Batir a velocidad media
+   hasta que se desintegren los morrones. Reservar.
+6. Escurrir los macarrones y verter en una bandeja resistente al horno
+   previamente engrasada con aceite de oliva virgen extra. Verter la bechamel de
+   pimiento morrón, esparcir los tacos de queso de cabra semicurado y mover para
+   que todo quede integrado. Espolvorear las patatas fritas con el queso por la
+   superficie de forma homogénea.
+7. Hornear en la bandeja del medio durante 15 minutos a 180º durante 3 a 5
+   minutos con la función del gratinado (o con el fuego sólo en la parte
+   superior) para que se gratine y las patatas queden doradas.
 ** Macarrones con queso glamurosos
 *** Información
 - Comensales: 4 personas
@@ -4597,6 +5310,45 @@ unos 12 minutos o hasta que esté en su punto.
 3. Una vez cocida la pasta, colocar un nido en cada plato y salsear bien.
 4. Encima de los nidos colocar unas tiras de salmón ahumado y terminar el plato
    con unas hojas de albahaca.
+** Pad Thai
+*** Información
+- Comensales: 3 personas
+- Fuente: http://www.sabororiental.com/pad-thai-fideos-de-arroz-estilo-tailandes/
+*** Ingredientes
+- 300 gramos de fideos de arroz ancho
+- 600 gramos de gambas
+- 2 vasos de brotes de soja (lavarlos bien y quitar las colas)
+- 1 vaso de cebolla tierna cortada fina
+- 3 huevos
+- 5 dientes de ajo troceados
+- 5 cucharadas de aceite de girasol
+*** Ingredientes de la salsa
+- 1/3 vaso de salsa de pescado
+- 1/3 vaso de pasta de tamarindo
+- 1 cucharada de azúcar moreno
+*** Ingredientes para servir
+- 3 cucharadas de anacardos fileteados.
+- 1 lima
+*** Preparación
+1. Limpiar las gambas, quitar la cabeza y las cascaras, dejando sólo las colas.
+2. Poner los fideos a remojar con agua caliente durante 12 minutos. Escurrir y
+   echar agua fría. Dejarlos apartados.
+3. Preparar la salsa, mezclar todos los ingredientes en un vaso y dejarlo
+   apartado.
+4. Poner a calentar una sartén. Echar 5 cucharadas de aceite de girasol. Saltear
+   los ajos troceados.
+5. En cuanto estén dorados, añadir las gambas. Saltearlas hasta que las gambas
+   estén cocidas.
+6. Añadir los fideos, la sal, y la cebolla tierna. Saltearlos hasta que esté
+   todo bien mezclado.
+7. Añadir la salsa. Comprueba si los fideos están cocidos, si todavía están
+   duros, añadir 1 o 2 cucharadas de agua.
+8. Quitar la sartén del fuego. Por último, añadir los brotes de soja y
+   mezclarlo.
+9. En otra sartén, freir los huevos con una pizca de sal. Hacer una tortilla muy
+   fina. Sacar del fuego y cortarlas alargadas.
+10. Para servir, poner padthai en un plato, echar los anacardos y exprimir un
+    poco de lima encima. 
 ** Pasta con champiñones
 *** Información
 - Comensales: 4 personas
@@ -5238,6 +5990,43 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    picado. Salpimentamos y añadimos el cebollino picado al gusto.
 4. Rellenamos bien las patatas, espolvoreamos con queso rallado y horneamos a
    200º hasta que el queso se funda y se gratine un poco.
+** Patatas rellenas de pollo y champiñones
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.recetasdiarias.com/recetas/verdura/patatas-rellenas-de-pollo-y-champinones/
+*** Ingredientes
+- 6 patatas medianas
+- 3 filetes de pechuga de pollo
+- 6 champiñones
+- 1 cebolla pequeña
+- 35 gramos de mantequilla
+- 100 mililitros de crema de leche
+- 100 gramos de queso emmental rallado
+- Aceite
+- Sal
+- Pimienta
+*** Preparación
+1. Hervimos las patatas con piel durante unos 25 o 30 minutos, escurrimos y
+   dejamos enfriar.
+2. Mientras, salpimentamos las pechugas y cortamos a dados. Pelamos y picamos la
+   cebolla bien pequeña. Lavamos y cortamos los champiñones a daditos.
+   Reservamos.
+3. En una sartén con un poco de aceite, a fuego medio, agregamos la cebolla,
+   salpimentamos y pochamos por 10 minutos.
+4. Seguidamente añadimos las pechugas de pollo cortadas a dados, cocinamos unos
+   10 minutos.
+5. Mientras se cocina el pollo, en una sartén pequeña con 10 gramos de
+   mantequilla, agregamos los champiñones. Una vez hechos, los añadimos a la
+   sartén del pollo y damos unas vueltas y reservamos fuera del fuego.
+6. Partimos las patatas por la mitad y con la ayuda de una cuchara vamos
+   vaciándolas procurando que quede suficiente base para rellenarlas después.
+7. En un bol mezclamos la patata extraída, chafamos bien, agregamos el contenido
+   de la sartén del pollo y los champiñones, la crema de leche y los 25 gramos
+   de mantequilla restante.
+8. Rectificamos de sal y pimienta, damos unas vueltas más cuando la mezcla esté
+   bastante homogénea, si es necesario en el fuego a fuego bajo.
+9. Rellenamos las patatas y las ponemos en una bandeja para hornearlas,
+   esparcimos el queso rallado y gratinamos durante 5 minutos a unos 180º.
 ** Patatas Torner
 *** Información
 - Comensales: guarnición de otros platos
@@ -5282,6 +6071,18 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 2. Añadimos en un bol el atún, la cebolla picada, el queso para untar, el tomate
    frito y la mantequilla.
 3. Servir sobre tostas o panecillos tostados.
+** Paté de berenjenas y piquillo
+*** Ingredientes
+- 2 berenjenas
+- 1 bote de pimientos del piquillo
+- Sal
+- Pimienta
+- Zumo de limón
+*** Preparación
+1. Pelar las berenjenas, cortarlas por la mitad y realizar unos cortes
+   transversales en la parte interior. Asarlas en el horno.
+2. Batir todos los ingredientes juntos y añadir el zumo de limón para que
+   se pueda conservar varios días.
 ** Paté de cabracho
 *** Ingredientes
 - 500 gramos de cabracho ya cocido y limpio
@@ -5354,177 +6155,6 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    la manga en el frigorífico tres horas mínimo. Servir el paté con la manga
    pastelera dentro de los huevos, adornados con unas tiras de pimientos del
    piquillo de lata.
-
-#+LATEX: \clearpage
-
-* Pizzas
-** Garbanzos pizzeros
-*** Información
-- Fuente: http://www.amuse-your-bouche.com/pizza-roasted-chickpeas/
-*** Ingredientes
-- 240 gramos de garbanzos cocidos
-- Media cucharada de aceite
-- Media cucharadita de hierbas italianas
-- Sal
-- Pimienta negra
-- Albahaca
-- 1 cucharada de puré de tomate
-- 3 tomates secos troceados
-- 30 gramos de queso mozzarella rallado
-- 1 cucharada de piñones
-*** Preparación
-1. Precalentar el horno a 190º.
-2. Mezclar los garbanzos con el aceite, las hierbas y salpimentar y esparcirlos
-   por la bandeja de horno. Tostar durante unos 15 minutos, hasta que queden 
-   crujientes y dorados.
-3. Sacarlos del horno y añadirles el puré de tomate, los tomates secos, la
-   albahaca, la mozzarella y los piñones. Mezclar bien y volver a meterlos al
-   horno otro 5 minutos, hasta que el queso se haya derretido. Servir
-   inmediatamente.
-** Espirales de bacon y queso
-*** Información
-- Comensales: 4 personas
-- Fuente: http://webosfritos.es/2014/03/espirales-de-beicon-y-queso/
-*** Ingredientes
-- 500 gramos de harina panadera o de fuerza
-- 300 gramos de agua
-- 20 gramos de aceite de oliva virgen extra
-- 10 gramos de levadura fresca
-- 10 gramos de sal
-- 180 gramos de queso mozarella y parmesano
-- 150 gramos de beicon cortado en dados
-- 300 gramos de tomate frito casero
-- Una pizca de orégano
-- Aceite de oliva virgen extra para pincelar
-*** Preparación
-1. Poner en un cuenco hermoso la harina y desmigar la levadura en ella con la
-   ayuda de los dedos.
-2. Echar el resto de los ingredientes y mezclar con la mano o con el extremo
-   redondeado de la rasqueta de plástico —si tienes— durante 3 minutos, hasta
-   que la masa empiece a formarse.
-3. Sacar la masa y ponerla en la superficie de trabajo. No poner más harina en
-   la encimera.
-4. Tomar la masa entre las manos por el lado izquierdo, deslizando los dedos por
-   debajo de la masa, y con los pulgares por encima, pero sin presionar la masa.
-5. Levantar la masa y dejarla caer.
-6. Sin soltarla estirar la masa, levantarla sobre sí misma formando un arco para
-   atrapar el aire, y cerrarla sobre sí misma.
-7. Este proceso hay que repetirlo durante unos minutos hasta que la masa sea
-   firme pero se maneje bien.
-8. Formar una bola, escondiendo los bordes hacia abajo.
-9. Untar un cuenco con aceite de oliva virgen extra, y dejar reposar la bola de
-   masa dentro de él. Cubrir con un plástico de cocina untado de aceite también.
-   Dejar una hora u hora y media reposando en un sitio alejado tanto de fuentes
-   de calor como de corrientes.
-*** Formado
-1. Poner harina generosamente en la encimera. Esto es importante, porque si no
-   se te pegará al hacer la espiral.
-2. Sacar la bola. Aplanar con un rodillo hasta formar un rectángulo.
-3. Extender el tomate frito hasta unos dos centímetros de los bordes.
-4. Poner a continuación el queso bien repartido y el beicon por encima.
-   Espolvorear con orégano.
-5. Enrollar la masa como si estuviésemos haciendo un brazo gitano. Si se te pega
-   a la encimera en este proceso, pon un poco de harina, y si tienes rasqueta o
-   una espátula, te puedes ayudar de ella para enrollarla.
-6. Cortar rodajas de unos 2 cm de ancho con decisión y con un cuchillo de sierra
-   o con la propia rasqueta. Colocarlas con cuidado en el molde engrasado,
-   solapando un poco cada trozo con el anterior.
-7. Dejar reposar unos 45 minutos, tapado con un plástico transparente untado en
-   aceite.
-8. Hacia la mitad del reposo precalentar el horno a 250ºC, calor arriba y abajo.
-9. Si te apetece puedes pincelarlas con un poco de aceite de oliva virgen extra.
-   Hornear durante 15 minutos a 240ºC, y otros 10 minutos a 220ºC. Sacar del
-   molde y dejar enfriar en rejilla.
-
-** Pizza con scamorza, patata y romero
-*** Información
-- Comensales: 4 personas
-- Fuente: http://canalcocina.es/video-receta/pizza-con-scamorza-patate-e-romero-pizza-con-scamorza-y-patata
-*** Ingredientes para la masa
-- 1 litro de agua tibia
-- 1300 gramos de harina
-- 10 gramos de levadura fresca
-- 50 gramos de sal
-- 1 chorro de aceite de oliva
-*** Ingredientes para la pizza
-- 500 gramos de patatas cocidas en rodajas finas
-- 500 gramos de scamorza
-- 1 trozo de parmesano para rallar
-- 4 ramitas de romero fresco
-- Aceite de oliva virgen
-- Sal
-- Pimienta
-*** Preparación
-1. Preparamos la masa de pizza. Para ello, mezclamos agua tibia con
-   levadura en un bol. Incorporamos la harina, el aceite, el parmesano
-   rallado y la sal. Amasamos bien y dejamos reposar durante una hora.
-2. Transcurrido el tiempo, estiramos la masa y la colocamos sobre una
-   bandeja de horno.
-3. A continuación, la cubrimos con la scamorza, parmesano rallado,
-   aceite, unas rodajas de patatas muy finas y romero. Salpimentamos
-   al gusto.
-4. Por último, horneamos a 220ºC durante 25 minutos.
-** Pizza de carne picada con huevo
-*** Información
-- Comensales: 2 personas
-- Tiempo: 40 minutos
-- Fuente: http://kocinarte.com/recetas/pizza-de-carne-picada-con-huevo
-*** Ingredientes
-- Una masa de pizza
-- 250 gramos de carne picada
-- 50 gramos de bacon picado
-- 50 mililitros de vinho blanco
-- 2 huevos
-- 1 diente de ajo picado
-- 1 cuchara de cebolla picada
-- 2 cucharadas de aceite
-- 1 cucharadita de orégano
-- 3 cucharadas de salsa de tomate
-- 150 gramos de queso Mozzarela
-- Sal
-- Pimenta
-*** Preparación
-1. En una sartén freír el bacon para liberar un poco de grasa. A continuación,
-   añadir el aceite, la cebolla, el ajo y dejar que se dore.
-2. Añadir la carne picada y el vino blanco. Sazonar con sal, pimienta, orégano y
-   dejar cocinar.
-3. Estirar la masa de pizza. Extender la salsa de tomate, cubrir con la carne y
-   el queso. Espolvorear con orégano, abrir los huevos y ponerlos encima.
-4. Hornear en horno precalentado a 180º durante 10-15 minutos.
-** Pizza hojaldrada de verduras y pollo
-*** Información
-- Fuente: http://www.olorahierbabuena.com/2014/03/pizza-hojaldrada-de-verduras-y-pollo.html
-*** Ingredientes
-- 2 puerros
-- 2 pimientos verdes
-- 1 berenjena grande
-- 3 pimientos del piquillo
-- 3 tomates naturales
-- 1 rama de romero
-- 1 pechuga de pollo en tiras
-- 30 gramos de aceite de oliva virgen
-- Sal
-- 2 cucharadas de azúcar moreno
-- 1 huevo
-- Queso rallado
-- 1 lámina de hojaldre
-*** Preparación
-1. En una sartén pasamos la pechuga a la plancha, reservamos.
-2. Troceamos en cuadraditos las verduras por separado y reservamos.
-3. Vertemos el aceite y pochamos las verduras en este orden, primero los puerros
-   con la rama de romero, los pimientos verdes, la berenjena, los pimientos del
-   piquillo y los tomates, añadimos la sal y el azúcar y dejamos que reduzca el
-   agua a fuego lento. Cuando casi estén hechas, añadimos la pechuga en tiras
-   para que se integren sabores.
-4. Ponemos sobre un escurridor que suelten todo el jugo posible.
-*** Montaje
-1. Ponemos la lámina de hojaldre sobre una bandeja apta para el horno, pinchamos
-   la superficie y pincelamos con el huevo batido (Esto hará que el hojaldre no
-   se quede más blando por el agua de las verduras.
-2. Vertemos las verduras y el pollo sobre la base de hojaldre, quitamos la rama
-   de romero y cubrimos con el queso rallado.
-3. Horneamos a 200º calor arriba y abajo durante 20 minutos o hasta que el queso
-   esté fundido y dorado.
 
 #+LATEX: \clearpage
 
@@ -5738,6 +6368,40 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    hinojo) y la yema. Sazonar con sal y mezclar con el yogur y el jugo de
    cocción.
 
+** Crepes de salmón y ensalada
+*** Información
+- Comensales: 4 o 6 personas
+- Fuente: https://ww1.nestle.es/cocina/recetas/rollos-de-creps-con-salmon-y-ensalada/receta-10563.aspx
+*** Ingredientes
+- 8 lonchas de salmón ahumado
+- 2 cebolletas
+- 1 aguacate
+- 1 limón
+- 1 yogur natural
+- Unas hojas de rúcula
+- Sal
+- Pimienta negra
+*** Ingredientes de las crepes
+- 100 gramos de harina
+- 1 huevo
+- 300 mililitros de leche evaporada
+- Sal
+- Aceite
+*** Preparación
+1. Poner en un bol la harina, el huevo, la leche, un poco de sal y un chorrito
+   de aceite y mezclarlo bien. Dejarlo reposar unos 30 minutos en el refrigerador.
+2. Fundir, en una sartén pequeña, un poco de mantequilla y verter unas
+   cucharadas de la pasta de forma que cubra el fondo. Dorar la crepe por ambos
+   lados y hacer el resto de la misma forma.
+3. Dejarlas enfriar. Pelar el aguacate y cortar la pulpa en láminas no muy finas
+   para que no se rompan y rociarlo con el zumo del limón.
+4. Lavar las hojas de rúcula. Limpiar las cebolletas y cortarlas en trozos a lo
+   largo.
+5. Rellenar cada crepe con una loncha de salmón ahumado, dos láminas de
+   aguacate, dos de cebolleta, tres hojas de rúcula y una cucharada de yogur
+   mezclado con el zumo de limón de la maceración del aguacate, un poco de sal y
+   pimienta.
+6. Enrollarla sobre sí misma y colocarla en una fuente de servir.
 ** Lubina en salsa
 *** Información
 - Fuente: http://webosfritos.es/2012/02/lubina-en-salsa-para-tuper/
@@ -6113,6 +6777,28 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 11. Servimos los langostinos acompañados del arroz blanco y decoramos
     con perejil.
 
+** Rollitos de salmón y queso fresco
+*** Información
+- Comensales: 6 u 8 personas
+- Fuente: https://ww1.nestle.es/cocina/recetas/rollitos-de-salmon-y-queso-fresco-a-las-hierbas/receta-9143.aspx
+*** Ingredientes
+- 1 paquete de tortillas de maíz
+- 250 gramos de queso para untar bajo en grasa
+- 200 gramos de salmón ahumado
+- 2 cucharadas de eneldo fresco picado
+- 1 cucharada de perejil picado
+- 1 huevo
+- Aceite
+- Pimienta blanca
+*** Preparación
+1. Mezclar el queso con el eneldo, el perejil, 4 cucharadas de aceite y pimienta
+   blanca.
+2. Untar las tortas con la preparación anterior y cubrirlas con una loncha fina
+   de salmón.
+3. Enrollar las tortas, pintarlas con huevo batido y cocerlas en el horno,
+   precalentado a 200º, durante 10 o 12 minutos.
+*** Otras versiones
+- También se pueden hacer con jamón cocido y queso.
 ** Sardinas frescué
 *** Información
 - Comensales: 4 personas
@@ -6631,6 +7317,48 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 6. Adornar con unas rosas de salmón una vez servido, con unas puntitas de
    espárrago a la plancha dentro de ellas. Más abajo, en los consejos, te
    explico cómo se hacen.
+** Crema de zanahoria con hojaldre
+*** Información
+- Fuente: http://www.cuchillitoitenedor.com/2013/03/crema-de-zanahoria-con-hojaldre.html
+*** Ingredientes de la crema
+- 2 patatas
+- 1 cebolla grande
+- 1 kilo de zanahorias
+- Caldo de pollo
+- 2 cucharadas de aceite de oliva
+- Sal
+- Semillas de sésamo
+- Alguna verdura para decorar
+*** Ingredientes del hojaldre
+- 1 plancha de hojaldre fresco
+- 1 huevo batido para pintar
+- Semillas de sésamo
+- Orégano
+- Albahaca
+- Sal gruesa
+*** Preparación de la crema
+1. Pelamos las patatas, las zanahorias y la cebolla, cortándolas en trozos de
+   tamaño regular.
+2. Las ponemos en una cazuela con 2 cucharadas de aceite de oliva a fuego medio
+   y salteamos un par de minutos mezclando todo muy bien.
+3. Agregamos caldo de pollo hasta cubrir las verduras y tapamos la cazuela.
+4. Dejamos cocinar hasta que las zanahorias estén tiernas.
+5. Si es necesario, rectificamos la sal.
+6. Trituramos con una batidora eléctrica hasta que quede una crema bien
+   uniforme. Si nos gusta más ligera, añadiremos algo más de caldo de pollo.
+*** Preparación del hojaldre
+1. Estiramos la plancha de hojaldre y cortamos tiras de 2 centímetros de ancho.
+   Trabajaremos con rapidez, para que el hojaldre no se caliente, lo que haría
+   que fuese más difícil de manipular.
+2. Mezclamos en un cuenco el huevo batido, el orégano, la albahaca, las semillas
+   de sésamo y la sal.
+3. Pintamos las tiras de hojaldre con esta mezcla. Las tomamos por ambos
+   extremos y las enrollamos dando unas cuantas vueltas de tirabuzón. Pintamos
+   de nuevo con la mezcla de huevo.
+4. Metemos al horno precalentado a 180º hasta que se vean doraditas. Retiramos y
+   dejamos sobre una rejilla hasta que se enfríen del todo.
+5. Servimos la crema de zanahorias bien caliente, acompañada de los palitos de
+   hojaldre.
 ** Crema de zanahorias
 *** Información
 - Comensales: 4 personas
@@ -7228,6 +7956,35 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 #+LATEX: \clearpage
 
 * Verduras
+** Albóndigas de calabacín
+*** Información
+- Fuente: http://cocinandotelavida.blogspot.com.es/2014/06/chiftele-de-dovlecel-o-albondigas-de.html?m=1
+*** Ingredientes
+- 2 calabacines limpios y pelados 
+- 1 patata grande
+- 1 cebolla
+- 1 huevo
+- 3 cucharadas de harina
+- 3 dientes de ajo
+- Perejil
+- Sal
+- Pimienta
+*** Ingredientes de la salsa
+- Yogurt griego  (no azucarado)
+- 2 o 3 ajos 
+- Aceite de oliva
+- Sal
+*** Preparación
+1. Se limpia y se ralla el calabacín  y la patata con el rallador pequeño. Se
+   escurre bien del líquido que suelta.
+2. Se añade la cebolla picada, el ajo y el perejil. Se vuelve a escurrir un poco
+   más si es necesario. 
+3. Se añade el huevo entero, la  harina, la sal y pimienta, y se mezcla bien.
+4. Se hacen las bolitas, y se pasan por harina antes de freír.
+*** Preparación de la salsa
+1. Machaca los ajos en un mortero o pásalos por el prensa ajos. Añade un poquito
+   de aceite para desleír un poco. Añade el yogurt hasta conseguir la intensidad
+   deseada, junto a la sal. Y mezcla bien.
 ** Alcachofas con pulpo
 *** Información
 - Fuente: Escuela MasterChef
@@ -7548,6 +8305,28 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    Poner la mozarrella rallada encima y las nueces.
 4. Con el horno precalentado a 180 grados hornea unos 40 minutos. Servir
    caliente.
+** Espárragos con salmón ahumado
+*** Ingredientes
+- Espárragos blancos
+- Surimi
+- Mayonesa
+- Tabasco
+- Una tira de salmón por cada espárrago
+- Cebolla
+- Pimiento verde
+- Pimiento rojo
+- Zumo de limón o vinagre
+- Aceite
+- Sal
+*** Preparación
+1. Hacer una mezcla homogénea con el surimi troceado, la mayonesa y unas gotas
+   de tabasco (al gusto).
+2. Cortar los espárragos por la mitad y rellenarlos con la mezcla.
+3. Envolverlos con las tiras de salmón ahumado.
+4. Preparar una vinagreta con la cebolla, los pimientos, el aceite, el zumo de
+   limón (o el vinagre) y la sal.
+5. Servir los espárragos con la vinagreta por encima o en un recipiente aparte
+   si se prefiere.
 ** Espárragos con salsa de cebolla y avellanas
 *** Información
 - Comensales: 4 personas
@@ -8428,6 +9207,14 @@ virgen extra.
 *** Preparación
 1. Picamos y machacamos los dientes de ajos y las guindillas en un mortero con
    bastante aceite de oliva.
+** Falso alioli
+*** Ingredientes
+- Ajo picado o en polvo (al gusto)
+- Una pizca de sal
+- Azafrán
+- 3 cucharadas de yogur desnatado
+*** Preparación
+1. Mezclar en un mortero los ingredientes indicados hasta que se integren.
 ** Mayonesa
 *** Ingredientes
 - 1 litro de aceite de oliva 0,4 o aceite de girasol
@@ -8487,6 +9274,26 @@ virgen extra.
 3. Cuando tenga algo de cuerpo, añadir el queso y mezclar.
 4. Echar la sal y el polvo de ajo y rectificar si hace falta.
 5. Fuera del fuego echar el perejil picado.
+** Salsa barbacoa
+*** Ingredientes
+- 400 mililitros de tomate triturado
+- 6 cucharadas de vinagre de vino blanco
+- 6 cucharadas de cebolla/cebolleta rallada
+- 2 cucharadas de miel
+- 2 cucharadas de salsa de soja
+- 2 cucharadas de azúcar moreno
+- 2 cucharadas de mostaza
+- 2 dientes de ajo machacados
+- Pimienta molida
+- Sal
+*** Preparación
+1. Colocamos al fuego una sartén con el aceite de oliva, añadimos la cebolla o
+   cebolleta muy picada y el diente de ajo con el azúcar moreno. Lo sofreímos
+   todo durante unos minutos hasta que comience a caramelizar. Salpimentamos.
+2. En este momento añadimos el tomate triturado, cocinamos unos cinco minutos e
+   incorporamos el resto de ingredientes.
+3. Dejamos cocinar a fuego medio unos 20 minutos, removiendo de vez en cuando.
+   En este tiempo, la salsa se habrá reducido y espesado.
 ** Salsa bearnesa
 *** Ingredientes
 - 3 yemas de huevo
@@ -8595,6 +9402,18 @@ virgen extra.
 4. Echar una o dos latas de tomate triturado.
 5. Si no es estilo boloñesa, se puede pasar por la  batidora para que
    no encontrar trozos.
+** Salsa de gorgonzola y azafrán
+*** Ingredientes
+- Mantequilla
+- Aceite de oliva
+- Nata líquida
+- Queso gorgonzola
+- Queso parmesano
+- Azafrán
+*** Preparación
+1. Echar en una sartén un poco de mantequilla y un poco de aceite.
+2. Cuando esté caliente, añadir la nata líquida y los quesos al gusto.
+3. Cuando se haya formado una crema uniforme, terminar con una pizca de azafrán.
 ** Salsa gaucha
 *** Información
 - Comensales: 200 mililitros
@@ -9434,6 +10253,19 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
 3. Lo introducimos en el horno al baño María durante 35 minutos.
 4. Dejamos enfriar, lo sacamos de la flanera y lo podemos decorar con nueces,
    piñones, pasas o virutas de chocolate por ejemplo.
+** Flan de melocotón
+*** Ingredientes
+- 3 huevos
+- 1 bote de melocotones en almíbar
+- 2 cucharadas de azúcar moreno
+- 1 o 2 bizcochos de soletilla (8 o 10 si son pequeños)
+- Un chorrito de Brandy
+*** Preparación
+1. Preparar caramelo y utilizarlo para caramelizar el molde que vayamos a usar y
+   dejar enfriar.
+2. Batir todos los ingredientes juntos hasta obtener una mezcla homogénea.
+3. Rellenar el molde con la mezcla y poner al baño maría durante 40 minutos a
+   180º.
 ** Galletas de chocolate blanco y coco
 *** Información
 - Comensales: 6 u 8 raciones
