@@ -7099,6 +7099,40 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    alcanzan una temperatura aproximada de 45º o 50º.
 
 #+LATEX: \clearpage
+** Rancho canario
+*** Información
+- Comensales: 8 personas
+- Fuente: http://www.hogarutil.com/cocina/recetas/legumbres/201401/rancho-canario-23423.html
+*** Ingredientes
+- 250 gramos de garbanzos
+- 1 muslo de pollo
+- 1/4 kilo de zancarrón de ternera
+- 100 gramos de chorizo fresco
+- 100 gramos de pasta del nº 4
+- 2 patatas
+- 1 cebolleta
+- 1 tomate
+- 5 dientes de ajo
+- Agua
+- Aceite de oliva virgen extra
+- Sal
+- 1 cucharadita de pimentón dulce
+- 1 cucharadita de orégano
+- Unas hebras de azafrán
+- Perejil
+*** Preparación
+1. Pon las carnes (pollo, ternera y chorizo) en la olla, cubre con agua, sazona
+   y ponla a calentar. Cuando empiece a hervir, retira la espuma y añade los
+   garbanzos (remojados de víspera). Tapa y cuece todo durante 30 o 35 minutos
+   (a partir de que empiece a salir el vapor).
+2. Pela y pica los ajos y la cebolleta y ponlos a pochar. Cuando cojan un poco
+   de color, agrega el tomate (pelado y picado) y rehógalo un poco. Sazona.
+   Añade el pimentón, el orégano y unas hebras de azafrán. Mezcla bien.
+3. Retira las carnes de la olla, pícalas y resérvalas. Agrega las verduras a la
+   olla y mezcla bien. Pela las patatas, trocéalas e incorpóralas a la olla
+   junto con los fideos. Tapa y cuece todo durante 5 a 7 minutos
+   aproximadamente. Abre la olla e introduce las carnes picadas, mezcla bien y
+   espolvorea con perejil picado. 
 * Sopas y cremas
 ** Acquacotta
 - Comensales: 2 personas
@@ -11047,6 +11081,69 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
    en un bol.
 3. Hacemos pequeños montoncitos de cada uno sobre un papel vegetal.
 4. Llevamos a la nevera hasta que solidifique.
+** Roscón de Reyes
+*** Información
+- Fuente: http://webosfritos.es/2010/11/roscon-de-reyes-video-receta/
+*** Ingredientes para el azúcar glas aromatizado
+- 120 gramos de azúcar glas
+- La piel de medio limón
+- La piel de media naranja
+*** Ingredientes para preparar la masa de arranque
+- 70 gramos de leche entera
+- 10 gramos de levadura fresca de panadería
+- 1 cucharadita de azúcar
+- 130 gramos de harina de fuerza
+*** Ingredientes para la masa
+- 60 gramos de leche entera
+- 70 gramos de mantequilla a temperatura ambiente
+- 2 huevos medianos
+- 20 gramos de levadura fresca de panadería
+- 25 gramos de agua de azahar —al gusto—
+- 450 gramos de harina de fuerza
+- 1 pellizco de sal
+- Los 120 gramos de azúcar glas aromatizada
+*** Ingredientes para la decoración
+- Huevo batido
+- Azúcar humedecido con unas gotas de agua
+- Naranjas confitadas
+- Guindas en almíbar
+*** Preparación de la masa de arranque
+1. Templar la leche y deshacer la levadura en ella. Mezclar con el resto de los
+   ingredientes y formar una bola.
+2. Poner un bol con agua templada y meter la bola de masa madre en él. Cuando
+   flote, en aproximadamente 10 minutos, estará lista para utilizar con la masa
+   principal.
+*** Preparación de la masa principal
+1. Mezclar la levadura desmenuzada con la leche tibia para su fermentación.
+2. Tamizar la harina en un bol con la ayuda de un colador.
+3. Una vez tamizada, añadir los huevos, el azúcar y la mantequilla, una pizca de
+   sal y el agua de azahar, junto con la ralladura de medio limón y de media
+   naranja y la masa madre y por supuesto la leche con la levadura del punto 1.
+4. Mezclar todo de una manera enérgica. Si tenéis una batidora con ganchos para
+   amasar os vendrá muy bien; si no, a mano.
+5. Poner la mezcla sobre la mesa de trabajo, en la que previamente hemos puesto
+   un poco de aceite para evitar que se nos pegue. Comenzar a amasar con las
+   manos aceitadas.
+6. Cuando haya quedado la mezcla elástica, apiñarla en una bola y dejar que
+   aumente su tamaño (cinco horas como mínimo).
+7. Una vez que la masa ha duplicado su volumen, dividirla en dos (salvo que
+   prefiráis hacer uno grande) y darles forma de bola. Dejar reposar las bolas
+   cinco minutos.
+8. A continuación darles la forma de roscón. Para ello, introducir los dedos en
+   el centro e ir agrandando el agujero. Si la masa tiende a encogerse, es que
+   no está bien relajada: dejarla reposar otros diez minutos y se manejará
+   mejor. Una vez dada la forma, colocar sobre una bandeja de horno en la que
+   habremos puesto papel de hornear.
+9. Dejar reposar hasta que doblen su volumen. Este levado es más corto, unas
+   dos horas.
+10. Pintar con huevo batido, muy suavemente, sin pinchar el roscón, y adornar
+    con azúcar humedecido con unas gotas de agua y frutas confitadas.
+11. Precalentar el horno a 200°, calor arriba y abajo.
+12. Hornear entre 15 y 18 minutos, y bajar la temperatura a 180° los últimos 10
+    minutos de cocción (si vemos que se tuesta demasiado, poner un papel de
+    aluminio por encima).
+13. Dejar reposar sobre una rejilla, y cuando esté frío, rellenar al gusto o
+    comer directamente.
 ** Sablés de chocolate
 *** Información
 - Comensales: 6 u 8 raciones
