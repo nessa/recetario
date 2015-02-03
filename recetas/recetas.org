@@ -38,6 +38,13 @@
 #+LATEX: \tableofcontents
 #+LATEX: \clearpage
 
+* Notas de cosas por probar
+- Vychissoise con palmito.
+- Macarrones con bechamel de roquefort, gratinados con patatas fritas de
+  paquete trituradas en lugar de con pan rallado.
+- Pierogi
+- General Tso Chicken
+- Poutine
 * Abuela
 ** Arroz con habichuelas
 - Dejar en remojo las habichuelas desde la noche anterior.
@@ -1065,6 +1072,27 @@ http://webosfritos.es/2013/03/bizcocho-de-chocolate/
    finalmente, la salsa de queso y la pimienta. Le ponemos queso rallado por
    encima y los introducimos en el horno durante 15 o 20 minutos, dependiendo de
    si queremos los huevos más o menos cocinados. Servir.
+** Sandwich Club
+*** Información
+- Comensales: 4 personas
+- Fuente: http://kocinarte.com/recetas/club-sandwich
+*** Ingredientes
+- 12 lonchas de pan de molde
+- 100 gramos hojas de lechuga iceberg
+- 100 gramos de jamón york
+- 100 gramos de bacon
+- 4 lonchas de queso
+. Cuatro cucharadas de mahonesa
+*** Preparación
+1. En primer lugar, hay que poner en una plancha el pan de molde (tres por cada
+   sandwich) para dorarlo.
+2. Una vez que lo hayamos hecho, colocamos sobre una rebanada de pan una hoja de
+   lechuga, una loncha de jamón york (o pavo) y una rodaja de tomate. Sobre este
+   primer piso ponemos una segunda loncha de pan y un trozo de bacon (ahumado o
+   pasado por la plancha) y queso. Se termina colocando la tercera loncha de
+   pan.
+3. Para suavizar este sándwich de dos pisos es aconsejable untar el pan con
+   mahonesa.
 * Caldos
 ** Fumet de pescado
 Para hacer un buen fumet de pescado, solo hay que coger unos huesos
@@ -1275,6 +1303,9 @@ tinta aparezcan en nuestra vida.
    sartén sin aceite. Repite con todos los Burritos.
 10. Y eso es todo. Puedes servirlos con un poco de arroz blanco y lechuga picada
     y listo.
+*** Notas
+- Se le puede dar otros toques añadiendo maíz cocido, aguacate en láminas o
+  cebolla caramelizada para adaptar los burritos a tus gustos.
 ** Carrilleras en salsa de oporto y parmentier
 *** Información
 - Comensales: 4 personas
@@ -2416,6 +2447,40 @@ Se puede usar de guarnición unas patatas Torner.
     a fuego lento para que no se queme.
 11. Cortar los rollitos en tiras gruesas y acompañar de la salsa.
 
+** Salchichas al vino
+*** Información
+- Comensales: 2 personas
+- Fuente: http://javirecetas.hola.com/salchichas-al-vino-blanco/
+*** Ingredientes
+- 6 u 8 salchichas frescas
+- 200 gramos de cebolla mediana
+- 1 diente de ajo
+- 1 hoja de laurel
+- 250 mililitros de vino blanco
+- 250 mililitros de caldo de pollo
+- 40 mililitros de aceite de oliva
+- 1 cucharada pequeña de sal
+*** Preparación
+1. Pela el diente de ajo, córtalo en rodajas finas y resérvalo aparte. Pela la
+   cebolla y pícala finamente.
+2. En una sartén pon dos cucharadas de aceite, la cebolla, la hoja de laurel y
+   media cucharada pequeña con sal. Pon a fuego medio para que se poche la
+   cebolla y cuando lleve 5 minutos añade el ajo que teníamos reservado.
+3. Mientras se pocha la cebolla prepararemos las salchichas. En una sartén
+   ponemos las otras dos cucharadas de aceite, añadimos las salchichas y las
+   dejamos a fuego medio que se vayan haciendo poco a poco.
+4. Cuando la cebolla esté pochada sube el fuego de las dos sartenes. Queremos
+   que la salchichas y la cebolla cojan un poco de color, pero con cuidado de
+   no quemar la cebolla. Cuando la cebolla haya cogido un poquito de color le
+   añadimos las salchichas y el vaso de caldo.
+5. Echamos el vaso de vino en la sartén donde estaban las salchichas y lo
+   ponemos a fuego fuerte. Cuando hierva arañaremos el fondo de la sartén con
+   una cuchara de madera para arrastras los jugos que haya soltado la salchicha.
+   Dejamos que se evapore el alcohol del vino blanco durante un par de minutos y
+   lo añadimos a la sartén con la cebolla, el ajo, las salchichas y el caldo de
+   pollo.
+6. Ahora solo nos queda dejar a fuego medio hasta que reduzca todo el líquido y
+   nos quede una salsa muy densa.
 ** San Choy Bau
 *** Información
 - Fuentes: http://www.gastroandalusi.com/2013/09/beef-san-choy-bau-rollitos-de-cogollos.html
@@ -2435,6 +2500,43 @@ Se puede usar de guarnición unas patatas Torner.
    cucharada de soja y dejamos cocer durante 1 minuto.
 3. Retiramos del fuego y mezclamos con las hojas picadas de cilantro y menta.
 4. Para servir, lo repartimos en hojas de cogollos como si fueran platitos.
+** Solomillo al whisky
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.gastroandalusi.com/solomillo-al-whisky-con-almendras/
+*** Ingredientes
+- 2 solomillos
+- 3 zanahorias
+- 1 cebolla grande
+- 250 mililitros de whisky
+- Perejil fresco
+- Almendras
+- Ajos
+- Sal
+- Pimienta
+- Aceite de oliva virgen extra
+- Agua
+*** Preparación
+1. Pelamos las zanahorias, y las cebollas.
+2. Cortamos las zanahorias en rodajas y las cebollas en tiras, reservamos.
+3. Limpiamos la grasa de los solomillos y los salpimentamos. Verter el aceite en
+   una sartén.
+4. Poner en el aceite templado los solomillos junto con los ajos enteros y dorar
+   la carne.
+5. Mientras preparamos un majado con la mitad de los ajos que hemos puesto junto
+   con el solomillo, un puñadito de perejil, unas 10-12 almendras, sal y azafrán
+   en hebra.
+6. Machacar hasta que quede hecho una pasta, y a este majado le añadimos el vaso
+   de whisky.
+7. Con mucho cuidado trasladamos los solomillos de la sartén a una cazuela
+   antihaderente.
+8. En el aceite que ha quedado de sofreír los solomillos, dejamos los ajos que
+   quedaban y les agregamos las zanahorias y las cebollas.
+9. Doramos un poco y cuando estén doradas, las agregamos al solomillo junto con
+   el majado y dos vasos de agua (si los solomillos son más grandes les añadimos
+   un poco más de agua).
+10. Tapamos y ponemos a fuego medio durante unos 30 minutos hasta que la salsa
+    se reduzca.
 ** Solomillo de cerdo al vino tinto
 *** Información
 - Fuente: http://webosfritos.es/2013/12/solomillo-de-cerdo-iberico-al-vino-tinto/
@@ -2519,6 +2621,65 @@ Se puede usar de guarnición unas patatas Torner.
    le añadimos mantequilla para formar un puré cremoso y
    consistente. Salpimentamos.
 #+LATEX: \clearpage
+** Solomillo Wellington
+*** Información
+- Comensales: 5 personas
+- Fuente: http://recetasderechupete.hola.com/solomillo-wellington-receta-navidena/8601/
+*** Ingredientes
+- 1 solomillo de cerdo (o ternera) de 1 kg
+- 400 gramos de champiñones frescos
+- 4 chalotas o escalonias (o una cebolla pequeña)
+- 2 dientes de ajo
+- 1 lata de paté de foie gras (unos 80 gramos)
+- 1 huevo
+- 1 masa de hojaldre rectangular
+- Pimienta negra
+- Sal
+- 3 cucharadas grandes de mostaza de Dijon
+- Aceite de oliva virgen extra
+- Papel de horno
+*** Preparación
+1. Comenzamos preparando la carne. Si no lo ha hecho el carnicero, limpiaremos
+   el solomillo de las partes blancas de grasa, quedándonos con la zona más
+   noble.
+2. Vertemos un buen chorro de aceite de oliva virgen extra en una sartén amplia
+   (que entre el solomillo con holgura) y calentamos. Salpimentamos al gusto la
+   carne y la marcamos en la sartén por todas sus caras, hasta que adquiera un
+   tono dorado. De esta manera le damos un primer cocinado y sellamos el
+   exterior para que luego se mantengan los jugos de la carne. Reservamos.
+3. Limpiamos los champiñones frescos con un poco de papel de cocina. Los picamos
+   finamente, en pequeños dados. Igualmente cortamos en brunoise fina las
+   chalotas y los dientes de ajo. En una sartén con un poco de aceite de oliva,
+   pochamos las chalotas y el ajo 5 minutos a fuego medio. Añadimos los
+   champiñones y seguimos cocinando otros 10 minutos, para conseguir que se
+   hagan lentamente y no se nos pasen. Reservamos.
+4. Pasamos al montaje del plato que se realizará siempre en frío, será más
+   manejable y no ablandará el hojaldre antes del horneado. Recubrimos la carne
+   en su totalidad con una capa fina de mostaza de Dijon. Añadimos el paté de
+   foie-gras a la salsa fría y mezclamos todo bien para conseguir integrar todos
+   los ingredientes y que nos quede una pasta homogénea y firme.
+5. Ponemos a precalentar el horno a 200º durante 5 minutos. Colocamos la base de
+   hojaldre sobre papel de horno, directamente en la bandeja. Sobre ella
+   extendemos una capa de la mezcla de un tamaño proporcional al ancho y largo
+   del solomillo y ponemos encima la carne. De nuevo, esta vez en la parte
+   superior, vertemos una capa de la mezcla reservada. Cerramos con cuidado el
+   hojaldre formando un paquete, dejando las uniones en la parte inferior para
+   que sea más vistoso una vez salga del horno. Si habéis comprado una masa de
+   hojaldre redonda, bastará con cortar los excesos, que podremos aprovechar
+   luego para decorar el paquete a nuestro gusto.
+6. Batimos el huevo y con un pincel pintamos el hojaldre. De esta manera
+   ayudaremos a pegar las uniones y le daremos un toque dorado mientras se
+   cocina en el horno. En cuanto a la decoración, cada uno puede darle el toque
+   personal que más le guste. Se pueden poner tiras de hojaldre como en las
+   empanadas, hacer figuras o también dibujar ligeramente con la hoja de un
+   cuchillo (procurando no traspasar totalmente la masa).
+7. Colocamos la bandeja en la parte central y horneamos 20 minutos a 200º. El
+   hojaldre tiene que quedar bien tostado por fuera y la carne tierna y jugosa.
+   Una vez hecho y retirado del horno, es necesario dejarlo reposar por lo menos
+   10 minutos, asentará y luego será más sencillo trocearlo.
+8. Para el emplatado cortamos en rodajas de unos 2 o 3 centímetros y puede
+   acompañarse de una guarnición de verduras como pimientos o espárragos
+   trigueros.
 ** Soufflé de lacón y queso
 *** Información
 - Comensales: 4 o 6 personas
@@ -2678,6 +2839,41 @@ Se puede usar de guarnición unas patatas Torner.
 
 #+LATEX: \clearpage
 
+** Vitello tonnato
+*** Información
+- Fuente: http://m.directoalpaladar.com/recetas-de-carnes-y-aves/vitello-tonnato-receta-italiana
+*** Ingredientes para la carne
+- 1 redondo de ternera de un kilo aproximadamente
+- 1 cebolla
+- 1 puerro
+- 1 ramita de apio
+- 1 ramita de perejil
+- 1 hoja de laurel
+- 1 zanahoria
+- 100 mililitros de vino blanco seco
+- Sal
+*** Ingredientes para la salsa
+- 1 huevo grande
+- 250 mililitros de aceite de oliva suave o de girasol
+- 120 gramos de atún en lata escurrido
+- 18 alcaparras
+- 8 anchoas
+- 2 cucharaditas de zumo de limón
+*** Preparación
+1. Comenzaremos colocando una olla con un litro y medio de agua al fuego, le
+   añadimos las verduras, la sal y el vino. Echamos la carne y la dejamos cocer
+   durante una hora y cuarto o hasta que la veamos tierna. La dejamos enfriar
+   dentro del agua, la envolvemos una vez fría en papel de aluminio y para la
+   nevera hasta que esté bien fría.
+2. Después la cortamos con un cuchillo afilado en lonchas muy finitas, todas
+   del mismo grosor, y las vamos disponiendo en una fuente plana.
+3. Para preparar la salsa echamos en el vaso alto de la batidora el huevo y el
+   aceite. Metemos la batidora hasta el fondo y  y espesa. Batimos unos minutos
+   más levantando el brazo de la batidora y cuando se nos ha hecho la mayonesa
+   añadimos el resto de los ingredientes, triturando todo bien hasta que quede
+   una mayonesa fina.
+4. Vertemos la salsa napando bien la carne y la dejamos reposar bien tapada en
+   la nevera durante una hora. Servimos fresca.
 ** Wok de pollo con soja, miel y sésamo
 *** Información
 - Comensales: 4 personas
@@ -2736,6 +2932,35 @@ Se puede usar de guarnición unas patatas Torner.
 3. Calentar el aceite para freír.
 4. Pasar las bolitas por la mezcla, luego por el panko y freír hasta que estén
    doradas.
+** Croquetas de bonito en escabeche
+*** Información
+- Cantidad: 60 unidades
+- Fuente: http://webosfritos.es/2010/08/croquetas-de-bonito/
+*** Ingredientes
+- 75 gramos de mantequilla
+- 50 gramos de aceite de oliva virgen extra
+- 170 gramos de harina
+- 1 lata de un buen bonito del norte en escabeche
+- El caldo que tenga la lata de bonito
+- 725 mililitros de leche
+- Un poco de sal
+*** Preparación
+1. En una cacerola antiadherente o sartén un poco honda, echar la mantequilla y
+   el aceite. Cuando estén calientes, poner la harina, y poco a poco ir dándole
+   vueltas, hasta que esté dorada la harina.
+2. A continuación echar el caldo de la lata de bonito, la leche caliente y el
+   bonito desmigado. Ir dando vueltas con una varilla hasta que no queden
+   grumos. Cuando empiece a espesar, probar de sal y rectificar.
+3. Cuando empiece a hervir, retirar la masa del fuego.
+4. Echar la masa en un recipiente en el que no quede demasiado extendida, y
+   dejar enfriar (incluso de un día para otro).
+5. Con una cuchara coger porciones de la masa y con pan rallado darle forma.
+6. Cuando ya se tienen formadas, pasarlas por huevo bien batido y pan rallado
+   de nuevo.
+7. Freír en abundante aceite caliente, con cuidado de que se hagan por dentro
+   sin quemarse por fuera.
+8. Dejarlas descansar en papel de cocina antes de servir para que no tengan
+   exceso de grasa.
 ** Croquetas de espinacas y piñones
 *** Información
 - Fuente: http://www.ladulzurademari.es/2014/09/croquetas-de-espinacas-y-pinones.html
@@ -2836,6 +3061,43 @@ Se puede usar de guarnición unas patatas Torner.
    por pan rallado. Freír en abundante aceite muy caliente, y dejar escurrir 
    sobre papel de cocina.
 
+** Croquetas de morcilla
+*** Información
+- Cantidad: 30 unidades
+- Fuente: http://webosfritos.es/2014/12/croquetas-de-morcilla/
+*** Ingredientes
+- 25 gramos de mantequilla
+- 25 gramos de aceite de oliva virgen extra
+- 90 gramos de harina
+- Un cuarto de cebolla dulce (opcional)
+- 250 gramos de morcilla
+- 400 gramos de leche
+- Una pizca de sal
+- Un poco de harina
+- Pan rallado 
+- Huevo
+*** Preparación
+1. Quita la piel a la morcilla, trocéala para que quede como picadillo, y fríela
+   en una sartén con muy poca cantidad de aceite. Escúrrela en un colador hasta
+   que suelte toda su grasa.
+2. Corta la cebolla en dados pequeños. Coge una cacerola antiadherente o una
+   sartén un poco honda, y echa la mantequilla y el aceite. Cuando estén
+   calientes fríe la cebolla. Añade la harina, una pizca de sal y ve dando
+   vueltas hasta que esté dorada la harina.
+3. Agrega la morcilla y la leche caliente. Sigue dando vueltas con unas varillas
+   hasta que no queden grumos. Cuando empiece a espesar, prueba de sal y
+   rectifica.
+4. Cuando empiece a hervir, retira la masa del fuego.
+5. Echa la masa en un recipiente en el que no quede demasiado extendida. Ponle
+   un plástico transparente por encima tocando la masa y déjala enfriar (incluso
+   de un día para otro).
+6. Coge porciones de la masa con una cuchara y dales forma ayudándote de un poco
+   de harina. A las de morcilla me gusta darles forma de bola pequeña.
+7. Cuando ya las tengas formadas, pásalas por huevo bien batido y pan rallado.
+8. Fríe en abundante aceite caliente, con cuidado de que se hagan por dentro sin
+   quemarse por fuera.
+9. Déjalas escurrir en un colador grande. Pásalas a un plato con un papel de
+   cocina. Sirve calientes.
 ** Croquetas de puchero
 *** Información
 - Fuente: receta familiar
@@ -3079,6 +3341,33 @@ Se puede usar de guarnición unas patatas Torner.
    la vinagreta y servir con la ensalada.
 *** Notas
 - Se puede sustituir la vinagreta por salsa rosa.
+** Ensalada de calabacín y parmesano
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.gastronomiaycia.com/2012/05/04/ensalada-de-calabacin-y-parmesano/
+*** Ingredientes
+- 2 calabacines
+- Queso parmesano
+- Albahaca fresca
+- Sal
+- Pimienta
+- Aceite de oliva virgen extra
+*** Preparación
+1. Pela los calabacines y corta los dos extremos. Con ayuda de un pelador de
+   verduras, corta finas láminas de calabacín, como si fueran tallarines pero
+   con toda la anchura que permita la pieza. Ve girando el calabacín para
+   obtener las láminas de todo su contorno, cuando llegues a las semillas deja
+   de cortar, esta parte del calabacín la puedes guardar para hacer un puré u
+   otro guiso.
+2. Una vez que tengas los calabacines laminados, disponlo en los platos dándoles
+   volumen, con mucha facilidad forman hondas que proporcionan una llamativa
+   presentación en el plato.
+3. También con el pelador de las verduras, corta el queso parmesano, la cantidad
+   que desees añadir a la ensalada. Reparte el queso sobre el calabacín. A
+   continuación, condimenta con sal y pimienta.
+4. Para finalizar, adereza la ensalada de calabacín generosamente con aceite de
+   oliva virgen extra (la variedad arbequina le va muy bien). Reserva esta
+   ensalada en el frigorífico hasta el momento de servir.
 ** Ensalada de calabacines con queso fresco y albahaca
 *** Información
 - Comensales: 4 personas
@@ -3147,6 +3436,34 @@ Se puede usar de guarnición unas patatas Torner.
    lo incorporamos al resto.
 7. Añadimos un chorreón de aceite, mezclamos y guardamos en el frigorífico hasta
    el momento de servir.
+** Ensalada de dátiles y bacon
+*** Información
+- Comensales: 4 personas
+- Fuente: http://webosfritos.es/2012/09/ensalada-con-datiles-y-beicon/
+*** Ingredientes
+- Unos brotes de lechuga
+- 1 tomate pelado
+- 50 gramos de pistachos
+- 8 nueces
+- 4 dátiles sin hueso
+- 4 lonchas de beicon ahumado
+- Unas cortezas de cerdo
+- 75 gramos de aceite de oliva virgen extra
+- 3 cucharas soperas de mermelada de moras
+- Sal
+*** Preparación
+1. Poner en cada vasito de presentación los brotes de lechugas, el tomate
+   pelado, troceado y escurrido. Las nueces peladas, y troceadas en 4, y los
+   pistachos pelados.
+2. Cortar las cortezas con un cuchillo muy afilado en trocitos tan pequeños que
+   quede casi como si fuera sal gruesa.
+3. Enrollar cada dátil sin hueso en una loncha de bacon (a la que habremos
+   quitado la corteza, si lleva, y la ternilla), y ensartarlos en palos de
+   brochetas.
+4. Poner en un bol la mermelada, e ir echando el aceite poco a poco mientras
+   vamos emulsionando la mezcla.
+5. Pasar por la plancha las brochetas de dátil y bacon. Servir con la ensalada.
+   Poner la vinagreta y espolvorear la ensalada con el polvo de las cortezas.
 ** Ensalada de escarola y salmón ahumado
 *** Información
 - Comensales: 4 personas
@@ -3596,6 +3913,31 @@ Se puede usar de guarnición unas patatas Torner.
 #+LATEX: \clearpage
 
 * Empanadas y hojaldres
+** Discos de calabacín y queso
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.hogarutil.com/cocina/recetas/ensaladas-verduras/201109/discos-calabacin-queso-11276.html
+*** Ingredientes
+- 16 obleas de empanadillas
+- 200 gramos de queso
+- 1 calabacín
+- 1 cebolleta
+- 2 dientes de ajo
+- 1 huevo batido
+- Aceite virgen extra
+- Sal
+- Perejil
+*** Preparación
+1. Pica los ajos y a cebolleta y ponla a dorar en una sartén con un poco de
+   aceite. Limpia el calabacín, pícalo finamente y añádelo. Cocina todo hasta
+   que quede bien hecho y deja templar. 
+2. Extiende las obleas sobre una superficie plana, pon sobre cada una un trozo
+   de queso y un poco de calabacín.
+3. Unta los bordes con huevo batido, cubre con otra oblea y cierra los bordes
+   presionando con un tenedor.
+4. Fríelas por los dos lados en una sartén con aceite y escúrrelas.
+*** Notas
+- Se pueden servir acompañadas de salsa de tomate.
 ** Empanadillas de gambas
 *** Información
 - Fuente: http://www.sabororiental.com/empanadillas-de-gambas-siomay/
@@ -3694,6 +4036,25 @@ Se puede usar de guarnición unas patatas Torner.
    lleven unos 15 minutos a 200°, bajar el horno a 180° y continuar el horneado
    hasta que veamos que se doran.
 4. Sacarlas del horno y dejarlas enfriar.
+** Lasaña de pan de molde
+*** Información
+- Fuente: http://gshow.globo.com/receitas/lasanha-de-pao-de-forma-5307e1f94d38856fc800004b
+*** Ingredientes
+- 1 paquete de pan de molde
+- 1 lata de nata de cocinar
+- 1 cebolla
+- 3 dientes de ajo
+- 500 gramos de queso mozzarella
+- 500 gramos de jamón de york
+- 200 mililitros de salsa de tomate
+*** Preparación
+1. En una sartén calentar la salsa de tomate, la cebolla y el ajo y luego
+   inmediatamente añadir la crema. Dejar que de el primer hervor, apagar el
+   fuego y reservar.
+2. Retirar los bordes del pan y colocarlos en forma de cama. Añadir una capa de
+   jamón de york, encima la mezcla anterior y encima el queso. Repetir hasta
+   hacer el número de capas que se desee. Terminar con una capa de queso.
+3. Hornear durante unos minutos antes de servir, hasta que el queso se derrita.
 ** Pan de cebolla con cerdo al curry
 *** Información
 - Fuente: http://imgur.com/a/SNbkT
@@ -3989,6 +4350,39 @@ Se puede usar de guarnición unas patatas Torner.
 #+LATEX: \clearpage
 
 * Flanes y mousses
+** Flan de chocolate
+*** Información
+- Cantidad: 6 unidades
+- Fuente: http://www.gastronomiaycia.com/2008/12/08/receta-de-flan-de-chocolate/
+*** Ingredientes
+- 600 mililitros de leche
+- 140 gramos de chocolate fondant
+- 190 gramos de azúcar
+- 2 yemas
+- 2 huevos
+- Agua
+- Azúcar
+*** Preparación
+1. Enciende el horno a 180º poniendo una bandeja amplia con agua para hacer el
+   baño maría.
+2. Prepara un caramelo con agua y azúcar para los moldes. Naturalmente puedes
+   utilizar moldes individuales o un molde grande para después repartir en
+   porciones.
+3. Pon en un cazo la leche con el chocolate troceado y la mitad del azúcar,
+   llévalo al fuego y ve moviendo de vez en cuando para mezclar bien el
+   chocolate a medida que se vaya fundiendo y a su vez, disolver el azúcar.
+4. En un cuenco amplio vierte las yemas y los dos huevos enteros, añade el resto
+   del azúcar y bate hasta que espume.
+5. Cuando la leche rompa a hervir retira del fuego y continúa moviendo con las
+   varillas, deja enfriar un poco. Vierte la leche con chocolate sobre los
+   huevos poco a poco, a medida que se va incorporando ve mezclando con las
+   varillas.
+6. Reparte la mezcla en las flaneras y ponlas al baño maría en el horno, deja
+   cocer 45 o 50 minutos, antes de retirar los flanes del horno comprueba con un
+   palillo que han cuajado bien.
+7. Cuando estén listos, retira los flanes del horno y déjalos enfriar a
+   temperatura ambiente, después ponlos en el frigorífico hasta el momento de
+   consumo.
 ** Flan de chocolate blanco
 *** Información
 - Fuente: Recetas de Nestlé POSTRES.
@@ -4151,6 +4545,127 @@ Se puede usar de guarnición unas patatas Torner.
 6. Abrir las naranjas por el extremo superior y vaciarlas con un poco
    de paciencia. Rellenarlas de mousse con la ayuda de una manga
    pastelera. Meter las naranjas en el congelador un mínimo de dos horas.
+** Pudin de nueces
+*** Información
+- Fuente: http://canalcocina.es/receta/pudding-de-nueces
+*** Ingredientes
+- 250 gramos de nueces peladas
+- 4 huevos
+- 2 yemas de huevo
+- 5 galletas María
+- 370 gramos de leche condensada
+- 1 vaso de leche
+- 60 gramos de azúcar
+- 5 cucharadas de azúcar
+*** Preparación
+1. Encendemos el horno y dejamos que se caliente a 170º.
+2. En un cazo pequeño, añadimos el azúcar y 1 cucharada de agua, dejando cocer
+   hasta conseguir un caramelo dorado.
+3. Vertemos el caramelo en un molde con una capacidad de 1,5 litros y movemos
+   para que se reparta por todo el fondo.
+4. Reservamos 8 nueces enteras para decorar y el resto lo introducimos en un
+   vaso de robot. Añadimos las galletas y trituramos. 
+5. Una vez picadas las nueces y las galletas, añadimos los huevos, las yemas,
+   el vaso de leche y la leche condensada y mezclamos hasta conseguir una crema
+   homogénea.
+6. En el molde con la base de caramelo, vertemos la crema y cocemos al baño
+   maría en el horno a 170º, entre 50 minutos y 1 hora.
+7. Una vez cocido, dejamos que entibie y después lo metemos en la nevera para
+   que se enfríe por completo.
+8. Mientras adquiere la temperatura adecuada, caramelizamos las 8 nueces enteras
+   que habíamos reservado. Ponemos las 5 cucharadas de azúcar en un cazo con un
+   chorrito de agua. Cuando el caramelo comience a tostarse, añadimos las nueces
+   y las cubrimos.
+9. Para sacar el pudding del molde, pasamos un cuchillo por los bordes y le
+   damos la vuelta sobre un plato alargado.
+10. Decoramos con las nueces caramelizadas y servimos.
+* Gratinados y soufflés
+** Judías verdes con carne picada y queso
+*** Información
+- Comensales: 4 personas
+- Fuente: http://economizados.com/recetas-faciles/de-verduras/judias-verdes-con-carne-picada-y-queso/
+*** Ingredientes
+- 350 gramos de carne vacuno y cerdo picada
+- 700 gramos de judías verdes
+- 250 gramos de cebollas
+- 2 huevos
+- 75 gramos de quesitos cremosos
+- 7 dientes de ajo
+- Una cucharada de Maicena
+- Una pastilla de concentrado de carne
+- Un vaso de leche
+- 100 mililitros de aceite de oliva
+*** Preparación
+1. Se limpian las judías verdes, se les cortan las partes duras, y se cortan en
+   trocitos de un centímetro aproximadamente. Preparar una cazuela, añadir las
+   cebollas cortadas en trocitos, un chorrito de aceite, medio vaso de agua y
+   las judías verdes. Dejar hervir a fuego suave hasta que estén tiernas,
+   aproximadamente 15 minutos.
+2. Incorporar a la misma cazuela un poco de aceite y freír las judías junto con
+   la cebolla. Mientras en una cazuela aparte echar un poco de aceite y freír la
+   carne picada con los ajos cortados en láminas.
+3. Añadir una cucharada de Maizena, la pastilla de concentrado de carne, los
+   quesitos y el vaso de leche, rehogar hasta que se haya reducido la leche.
+   Reservar.
+4. Incorporar a la cazuela junto con las verduras. Añadir las yemas batidas.
+   Remover. Preparar una fuente de horno y echar todos los ingredientes. Añadir
+   por encima las claras de huevo a punto de nieve.
+5. Poner el horno a 180º durante 15 minutos.
+** Judías verdes gratinadas
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.lacocinadelechuza.com/2009/02/judias-verdes-gratinadas.html?m=1
+*** Ingredientes
+1 kilo de judias verdes
+200 gramos de bacon en una loncha gruesa
+4 huevos
+Medio litro de bechamel
+200 gramos queso manchego tierno
+Medio litro de salsa de tomate casera
+*** Preparación
+1. Lavar y limpiar las judías, cortándoles las puntas y los laterales. Cortarlas
+   en dos o tres trozos y hervirlas durante 15 minutos en agua salada.
+2. Cocer los huevos durante unos 10 minutos.
+3. Cortar el bacon en bastoncitos y pasarlo ligeramente por la sartén.
+4. Poner el horno a precalentar a 170º.
+5. En una fuente resistente al calor, vertir la salsa de tomate. Colocar encima
+   las judías bien escurridas y el bacon.
+6. Colocar los huevos cocidos cortados en mitades por toda la fuente y cubrir
+   todo con la bechamel.
+7. Repatir el queso rallado por toda la fuente y meter al horno durante unos 5
+   a 7 minutos o hasta que la superficie se dore.
+** Soufflé de lacón y queso
+*** Información
+- Comensales: 4 o 6 personas
+- Fuente: http://webosfritos.es/2011/02/souffle-de-lacon-y-queso/
+*** Ingredientes
+- 2 cucharas soperas de mantequilla
+- 2 cucharas soperas de harina
+- 400 mililitros de leche entera
+- 2 lonchas de lacón ahumado o jamón de york
+- 60 gramos de queso rallado
+- 3 huevos
+- Una pizca de sal
+- Una pizca de mantequilla
+*** Preparación
+1. Precalentar el horno a 200º, calor arriba y abajo. Meter una fuente baja con
+   agua, que utilizaremos para poner el soufflé al baño maría.
+2. Poner a calentar en un cazo mediano la mantequilla. Cuando esté caliente
+   echar la harina y remover.
+3. A continuación añadir la leche templada e ir integrándola poco a poco con
+   unas varillas.
+4. Cuando espese, añadir la sal, el lacón troceado y el queso rallado. No dejar
+   de dar vueltas hasta que notemos unas burbujas en la superficie. Retirar del
+   fuego.
+5. Añadir las 3 yemas y remover.
+6. Montar las claras con una pizca de sal. En el mismo recipiente en que las
+   hayamos montado, ir añadiendo la masa que hemos hecho integrándola con unas
+   varillas, con cuidado de que no se nos baje la mezcla.
+7. Pincelar con mantequilla los moldes en los que lo vamos a poner. Rellenarlos
+   de soufflé hasta 1 centímetro del borde.
+8. Abrir el horno y depositarlos con cuidado dentro de la bandeja que tenemos
+   con agua caliente. Se hornearán al baño maría durante 15 o 18 minutos, o
+   hasta que los veamos inflados y ligeramente dorados.
 * Galletas
 ** Cookies americanas
 *** Información
@@ -4257,6 +4772,79 @@ Se puede usar de guarnición unas patatas Torner.
     delicioso. Cada uno tendrá que coger el puntito a su horno.
 11. A continuación dejar enfriar en una rejilla. Justo antes de
     servir poner por encima cacao espolvoreado con un colador.
+** Galletas de jengibre y miel
+*** Información
+- Cantidad: 25 o 30 galletas
+- Fuente: http://m.directoalpaladar.com/postres/galletas-de-jengibre-y-miel-receta
+*** Ingredientes
+- 225 gramos de harina de repostería
+- 100 gramos de azúcar
+- 2 cucharaditas de levadura química (impulsor)
+- 2 cucharaditas de bicarbonato sódico
+- Media cucharadita de sal
+- 1 cucharadita de jengibre molido
+- Media cucharadita de canela molida
+- 100 gramos de mantequilla
+- 100 gramos de miel líquida
+- Azúcar extra para rebozar
+*** Preparación
+1. Precalentar el horno a 180º y preparar un par de bandejas forrándolas con
+   papel sulfurizado. Disponer la harina en un recipiente amplio y mezclar con
+   el azúcar, la levadura química, el bicarbonato, la sal, el jengibre y la
+   canela.
+2. Incorporar la mantequilla cortada en cubos pequeños y trabajar la masa
+   aplastándola. Se puede hacer con un tenedor o con las manos, estrujando bien
+   la mantequilla contra los ingredientes secos. Añadir la miel y mezclar todo
+   bien.
+3. Tomar pequeñas porciones de masa, del tamaño de una nuez, y formar bolitas
+   con las manos. Rebozar cada una en azúcar y colocarlas en las bandejas,
+   separadas por unos 4 o 5 cm. Aplastar cada bolita suavemente con un tenedor y
+   hornear durante 10 minutos. Esperar un par de minuos fuera del horno y dejar
+   enfriar completamente sobre una rejilla.
+** Galletas de pistacho
+*** Información
+- Fuente: http://www.lekue.es/es/galletas-de-pistacho
+*** Ingredientes
+- 250 gramos de harina
+- 1 huevo
+- 100 gramos de azúcar
+- 100 gramos de pistachos picados
+- 125 gramos de mantequilla pomada
+- Sal
+*** Preparación
+1. Enharinar la mesa y hacer un montón con la harina en el centro como si fuese
+   un volcán. Incorporar el huevo, el azúcar, los pistachos, la mantequilla y la
+   sal y amasar como si fuese pan hasta obtener una mezcla homogénea.
+2. Estirar la masa con el rodillo hasta que tenga un grueso de unos 5
+   milímetros. Cortar con la forma deseada y disponer sobre una bandeja de
+   cocción.
+3. Dejar suficiente separación entre galletas para evitar que se unan si se
+   expanden en el horno. Precalentar el horno a 180º y cocer unos 12 minutos.
+** Galletas de pistacho y chocolate
+*** Información
+- Fuente: https://www.facebook.com/notes/mujeres-de-mi-edad/cocina-galletas-de-pistacho-con-un-toque-de-chocolate/445837275452846
+*** Ingredientes
+- 250 gramos de harina
+- 1 cucharada de levadura
+- 125 gramos de pistachos crudos
+- 100 gramos de pistachos crudos y molidos
+- 125 gramos de chocolate
+- 1 huevo grande
+- 100 gramos de mantequilla pomada
+- 100 gramos de azúcar morena
+- 1 cucharada de esencia de vainilla
+*** Preparación
+1. Mezcla en un bol la manteca blanda, la esencia de vainilla y el azúcar moreno
+   hasta que se unan bien.
+2. Bate el huevo y agrégalo a la masa anterior junto con la harina, la levadura
+   y los pistachos molidos.
+3. Luego corta el chocolate en trozos pequeños y colócalo junto con el resto de
+   los pistachos en un mortero para machacarlos. Añade estos ingredientes a la
+   preparación anterior.
+4. Calienta el horno 10 minutos a 180º y engrasa una bandeja con mantequilla o
+   aceite vegetal. Coloca cucharadas de la masa dejando unos 4 centímetros de
+   distancia entre cada una y aplánalas con la base de un vaso humedecido.
+5. Hornea durante 10 minutos hasta que se doren.
 ** Galletas de mantequilla y nata
 *** Información
 - Cantidad: 30 unidades de unos 7 centímetros de diámetro
@@ -4430,6 +5018,80 @@ Se puede usar de guarnición unas patatas Torner.
 6. Cocinar las claras a 180º unos 5 minutos.
 7. Colocar cada yema de huevo en el hueco de cada nube.
 8. Cocinar hasta que las claras estén tostadas.
+** Pasta de huevo
+*** Ingredientes
+- Huevos
+- Sal
+- Pimienta
+- Aceite de oliva
+*** Preparación
+1. Cocer los huevos.
+2. Trocearlos y ponerlos en un bol.
+3. Echarle sal, pimienta y aceite de oliva al gusto.
+4. Triturar un poco.
+*** Notas
+- Se suele tomar en tostadas, como si fuera mantequilla, para desayunar.
+** Pastel de tortillas
+*** Información
+- Comensales: 6 personas
+- Fuente: http://webosfritos.es/2010/01/pastel-de-tortillas/
+*** Ingredientes para la tortilla de espinacas
+- 600 gramos de espinacas frescas
+- Sal
+- 3 huevos
+- Una cucharada de aceite de oliva virgen extra
+- Medio diente de ajo
+*** Ingredientes para la tortilla de bonito
+- 200 gramos de bonito del Norte en escabeche
+- 3 huevos
+- Una cucharada de aceite de oliva virgen extra
+*** Ingredientes para la tortilla de gambas
+- Medio kilo de gamba roja
+- 3 huevos
+- Sal
+- Pimienta blanca molida
+- Una cucharada de aceite de oliva virgen extra
+*** Resto de ingredientes
+- 1 huevo más
+- 250 mililitros de leche
+- Una cucharada sopera colmada de harina
+- Tres cucharadas de aceite de oliva virgen extra
+- Un poco de sal
+- Un poco de nuez moscada
+- Queso manchego curado rallado al gusto
+*** Preparación
+1. Cocer las espinacas en una cacerola con un poco de agua caliente y sal
+   durante unos 4 minutos. Escurrir y sofreir con medio diente de ajo. Ponerlas
+   a fuego medio-bajo y con una tapa. Batir 3 huevos, comprobar el punto de sal
+   de las espinacas y echarlas en el huevo, removerlas y verter todo en la
+   sartén con una cucharada de aceite. Cuando esté bien caliente, echar y hacer
+   la tortilla, primero a fuego medio-fuerte y luego bajar un poco el fuego
+   para que se cuaje bien por dentro. Reservar.
+2. Abrir la lata de bonito y escurrirla. Batir los huevos y echar el bonito en
+   ellos, desmigándolo. Poner en la sartén una cucharada de aceite de oliva y
+   cuando esté caliente, hacer la tortilla, teniendo especial cuidado de que se
+   haga por dentro. Reservar.
+3. Pelar las gambas y salpimentarlas. Batir 3 huevos en un bol. Poner en la
+   sartén un poco de aceite y cuando esté caliente, echar las gambas y freirlas
+   unos segundos. Echarlas en el bol de los huevos batidos. Limpiar la sartén
+   con un papel de cocina, y echar nuevamente unas gotas de aceite y cuajar la
+   tortilla, que quede hecha pero no demasiado seca.
+4. Dejar templar las tres tortillas un poco.
+5. Con un cortapastas o un aro de emplatar y un cuchillo afilado marcar los
+   centros de las tortillas, presionar el aro y, con la cuidadosa ayuda de la
+   otra mano por debajo de la tortilla, la parte central sale fenomenal.
+   Intercambiar los centros al gusto.
+6. Batir un huevo hermoso más. Poner la sartén y echar la primera tortilla y en
+   la zona del centro, echar un poco de huevo para que cuaje. No tenerla mucho
+   tiempo: sólo lo justo para que el centro se una. Hacer lo mismo para las
+   otras dos tortillas. Reservar.
+7. Preparar una bechamel: en un cazo poner el aceite y cuando esté caliente,
+   añadir la harina, dejar que se tueste, y, a continuación, echar poco a poco
+   la leche, la sal y un poco de nuez moscada rallada y con unas varillas
+   integrar todo hasta que espese.
+8. Poner el horno a calentar para gratinar. Montar las tortillas unas encima de
+   otras, poner la bechamel por encima, rallar un poco de queso manchego curado
+   sobre ella, y meter en el horno a gratinar.
 ** Tamagoyaki
 *** Información
 - Tortilla japonesa
@@ -4489,6 +5151,39 @@ Se puede usar de guarnición unas patatas Torner.
 8. Encender el horno con la función gratinador, y gratinar la tortilla justo 
    antes de servir.
 
+** Tortilla de verduras
+*** Información
+- Comensales: 2 o 4 personas
+- Fuente: http://www.recetasdemama.es/2013/08/tortilla-de-verduras/
+*** Ingredientes
+- 4 huevos
+- 1 patata mediana
+- 1 cebolla grande
+- 1 calabacín
+- 1 pimiento rojo
+- 2 pimientos verdes
+- Aceite de oliva virgen extra
+- Sal
+*** Preparación
+1. Se pelan y se lava la patata y se corta en laminas finas. Se pone a calentar
+   una sartén con aceite de oliva y se van añadiendo la patata, la cebolla
+   cortada en juliana, los pimientos cortados a tiras y un poco de sal. El fuego
+   no debe estar demasiado fuerte, para que las verduras queden bien en su
+   punto. Cuando están a media cocción, se añade el calabacín cortado en
+   daditos.
+2. Cuando empiezan a dorarse las verduras, se retira todo del fuego, y se pone
+   todo en un colador grande para que escurra el aceite sobrante. Mientras
+   tanto se baten los huevos y se añaden las patatas y verduras, se mezcla todo
+   bien y se rectifica de sal.
+3. Se prepara de nuevo la sartén en el fuego con dos cucharadas de aceite que
+   cubran bien el fondo de la sartén. Se echa la mezcla del huevo y verduras y
+   se baja el fuego. Se mueve con movimientos circulares para que la tortilla se
+   mueva y no se pegue al fondo de la sartén.
+4. Cuando empieza a hacer burbujas es que está cuajada, y es el momento de dar
+   la vuelta. Yo utilizo un plato llano, pero se puede usar una tapadera de
+   borde liso. Si se ve que hace falta, se pone otro poquito de aceite en la
+   sartén antes de dejar resbalar suavemente la tortilla desde el plato a la
+   sartén, y se mueve de nuevo con movimientos circulares.
 ** Tortilla guisada
 *** Información
 - Comensales: 4 personas
@@ -4737,6 +5432,50 @@ Se puede usar de guarnición unas patatas Torner.
   en la mesa. Si se utiliza una salsa de soja, que es muy salada, no se pondrá
   sal a la tempura para evitar excesos.
 * Mariscos
+** Albóndigas de choco en salsa
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.elfogondelaperlagris.com/2013/11/albondigas-de-choco-en-salsa.html
+*** Ingredientes para las albóndigas
+- Medio kilo de chocos frescos
+- 2 huevos
+- 4 dientes de ajo
+- Pimienta molida
+- Harina de trigo
+- Perejil fresco
+- Pan rallado
+- Sal
+- Aceite de oliva virgen
+*** Ingredientes para la salsa
+- 1 cebolla grande
+- 6 dientes de ajo
+- Pan del día anterior
+- 1 litro de caldo de gambas o de pescado
+- 75 mililitros de vino blanco
+- Azafrán o colorante
+- Sal
+- Pimienta
+- Aceite de oliva
+*** Preparación
+1. Limpiamos los chocos y los metemos en la picadora cortados a trozos, junto a
+   los dientes de ajo pelados, un huevo, una cucharada de harina, un poco de
+   perejil, sal y pimienta. Trituramos bien y reservamos.
+2. A continuación, hacemos bolitas y las pasamos por un huevo batido y luego por
+   el pan rallado. Ponemos una sartén con abundante aceite y las freímos.
+   Reservamos.
+3. Freímos un par de rebanadas de pan duro y las metemos en la picadora junto a
+   la cebolla a trozos, los dientes de ajo pelados y un buen manojo de perejil.
+   Trituramos. 
+4. En una olla grande echamos un poco de aceite y refreímos el picado anterior.
+   Cuando coja color, añadimos el litro de fumet de gambas, o el caldo de
+   pescado, removemos y agregamos un poco de azafrán o colorante. Como está ya
+   todo picado, no hace falta que le pasemos la batidora.
+5. Salpimentamos y agregamos las albóndigas y dejamos que se terminen de hacer
+   durante 15 minutos. Si espesa el caldo mucho, le añadimos un poco de agua
+   hasta que la salsa está a nuestro gusto.
+6. Rectificados de sal y dejamos reposar unos minutos antes de servir.
+*** Notas
+- Se pueden presentar solas o con unas patatas fritas.
 ** Almejas casino
 *** Información
 - Fuente: http://m.cocinasemana.com/recetas/receta/almejas-casino/25960
@@ -5371,6 +6110,15 @@ unos 12 minutos o hasta que esté en su punto.
 #+LATEX: \clearpage
 
 * Mermeladas
+** Mermelada de pimientos
+*** Ingredientes
+- Una parte de azúcar
+- Dos partes de pimiento rojo
+*** Preparación
+1. Echar el pimiento rojo y un poco menos de la mitad de su peso en azúcar
+   en una cazuela. Cocinar a fuego lento hasta que quede hecho.
+*** Notas
+- Se suele servir en una tosta con queso.
 ** Mermelada de tomates
 *** Información
 - Fuente: http://cocina.facilisimo.com/blogs/general/mermelada-de-tomates-y-tostaditas-de-ricotta_1175909.html?aco=1032&fba
@@ -5525,6 +6273,50 @@ unos 12 minutos o hasta que esté en su punto.
    mientras decoramos los panes.
 8. Pincelamos los panes con leche y los espolvoreamos con sésamo. Y metemos al
    horno, que bajaremos a 180º, durante 20 minutos.
+** Panecillos de leche
+*** Información
+- Cantidad: 10 o 12 panecillos
+- Fuente: http://webosfritos.es/2013/10/panecillos-de-leche-pain-au-lait/
+*** Ingredientes
+- 500 gramos de harina de fuerza
+- 300 gramos de agua
+- 10 gramos de sal
+- 25 gramos de leche en polvo (tiene que ser en polvo)
+- 20 gramos de azúcar
+- 25 gramos de levadura fresca
+- 40 gramos de mantequilla a temperatura ambiente
+- 1 huevo batido para pincelar
+*** Preparación
+1. Poner en cuenco la harina, junto con el azúcar y la sal. Hacer un hueco en el
+   centro, con forma de volcán.
+2. Echar en él la levadura desmigada, el agua, la leche en polvo y la
+   mantequilla. Mezclar con la mano o con una rasqueta.
+3. Depositar la masa en la encimera. Amasar y formar una bola.
+4. Poner la bola en un cuenco ligeramente aceitado, y cubrirla con plástico
+   transparente, untado asimismo de aceite de oliva virgen extra por la cara
+   inferior, para que no forme costra.
+5. Dejar levar 3 horas.
+6. Volcar la masa sobre la encimera (sin harina). Dividir la masa en 10 piezas
+   con la ayuda de una rasqueta. Formar una bola con cada una.
+7. Aplastar un poco la bola con la mano. Doblar un tercio de la masa hacia el
+   centro y luego el tercio opuesto. Doblar un poco hacia dentro los extremos,
+   como si estuviéramos cerrando el paquetito. Con este proceso te queda
+   prácticamente con la forma de un bollito alargado. Si no es así, estira un
+   poco el bollito.
+8. Colocar los bollitos encima de papel de hornear, sobre una bandeja, un poco
+   separados unos de otros, porque crecen bastante. Pincelarlos con huevo
+   batido. Taparlos con un plástico transparente untado con aceite de oliva,
+   pero sin hacer presión sobre ellos. Se unta en aceite para que cuando crezcan
+   no se estropeen al rozar el plástico. Dejar levar 45 minutos.
+9. Cuando falten unos 15 minutos para que se cumpla el tiempo de levado,
+   precalentar el horno a 190º, calor arriba y abajo.
+10. Pincelar de nuevo los bollitos con huevo batido y con delicadeza.
+11. Hacer unos cortes con unas tijeras a lo largo de cada bollito. Hay que meter
+    la tijera, hacer el primer corte, y sin retirar la tijera, levantar la hoja
+    superior y deslizar la inferior sober el bollito, como peinándolo, y sin
+    dejar de hacer este movimiento, realizar cortes a intervalos regulares.
+12. Hornear unos 12 o 15 minutos, hasta que veas que están dorados.
+13. Sacar a una rejilla y dejar enfriar.
 ** Pizza con scamorza, patata y romero
 *** Información
 - Comensales: 4 personas
@@ -5617,6 +6409,49 @@ unos 12 minutos o hasta que esté en su punto.
 
 #+LATEX: \clearpage
 
+** Suizos
+*** Información
+- Cantidades: 10 unidades
+- Fuente: http://webosfritos.es/2013/02/suizos/
+*** Ingredientes
+- 90 gramos de leche entera
+- 40 gramos de azúcar
+- 60 gramos de mantequilla a temperatura ambiente
+- 20 gramos de levadura fresca de panadero o 6,6 gramos de levadura seca de
+  panadero
+- 2 huevos medianos
+- 300 gramos de harina de fuerza (puede admitir 25 gramos más)
+- 5 gramos de sal
+- Azúcar humedecida con unas gotas de agua
+- 1 huevo batido para pincelar
+*** Preparación
+1. Poner la leche ligeramente templada en un bol, añadir el azúcar y la
+   mantequilla, y remover con unas varillas.
+2. Incorporar la levadura desmigada y los huevos batidos. Remover.
+3. Poner en otro bol la harina y la sal formando un volcán. Echar en el centro
+   el contenido del primer bol con todos los líquidos. Ir mezclando con ayuda
+   de una rasqueta o de una cuchara.
+4. Una vez mezclado, echar la masa en la encimera, y amasar unos minutos, hasta
+   conseguir una masa elástica y lisa. Si la masa está un poco pegajosa, añadir
+   un poco de harina o echar en nuestras manos un poco de aceite.
+5. Formar una bola grande. Meterla en un bol aceitado 2 horas, o hasta que doble
+   su tamaño.
+6. Sacar la bola pasado este tiempo y amasarla 1 minuto. Formar una pieza
+   alargada con ella para que nos resulte más fácil cortar piezas de 60 gramos.
+7. Formar una bola con cada pieza y depositarlas en una bandeja de horno forrada
+   con un papel de hornear. Aplastarlas ligeramente con la mano.
+8. Dejarlas reposar en un sitio templado una hora.
+9. Precalentar el horno a 220º, calor arriba y abajo.
+10. Preparar azúcar humedecido con unas gotas de agua.
+11. Batir un huevo.
+12. Hacer un corte longitudinal a los suizos en la zona central con un cúter.
+    Pincelarlos con el huevo batido y echar un poco de azúcar húmedecido por
+    encima. Este paso se hace justo antes de meterlos en el horno.
+13. Meter los suizos en el horno a 220ºC durante 5 minutos. Pasado ese tiempo
+    bajar el horno a 200º y seguir horneando otros 5 minutos. Pueden necesitar
+    algún minuto más, pero siempre vigilando el horneado. Si se tuestan
+    demasiado hay que poner un papel de aluminio por encima hasta que estén
+    hechos. Sacarlos a enfríar a una rejilla.
 * Pasta
 ** Cacio e Pepe
 *** Información
@@ -6969,6 +7804,36 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 #+LATEX: \clearpage
 
 * Patés
+** Hummus de ajo asado
+*** Información
+- Fuente: http://www.recetasdemama.es/2013/12/hummus-de-ajo-asado/
+*** Ingredientes para el ajo asado
+- 1 cabeza de ajos
+- Aceite
+- Pimienta negra
+- Sal
+*** Ingredientes para el hummus
+- 200 gramos de garbanzos
+- 125 gramos de tahini
+- 2 dientes de ajo asado
+- Zumo de limón
+- Aceite de oliva
+- Sal
+- Salsa harissa
+*** Preparación
+1. Primero se prepara el ajo asado: Se corta la cabeza por la parte superior, se
+   pone sobre papel de aluminio, se adereza don aceite de oliva, un poco de
+   pimienta recién molida y sal. Se envuelve en el papel de aluminio y se hornea
+   a 180º durante 40 o 50 minutos.
+2. Para hacer el hummus, se cuecen los garbanzos en agua. Una vez cocidos, se
+   escurren y se reservan con parte del agua de cocción. 
+3. Con ayuda de un robot o una batidora, se hace un puré con los garbanzos, dos
+   dientes de ajo asados y una cucharadas del agua de cocción. Debe quedar una
+   pasta uniforme. Se añade a continuación el zumo de limón, el tahini y la
+   harissa y dos o tres cucharadas más de agua.
+4. Por último, se añade un chorrito de aceite de oliva y se bate bien para
+   obtener un puré homogéneo. Se rectifica de sal y se añade agua de cocción al
+   gusto, hasta conseguir un punto de densidad que nos resulte agradable.
 ** Pasta de atún
 *** Información
 - Comensales: 4 personas
@@ -7078,6 +7943,38 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 #+LATEX: \clearpage
 
 * Pescados
+** Albóndigas de mero
+*** Información
+- Comensales: 4 personas
+- Fuente: http://canalcocina.es/receta/albondigas-de-mero
+*** Ingredientes para las albóndigas
+- 500 gramos de mero
+- 1 trozo de miga de pan
+- 2 huevos
+- Sal
+- Pimienta
+- Harina para rebozar
+- Aceite de oliva para freír
+*** Ingredientes para la salsa
+- 1 diente de ajo
+- 1 cucharada de harina
+- 250 mililitros de caldo de pescado
+- Aceite de oliva virgen
+- 1 ramillete de perejil picado
+*** Preparación de la salsa
+1. Empezamos picando el ajo muy finamente.
+2. Seguidamente, doramos el ajo en una sartén con aceite, espolvoreamos con
+   harina y removemos.
+3. Mojamos con el caldo de pescado y dejamos reducir un poco sin dejar de
+   remover.
+4. A continuación, añadimos el perejil picado y reservamos.
+*** Preparación de las albóndigas
+1. Primero, picamos el mero muy pequeño y lo mezclamos en un bol con huevo, miga
+   de pan, sal y pimienta.
+2. Formamos las albóndigas, las pasamos por harina y las freímos en aceite de
+   oliva hasta que estén doraditas.
+3. Por último, echamos las albóndigas en la salsa verde y las dejamos cocinar un
+   par de minutos.
 ** Bacalao confitado al baño maría con puré de coliflor
 *** Información
 - Fuente: Escuela MasterChef
@@ -7321,6 +8218,35 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    mezclado con el zumo de limón de la maceración del aguacate, un poco de sal y
    pimienta.
 6. Enrollarla sobre sí misma y colocarla en una fuente de servir.
+** Gallo al horno con salsa de pico de gallo
+*** Información
+- Comensales: 2 personas
+- Fuente: http://www.hogarutil.com/cocina/recetas/pescados-mariscos/201402/gallo-horno-salsa-pico-gallo-23615.html
+*** Ingredientes
+- 1 gallo
+- 2 tomates
+- 1 cebolla roja
+- 1 aguacate
+- 1 limón
+- 2 chiles jalapeños
+- Aceite de oliva virgen extra
+- Sal
+- Sal en grano
+- Cilantro
+- Perejil picado
+- Vinagreta
+*** Preparación
+1. Para la salsa de pico de gallo, trocea el tomate y la cebolla en daditos y
+   ponlos en un bol. Añade un poco de cilantro picado y adereza con sal y jugo
+   de limón. Trocea el chile jalapeño y el aguacate, agrégalos y riega con un
+   poco de aceite de oliva virgen extra. Sazona y mezcla bien el conjunto.
+2. Moja la superficie de una bandeja de horno con un poco de aceite de oliva
+   para que el gallo no se pegue después de hornear. Sazona el gallo, adereza
+   con vinagreta y riega con un chorrito de aceite de oliva virgen extra por
+   encima. Hornea el gallo a 250º durante 7 minutos (el horno tiene que estar
+   previamente calentado).
+3. Retíralo, espolvorea con perejil picado y sirve el pescado en una bandeja
+   acompañado de un cuenco de salsa de pico de gallo.
 ** Lubina en salsa
 *** Información
 - Fuente: http://webosfritos.es/2012/02/lubina-en-salsa-para-tuper/
@@ -7494,6 +8420,70 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 11. Meter en el horno, que seguirá caliente a 180º, con función
     aire. Dejarlo 10 minutos. Servir.
 
+** Merluza en salsa de piquillos
+*** Información
+- Comensales: 2 personas
+- Fuente: http://www.hogarutil.com/cocina/recetas/pescados-mariscos/201402/bocados-merluza-salsas-23621.html
+*** Ingredientes
+- 2 lomos de merluza
+- Huevo
+- Harina
+- Aceite de oliva virgen extra
+- Sal
+- Perejil picado
+- Vinagreta
+- 8 o 10 pimientos del piquillo
+- 200 gramos de leche evaporada
+- 1 cebolla
+- 1 diente de ajo
+- 1 guindilla
+*** Preparación
+1. Para la salsa de pimientos, pon un diente de ajo en una sartén con un
+   chorrito de aceite de oliva e incorpora los pimientos. Deja que se confiten. 
+2. Coloca una cazuela con un chorrito de aceite de oliva virgen extra y añade el
+   ajo y la cayena para que se infusione. Pica la cebolla, agrégala, deja que se
+   poche durante unos minutos y agrega los pimientos confitados. Rehoga el
+   conjunto, vierte la leche evaporada y deja que se cocine. Tritura bien con
+   una batidora eléctrica. 
+3. Limpia la merluza haciendo un corte cerca de la espina central y empuja con
+   el cuchillo hacia los lados. Para retirar la piel negra sobrante, usa un
+   papel húmedo y tira de la piel. Trocéalo y rebózalo en huevo y harina.
+   Primero pasa por el huevo, luego por harina y termina con más huevo. Fríe la
+   merluza en una sartén con un chorrito de aceite de oliva y deja que repose
+   unos minutos. 
+4. Sirve las salsa, coloca la merluza encima, adereza con vinagreta y espolvorea
+   con perejil. 
+** Merluza en salsa de espinacas
+*** Información
+- Comensales: 2 personas
+- Fuente: http://www.hogarutil.com/cocina/recetas/pescados-mariscos/201402/bocados-merluza-salsas-23621.html
+*** Ingredientes
+- 2 lomos de merluza
+- Huevo
+- Harina
+- Aceite de oliva virgen extra
+- Sal
+- Perejil picado
+- Vinagreta
+- 250 gramos de espinacas
+- 200 gramos de leche evaporada
+- 1 cebolla
+- 1 diente de ajo
+- 1 limón
+*** Preparación
+1. Para la salsa de espinacas, pon una cazuela con un poco de aceite de oliva
+   virgen extra y añade un ajo pasa que se infusione el aceite. Añade la cebolla
+   picada, deja que se poche y vierte la leche evaporada. Incorpora las hojas de
+   espinaca y deja que se cocine durante unos minutos. Tritura con la batidora y
+   moja con un poco de jugo de limón. 
+2. Limpia la merluza haciendo un corte cerca de la espina central y empuja con
+   el cuchillo hacia los lados. Para retirar la piel negra sobrante, usa un
+   papel húmedo y tira de la piel. Trocéalo y rebózalo en huevo y harina.
+   Primero pasa por el huevo, luego por harina y termina con más huevo. Fríe la
+   merluza en una sartén con un chorrito de aceite de oliva y deja que repose
+   unos minutos. 
+3. Sirve las salsa, coloca la merluza encima, adereza con vinagreta y espolvorea
+   con perejil. 
 ** Merluza en salsa verde
 *** Información
 - Fuente: http://lacocinadivertida.com/2013/02/04/lomos-de-merluza-en-salsa-verde/
@@ -8881,6 +9871,29 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 *** Consejo
 - Mojar la hoja del cuchillo con agua caliente al hacer las porciones,
   facilitará el corte.
+** Trufas de chocolate
+*** Información
+- Fuente: http://www.hogarutil.com/cocina/recetas/postres/201212/trufas-chocolate-17753.html
+*** Ingredientes
+- 375 gramos de chocolate negro para postres
+- 250 mililitros de nata líquida
+- 2 nueces de mantequilla
+- 1 chorrito de brandy
+- (opcional) Fideos de chocolate
+- (opcional) Cacao en polvo
+- (opcional) Almendra crocanti
+- (opcional) Coco molido
+*** Preparación
+1. Pon el chocolate y la mantequilla en un bol y fúndelos al baño maría. Mezcla
+   bien.
+2. Hierve la nata y déjala templar. Añade la nata al chocolate y mezcla bien.
+   Vierte el brandy y mezcla hasta que quede una masa homogénea. Pasa la masa a
+   una fuente baja y deja enfriar a temperatura ambiente durante 24 horas o
+   enfríalo en el frigorífico. 
+3. Pasado este tiempo, con ayuda de dos cucharas de postre, coloca porciones de
+   masa sobre un plato limpio y redondéalas con las manos. A continuación pasa
+   algunas por el cacao en polvo, otras por los fideos de chocolate, la almendra
+   y el coco.
 ** Turrón de chocolate
 *** Información
 - Fuente: http://webosfritos.es/2010/12/turron-de-chocolate-facil-y-rapido/
@@ -9717,6 +10730,30 @@ La salsa carbonara es apropiada especialmente para pastas largas.
    Cocinar a fuego lento 20 minutos, removiendo de vez en cuando.
 3. Añadir poco a poco la crema. No deje que la mezcla hierva.
 4. Agitar y servir sobre la pasta escogida.
+** Salsa rouille
+*** Información
+- Fuente: http://www.gastronomiaycia.com/2008/03/10/las-salsas-salsa-rouille-receta-facil/
+*** Ingredientes
+- 1 huevo
+- 220 mililitros de aceite
+- 2 o 3 dientes de ajo
+- Sal
+- 1 pimiento rojo seco
+- 2 cucharadas de caldo
+- 2 rebanadas de pan del día anterior
+- 1 patata pequeña
+- (opcional) Pimentón picante
+- (opcional) Salsa harissa
+- (opcional) Vino blanco
+- (opcional) Azafrán
+- (opcional) Pimiento al horno
+- (opcional) Tomate seco
+- (opcional) Guindillas
+*** Preparación
+1. Empezamos haciendo un alioli con el huevo, aceite, los dientes de ajo y sal.
+2. Seguidamente le agregamos un pimiento rojo seco, el caldo, la miga de las
+   rebanadas de pan del día anterior, la patata ya cocida y los ingredientes
+   opcionales que queramos.
 ** Salsa rosa exprés
 *** Ingredientes
 - 4 cucharadas soperas de mayonesa
@@ -11836,6 +12873,29 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 5. Tardará unos 30 minutos. Hay que vigilarlo casi al final, para que quede
    dorado pero no se queme. Si veis que vuestro horno va muy fuerte, bajadlo a
    180° una vez pasados los primeros 15 minutos.
+** Endivias con cebolla confitada, jamón y queso
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.hogarutil.com/cocina/recetas/ensaladas-verduras/201102/endibia-cebolla-confitada-jamon-queso-3359.html
+*** Ingredientes
+- 4 endivias
+- 3 cebollas
+- 4 lonchas de jamón serrano
+- 200 gramos de queso
+- Agua
+- Aceite de oliva
+- Sal
+- Perejil
+*** Preparación
+1. Pon a cocer las endivias en una cazuela con abundante agua y una pizca de sal
+   durante 15 minutos. Escurre y ábrelas por la mitad (como un libro).
+2. Pela y corta las cebollas en juliana. Deja que se pochen en una sartén con un
+   chorrito de aceite y una pizca de sal. Escurre el exceso de aceite.
+3. Pon las endivias en una placa de horno untada con un poco de aceite. Reparte
+   la cebolla confitada sobre las endivias. Quita la grasa del jamón, pícalo y
+   distribúyelo sobre la cebolla. Corta 2 cuñas de queso por cada endivia,
+   ponlas encima y gratina en el horno durante 2 o 3 minutos.
+4. Sirve una endibia por ración y decora con una ramita de perejil.
 ** Endivias con queso azul y nueces
 *** Información
 - Comensales: 4 personas
@@ -12056,6 +13116,29 @@ La salsa carbonara es apropiada especialmente para pastas largas.
 3. Cuando la bechamel esté lista, la aliñamos con una pizca de sal, un poco de
    pimienta y de nuez moscada. Escurrimos las espinacas y la servimos con el
    sofrito y la bechamel por encima.
+** Gazpacho de yogur
+*** Información
+- Comensales: 4 personas
+- Fuente: http://canalcocina.es/receta/gazpacho-de-yogur
+*** Ingredientes
+- 4 yogures griegos
+- 2 pepinos
+- 1 ramillete de hierbabuena o menta fresca
+- Sal
+- Aceite de oliva virgen
+- Vinagre de Jerez
+- Pimienta negra
+*** Preparación
+1. Lo primero que hacemos es pelar el pepino y si queremos, le retiramos la
+   parte central de las pepitas para que no nos repita.
+2. Lo troceamos y lo trituramos con el yogur, un par de cubitos de hielo, un
+   poco de aceite y vinagre de Jerez y la menta.
+3. Aliñamos con sal y pimienta y comprobamos que esté a nuestro gusto de aceite
+   y vinagre.
+4. Servimos muy frío.
+*** Notas
+- Podemos añadir unos daditos de pepino, uas hojitas de hierbabuena, unas
+  regañás...
 ** Gougère de verduras
 *** Información
 - Comensales: 4 personas
