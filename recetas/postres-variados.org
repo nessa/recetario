@@ -1,0 +1,1128 @@
+** Azucarillos de caramelo
+*** Información
+- Fuente: Lorraine Pascale
+*** Ingredientes
+- 1 cucharada de aceite vegetal
+- 80 gramos de mantequilla
+- 160 gramos de azúcar
+- 80 gramos de miel
+- 2 cucharadas de bicarbonato
+*** Preparación
+1. Engrasar un molde cuadrado de unos 20 cm con el aceite.
+2. Calentar a fuego medio la mantequilla, el azúcar y la miel en una 
+   cacerola hasta que el azúcar se haya disuelto. Subir el fuego y 
+   llevar a ebullición rápidamente, sin remover. Si la mezcla se vuelve
+   más oscura en una zona que en otra, mueve suavemente la cacerola.
+   Seguir en ebullición hasta que la mezcla tenga un color dorado
+   oscuro (unos 5 minutos).
+3. Añadir el bicarbonato y remover unos segundos, lo que hará que la
+   mezcla se expanda y efervesca. Echar la mezcla en el molde
+   engrasado y dejarla hasta que se enfríe y endurezca.
+4. Se puede servir cortado en trozos o usarlo como cobertura para
+   otros postres.
+** Bombones helados
+*** Información
+- Comensales: 10 o 12 raciones
+- Fuente: http://www.nestle.es/nestlepostres/recetas/155/bombones-helados.aspx
+*** Ingredientes
+- 150 gramos de Chocolate NESTLÉ Postres
+- 300 gramos de nata montada
+- 50 gramos de azúcar
+- 3 yemas de huevo
+- 200 gramos de Chocolate NESTLÉ Postres Intenso
+*** Preparación
+1. Mezclar las yemas con el azúcar y 50 mililitros de agua y cocerlo al baño
+   maría, batiéndolo con unas varillas eléctricas, hasta que esté espumoso y
+   haya doblado su volumen (unos 8 minutos). Dejarlo enfriar batiéndolo fuera
+   del fuego unos minutos más.
+2. Añadir el chocolate fundido al baño maría y la nata montada y mezclarlo con
+   cuidado.
+3. Verterlo en pequeños moldes esféricos para bombones y dejarlos en el
+   congelador durante una horas.
+4. Fundir el chocolate intenso troceado al baño maría.
+5. Desmoldear los bombones sobre una rejilla y cubrirlos con el chocolate
+   fundido. Dejarlos en el refrigerador durante 30 minutos para que el chocolate
+   se solidifique.
+*** Notas
+- Si se preparan con antelación, ponerlos en el congelador y sacarlos 30
+  minutos antes de servirlos.
+** Brownie After Eight
+*** Información
+- Fuente: http://webosfritos.es/2011/11/brownie-after-eight/
+
+#+BEGIN_LATEX
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{./imagenes/brownie-con-helado.jpg}
+  \caption{Brownie de chocolate y nueces con helado de vainilla y nueces de macadamia}
+\end{figure}
+#+END_LATEX
+
+*** Ingredientes
+- 200 gramos de chocolate fondant
+- 100 gramos de mantequilla
+- 3 huevos
+- 100 gramos de azúcar moreno
+- 75 gramos de frutos secos (avellanas tostadas y nueces)
+- 75 gramos de harina
+- 1 cucharada levadura de repostería
+- 1 paquete de After Eight
+- Azúcar glas para adornar
+*** Preparación
+1. Poner en un bol la mantequilla y el chocolate troceado, y fundirlo
+   en el microondas, usando la función descongelación, durante 2
+   minutos, o hasta que esté fundido, parando el microondas cada 45
+   segundos para vigilar el proceso. ¡Ojo, que si no, se quema!
+2. En otro bol poner los huevos y el azúcar, y batirlos durante 2
+   minutos.
+3. Trocear los frutos secos con un cuchillo afilado. Incorporarlos a
+   la mezcla de los huevos y el azúcar, y remover.
+4. Añadir el chocolate y la mantequilla fundidos. Mezclar bien.
+5. Incorporar la harina y la levadura tamizadas, y mezclar lo justo
+   hasta que la mezcla esté homogénea.
+6. Precalentar el horno a 180º, calor arriba y abajo.
+7. Meter los After Eight unos minutos en el congelador para poder
+   trabajar mejor con ellos y que no se deshagan antes de tiempo.
+8. Forrar un molde rectangular de 25 por 35 cm con papel de
+   hornear. Untarlo con mantequilla. Si queréis un brownie más alto
+   debereís utilizar un molde mas pequeño que el yo os propongo.
+9. Poner la masa y repartirla para que llegue bien a todas
+   las esquinas, ayudándonos de una espátula de silicona.
+10. Meter el molde y hornear entre 22 y 25 minutos.
+11. Sacar del horno, y desmoldar inmediatemente con cuidado sin quitar
+    el papel de hornear y dejarlo encima de una rejilla hasta que esté
+    totalmente frío.
+12. Espolvorear con azúcar glas (con ayuda de un colador).
+13. Cortar los bordes para que queden iguales. Cortarlo al gusto con
+    un cuchillo afilado.
+*** Nota
+- La conservación es perfecta durante unos días si tenemos la precaución
+  de taparlo con plástico transparente, pero ¡ojo!, sin apretar, ya que
+  la superficie es delicada. Lógicamente con el paso de las horas se va
+  perdiendo el crujiente exterior pero sigue estando muy rico.
+** Brownies de almendras con chocolate a la canela
+*** Información
+- Fuente: Recetas de Nestlé POSTRES
+- Tiempo: 15 minutos
+- Cocción: 20 minutos
+- Comensales: 8 o 10 raciones
+
+#+BEGIN_LATEX
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{./imagenes/brownie-decorado.jpg}
+  \caption{Brownie con diversas decoraciones}
+\end{figure}
+#+END_LATEX
+
+*** Ingredientes
+- 125 gramos Chocolate para postres
+- 125 gramos mantequilla
+- 130 gramos azúcar
+- 2 huevos
+- 50 gramos harina
+- 75 gramos almendras picadas
+- 1 cucharadita canela en polvo
+- 1 cucharadita vainilla azucarada
+*** Ingredientes para la salsa
+- 150 gramos Chocolate para postres
+- 1 cucharadita canela en polvo
+*** Preparación
+1. Calentar el horno a 150º. Forrar un molde cuadrado con papel
+   vegetal.
+2. Fundir el chocolate al Baño María. Añadir mantequilla a trocitos
+   y dejar que se derrita. Mezclarlo con una espátula para obtener
+   una masa lisa.
+3. Batir los huevos con azúcar hasta que la mezcla quede
+   blanquecina. Verter chocolate fundido sin dejar de
+   remover. Añadir harina tamizada, almendras, especies y mezclar
+   bien.
+4. Verter la masa en el molde, previamente engrasado y cocerlo en
+   el horno 20 minutos.
+5. Salsa: Calentar 100 mililitros (medio vaso) de agua hasta hervir. Retirar
+   del fuego y añadir chocolate troceado y canela. Cuando esté
+   fundido remover con una espátula hasta obtener una salsa lisa.
+6. Servir los brownies tibios partidos en cuadrados y acompañados
+   de salsa de chocolate a la canela.
+** Bundt cake de naranja
+*** Información
+- Fuente: http://webosfritos.es/2013/11/bundt-cake-de-naranja/
+*** Ingredientes
+- 150 gramos de mantequilla a temperatura ambiente
+- 200 gramos de azúcar
+- 6 huevos grandes
+- 1 yogur natural
+- El zumo de 2 naranjas grandes
+- La ralladura de una naranja
+- 1 pellizco de sal
+- 400 gramos de harina de repostería
+- 1 sobre de levadura
+- Azúcar glass
+*** Preparación
+1. Precalentar el horno a 180ºC, calor arriba y abajo.
+2. Batir la mantequilla y el azúcar con unas varillas eléctricas o a mano
+   durante 5 minutos. En este tiempo la masa blanquea y aumenta su volumen.
+3. Incorporar los huevos uno a uno, sin dejar de batir.
+4. Añadir el zumo de las dos naranjas y la ralladura de una de ellas.
+5. Echar el yogur y mezclar con las varillas.
+6. Tamizar la harina e incoporarla a la mezcla junto con la levadura y la sal.
+   Mezclar con una espátula, sólo lo necesario para que la masa esté homogénea.
+7. Untar el molde con mantequilla, teniendo paciencia con todas las aristas, y
+   espolvorear harina por encima con la ayuda de un colador. Echar la masa en
+   él. Darle un par de golpes contra la encimera.
+8. Hornear 30 minutos a 180ºC y otros 15 minutos más a 170ºC, siempre calor
+   arriba y abajo. En total, 45 minutos. Pasado este tiempo, pinchar con una
+   brocheta y comprobar que sale seca. Si no es así, dejar 5 minutos más.
+9. Sacar a una rejilla, dejar enfríar 10 minutos, y desmoldar poniendo la
+   rejilla boca abajo sobre del molde y dándole la vuelta al mismo.
+10. Una vez frío, y con la ayuda de un colador espolvorear azúcar glas por
+    encima.
+** Caracolas de hojaldre y nutella
+*** Información
+- Fuente: http://webosfritos.es/2014/09/caracolas-de-hojaldre-y-nutella/
+*** Ingredientes
+- 1 plancha de hojaldre
+- 3 cucharadas soperas de Nutella
+*** Preparación
+1. Precalienta el horno a 200º, calor arriba y abajo.
+2. Desenrolla la plancha de hojaldre.
+3. Pon Nutella a la mitad de la plancha, y extiéndela con una espátula. No
+   pongas mucha cantidad, que no es necesario.
+4. Corta la otra mitad de la plancha y ponla por encima.
+5. Espolvorea un poco de azúcar por encima, y pásale un rodillo suavemente.
+6. Corta unas tiras de igual tamaño.
+7. Coge los extremos de cada tira con las manos y retuércelas.
+8. Enróllalas sobre sí mismas, haciendo caracolas.
+9. Hornea los 10 primeros minutos a 200ºC. Baja el horno a 180ºC, y termina de
+   hornear unos 5 minutos más.
+10. Saca a una rejilla y deja enfriar.
+** Chocolate a la taza
+*** Información
+- Fuente: Recetas de Nestlé POSTRES.
+- Tiempo: 5 minutos
+- Comensales: 8 personas
+*** Ingredientes
+- 250 gramos Chocolate para postres
+- Medio litro de leche
+*** Preparación
+1. Calentar la leche con el chocolate troceado hasta que el
+   chocolate esté fundido. Llevarlo a ebullición y retirarlo del
+   fuego.
+2. Servirlo muy caliente.
+** Coquitos
+*** Información
+- Fuente: http://kocinarte.com/recetas/coquitos
+*** Ingredientes
+- 250 gramos de coco rallado
+- 250 gramos de azúcar
+- 3 huevos
+*** Preparación
+1. Mezclamos el coco con el azúcar, a continuación vamos incorporando uno a uno
+   los huevos y lo batimos todo bien.
+2. Dejamos reposar 1 hora aproximadamente para que el coco se rehidrate. Hacemos
+   bolitas.
+3. Con el horno previamente calentado a 180 grados metemos la fuente con las
+   bolitas de coco durante 10 minutos.
+** Coulant de chocolate
+*** Información
+- Fuente: Recetas de Nestlé POSTRES.
+*** Ingredientes
+- 100 gramos de NESTLÉ Postres Intenso + 8 onzas (para el interior de coulant)
+- 3 huevos
+- 80 gramos de azúcar
+- 50 gramos de mantequilla
+- 1 cucharada de harina
+*** Preparación
+1. Precalentar el horno a 260°.
+2. Calentar los 100 gramos de chocolate al microondas con dos cucharadas soperas
+   de agua y la mantequilla durante 1 minuto y medio a 500 W.
+3. Batir los huevos con el azúcar y agregar la harina. Añadir el chocolate
+   fundido y mezclarlo bien.
+4. Untar unos moldes individuales con un poco de mantequilla y espolvorearlos
+   con harina.
+5. Verter la mezcla en los moldes llenándolos dos tercios. Colocar dos onzas de
+   chocolate en cada molde y luego cubrir con el resto de la mezcla.
+6. Colocar los moldes en el horno durante unos 7 u 8 minutos y servirlos
+   inmediatamente.
+*** Consejo
+- Servirlo con una bola de helado o nata semimontada.
+** Crumble de fresas
+*** Información
+- Fuente: http://webosfritos.es/2009/06/crumble-de-fresas/
+*** Ingredientes
+- 500 gramos de fresas (con un poco de azúcar por encima)
+- 150 gramos de harina de repostería
+- 100 gramos de mantequilla
+- 100 gramos de azúcar
+- Una pizca de vainilla
+- 150 gramos de nata
+- 50 gramos de azúcar glas
+*** Preparación
+1. Calentar el horno a 200° calor arriba y abajo con aire.
+2. En un molde apto para horno, poner las fresas previamente lavadas
+   y escurridas, y cortadas por la mitad. Ponerles un poco de azúcar
+   por encima.
+3. Preparar la masa mezclando con la mano la harina, la mantequilla
+   en trocitos, el azúcar y la vainilla, hasta que comience a hacerse
+   migas (crumble significa desmigajar). Dejar reposar al frío 10
+   minutos. Espolvorear esta masa sobre las fresas.
+4. Bajar el horno a 180° y meter el crumble en él unos 30 minutos. El
+   resultado tiene que mostrarnos una costra dorada y dura.
+5. Montar con varillas la nata y el azúcar. Casi al final añadir el
+   azúcar glas.
+7. Acompañar el crumble con la nata montada.
+** Cuencos de chocolate (usando globos)
+*** Información
+- Fuente: http://www.recetasmierdaeuristas.com/8168/hacer-cuencos-de-chocolate-con-un-globo/
+** Delicia de tres chocolates
+*** Información
+- Fuente: Recetas de Nestlé POSTRES.
+*** Ingredientes
+- 100 gramos de Chocolate NESTLÉ Postres Blanco
+- 100 gramos de Chocolate NESTLÉ Postres Intenso
+- 170 gramos de Chocolate NESTLÉ Postres Negro
+- 150 gramos de queso blanco (tipo quark) con un 20% de materia grasa
+- 1 cucharada de azúcar glas
+- 2 hojas de gelatina
+- 3 huevos
+- 40 gramos de azúcar
+- 50 mililitros de leche semidesnatada
+- 60 gramos de harina
+- 60 gramos de mantequilla
+- 20 gramos de mantequilla
+*** Preparación
+1. Precalentar el horno a 180ºC.
+2. En un bol derretir el chocolate negro con 60 gramos de mantequilla en el
+   microondas a 500 W y mezclarlo bien.
+3. Añadir el azúcar glas, las yemas de huevo y la harina, y por último
+   incorporar suavemente las claras batidas a punto de nieve.
+4. Verterlo en el molde de silicona y cocerlo unos 12 minutos en el horno.
+5. Dejarlo enfriar y desmoldarlo. Reservar.
+6. Colocar la gelatina en un recipiente con agua fría para que se ablande.
+7. Deshacer el chocolate blanco en el microondas tal como se indica en las
+   instrucciones del embalaje.
+8. Calentar la leche en un cazo pequeño y deshacer la gelatina escurrida; añadir
+   el chocolate blanco derretido y el queso blanco.
+9. Verter la mezcla en el molde de silicona anterior previamente forrado con un
+   film transparente (que ayuda a desmoldarlo mejor) y dejarlo en el
+   refrigerador una hora.
+10. Colocar el bizcocho encima y dejarlo unas dos horas más.
+11. Preparar la salsa: Fundir el chocolate Intenso en el microondas de acuerdo
+    con las instrucciones del embalaje. Agregar la mantequilla restante y
+    mezclarlo bien hasta obtener una salsa.
+12. Desmoldar el pastel y cortarlo en cuadrados y verter la salsa sobre el
+    chocolate blanco.
+** Helado "falso" de chocolate
+*** Ingredientes
+- 150 gramos de chocolate
+- 400 gramos de leche evaporada
+- Una cucharada de postre de azúcar
+*** Preparación
+1. Echar en un cuenco la leche evaporada y ponerla en el congelador
+   una hora y cuarto aproximadamente, hasta que empiece a formar una
+   capa congelada por arriba, pero siga estando líquida por abajo.
+2. Fundir el chocolate en el microondas a temperatura mínima y
+   removiendo cada 15 segundos hasta que esté deshecho. Reservar unos
+   minutos mientras montamos la leche evaporada.
+3. Sacar el cuenco con la leche del congelador y batirla con una
+   batidora de varillas, hasta conseguir que doble su volumen,
+   incluso un poco más. Añadir en este punto la cucharada de azúcar y
+   sin dejar de batir ir incorporando el chocolate hasta que esté
+   perfectamente integrado. Ya está.
+*** Opciones según el tiempo de congelado
+1. Servir inmediatamente en copas congeladas, y queda como una crema
+   ligera y nada empalagosa: sería como una crema de chocolate.
+2. Meter el mismo bol en el congelador. A la hora, sacarlo y volver a
+   batir con las varillas: en este momento tiene textura de mousse.
+3. Meter en el cogelador, y cada hora sacarlo y batirlo con la
+   batidora. De esta manera vuelve a montar un poco, y cada vez va
+   quedando más cremoso. Con repetir la operación tres veces es
+   suficiente; la última vez, dejarlo casi dos horas en el frigo antes
+   de servirlo, para que esté bien cuajado. Servir con un sacabolas de
+   helado.
+*** Consejos
+- Si mientras estáis montando la leche evaporada tenéis que dejar de
+  batir por la circunstancia que sea, comprobaréis que baja un
+  poco. No es un problema. La metéis un rato en el congelador, y
+  cuando empiece de nuevo a hacer una capa helada, la sacáis y
+  volvéis a montar; en seguida empieza a coger la textura de nuevo.
+** Layer cake
+*** Información
+- Fuente: Recetas de Nestlé POSTRES 
+  http://www.nestle.es/nestlepostres/videotalleres/6/376/layer-cake.aspx
+*** Ingredientes
+- 180 gramos de chocolate Nestlé Postres Blanco
+- 7 huevos grandes
+- 500 gramos de harina
+- 50 gramos de harina de maíz
+- 400 gramos de azúcar
+- 200 mililitros de nata para montar
+- 50 mililitros de leche entera
+- 250 gramos de mantequilla a temperatura ambiente
+- 1 pizca de sal
+- 1 cucharadita pequeña de bicarbonato
+- 16 gramos de levadura
+- 1 cucharadita de postre de vainilla líquida
+*** Ingredientes para el relleno y cobertura
+- 400 gramos de chocolate Nestlé Postres Intenso
+- 150 gramos de mantequilla a temperatura ambiente
+- 250 mililitros de nata para montar
+- 275 gramos de mermelada de frambuesas
+- 50 gramos de mascarpone
+- Frambuesas
+- Unas hojitas de menta fresca
+- 200 mililitros de nata para montar
+*** Preparación
+1. Precalentar el horno a 170º y engrasar con mantequilla tres moldes de 20cm
+   poniendo un papel de horno en el fondo.
+2. Fundir el chocolate al baño maría o microondas y reservar.
+3. Batir la mantequilla con el azúcar. Añadir los huevos ligeramente batidos 
+   poco a poco sin parar de batir a velocidad baja. 
+4. Añadir la vainilla, la nata y la leche y batir de nuevo. Añadir el chocolate
+   fundido y mezclar hasta que quede incorporado.
+5. Mezclar la harina, la harina de maíz, la sal, la levadura y el bicarbonato y
+   tamizar.
+6. Añadir la mezcla de harina poco a poco hasta conseguir una masa fina y
+   homogénea. Batir poco a poco e ir mezclando con una espátula, ya que es una
+   masa muy densa.
+7. Repartir la mezcla en los tres moldes poniendo en cada uno de ellos la misma
+   cantidad de masa y hornear unos 35 o 40 minutos.
+8. Desmoldar y dejar enfriar totalmente encima de una rejilla.
+9. Cortar cada bizcocho en dos partes y cortando también la parte superior
+   procurando dejar las capas lo más rectas posible.
+*** Preparación del relleno y la cobertura
+1. Fundir el chocolate y la mantequilla a temperatura ambiente al microondas y
+   dejar temperar.
+2. Montar la nata. Mezclar la nata con el chocolate con suavidad y movimientos
+   envolventes.
+3. Mezclar la mermelada con el mascarpone.
+4. Poner un poco de chocolate en el plato de presentación y encima la primera
+   capa de bizcocho. Ir untando cada capa de bizcocho una mermelada y otra con
+   chocolate y así sucesivamente.
+5. Cubrir los laterales y parte superior del pastel con el resto de chocolate.
+6. Decorar con rosetones de nata montada,  unas frambuesas y hojitas de menta.
+** Macarons de avellana
+*** Información
+- Fuente: http://webosfritos.es/2013/03/macarons-de-avellana/
+- Cantidad: 36 unidades
+*** Ingredientes para las conchas
+- 110 gramos de almendra en polvo
+- 225 gramos de azúcar glas
+- 125 gramos de clara de huevo
+- 50 gramos de azúcar normal
+*** Ingredientes para la crema de avellanas
+- 75 gramos de mantequilla
+- 75 gramos de avellanas con pielpara hacer pasta de avellanas
+*** Ingredientes para el crujiente de chocolate
+- 1 cucharadita de café de pasta de avellana
+- 75 gramos de chocolate negro
+- 4 cucharadas de cereales crujientes de chocolate
+*** Preparación de las conchas
+**** Primera parte: Preparar las plantillas y el papel del hornear
+1. Cortar un trozo de papel de hornear del tamaño de la plantilla, ponerlo sobre
+   ésta, y sujetar ambos entre sí (por ejemplo, con clips). Poner la plantilla y
+   el papel del hornear en un sitio del que no lo tengamos que mover durante el
+   tiempo de secado de los macarons, pero sobre el que trabajemos bien, por
+   ejemplo, una mesa de cocina.
+**** Segunda parte: Triturar, tamizar, montar, colorear
+1. Triturar con un robot la almendra en polvo y el azúcar glas durante 30
+   segundos a velocidad máxima hasta obtener un polvo muy fino.
+2. Tamizar la mezcla.
+3. Poner las claras en el bol que vayamos a usar. Batirlas durante 2 minutos a
+   mínima potencia. Pasado este tiempo batir las claras a máxima potencia hasta
+   que estén muy firmes. Añadir casi al final del proceso los 50 gramos de
+   azúcar normal. El merengue se tiene que quedar como si fuese espuma de
+   afeitar.
+**** Tercera parte: le macaronage
+1. Echar la mezcla de almendra y azúcar de una sola vez sobre las claras a punto
+   de nieve.
+2. Coger el bol con un brazo. Con la lengua de silicona ir mezclando con
+   movimientos envolventes y circulares amplios, y de vez en cuando metiendo la
+   lengua en la base del bol. Terminar de mezclar unos segundos de una manera un
+   poco más enérgica, pero sin pasarse: es preferible quedarte corto y que la
+   masa esté un poco granulada las primeras veces a que esté muy líquida.
+3. La masa será lisa, brillante, pero NO líquida.
+**** Cuarta parte: manga pastelera
+1. Preparar una manga pastelera y la boquilla de 6 mm. Cortar la punta de la
+   manga pastelera y meter la boquilla a fondo. Retorcer la bolsa unos dos giros
+   completos y empujar con el dedo la parte retorcida de la manga un poco
+   arrugada dentro de la boquilla. Esto actúa de estrangulamiento que evita que
+   salga la masa conforme llenas la manga.
+2. LLenar la manga pastelera.
+3. Poniendo horizontal la manga, cerrarla retorciéndola, y comprimir un poco
+   para que se quite el estrangulamiento que habías hecho para que no se saliese
+   la masa. Poner la boquilla hacia arriba para que no se te caiga nada de masa
+   hasta que estés preparado.
+**** Quinta parte: formado del macaron
+1. Poner la manga pastelera en posición vertical encima del papel de hornear.
+   Hacer montoncitos con la masa sobre cada círculo de la plantilla. Para
+   terminar de hacer un montón y pasar al siguiente tenemos que hacer un pequeño
+   giro con la muñeca y levantar ligeramente la manga: esto corta la masa.
+2. Si sólo tienes una plantilla, cuando se llene parar el proceso, quitar con
+   cuidado la plantilla y colocársela al siguiente papel de hornear. Pasar el
+   papel con los macarons ya formados con sumo cuidado a la bandeja en la que
+   los vayamos a hornear.
+3. Hay que golpear dos o tres veces la bandeja sobre la mesa de trabajo, con
+   firmeza pero sin pasarse.
+**** Sexta parte: reposo
+1. Dejar reposar hasta que se forme una ligera costra, de manera que toques
+   suavemente la superficie del macaron y la notes seca y no se te pegue en el
+   dedo. Este paso es importante para formar un buen pie. El tiempo puede ir
+   desde media hora hasta hora y media o más, dependiendo del frío y de la
+   humedad que tengas en casa.
+**** Séptima parte: horneado
+1. Antes de que termine el proceso de secado volver a precalentar el horno a
+   150º, calor arriba y abajo, sin aire.
+2. Cuando esté listo, hornear a esa temperatura, en la parte media del horno,
+   durante 13 minutos. ¡Ojo! En este punto cada uno tendrá que ensayar tiempos
+   con su propio horno. Puedes intentar despegar uno y se te queda la base
+   pegada al papel, necesitan 1 o 2 minutos más, pero no te vayas a emocionar
+   porque tampoco se te pueden quedar muy secos. Además, los colores claros son
+   más delicados: si nos pasamos de horno tienden a tostarse y perder su bonito
+   color.
+3. Sacar del horno, dejar enfriar, y despegar.
+**** Octava parte: el relleno
+1. Preparar el relleno como explico a continuación.
+2. Colocar las conchas en fila haciendo parejas con las de tamaño más similar.
+   Las que vamos a rellenar con el pie hacia arriba y sus parejas con el pie
+   hacia abajo.
+3. Proceder a colocar los dos rellenos, y cubrir en seguida y con cuidado con la
+   concha de arriba. Apretar ligeramente.
+*** Preparación del relleno
+**** La crema de mantequilla y avellana
+1. Hacer la pasta de avellanas. Para ello precalentamos el horno 150º, calor
+   arriba y abajo.
+2. Coger una bandeja de horno y cubrirla con papel de hornear.
+3. Quitar la cáscara a las avellanas y ponerlas sobre la bandeja con el papel.
+4. Mantener las avellanas en el horno unos 12 o 15 minutos, dándoles vueltas con
+   una espátula cada 5 minutos. Sabremos que están si cogemos una y se pela sin
+   dificultad. Pelarlas y dejarlas enfriar. Habrá alguna que no se pele; no pasa
+   nada: se deja con la piel.
+5. Poner en un robot potente. Comenzar a triturar. Al minuto parar el robot y
+   con una espátula bajar las avellanas molidas de la pared del vaso.
+6. Seguir triturando. Las avellanas pasarán progresivamente de estar en trocitos
+   a polvo, y de polvo a líquido denso.
+8. Poner en un bol mantequilla a temperatura ambiente y añadir 30 gramos de la
+   pasta de avellanas obtenida en el punto anterior. Batir con unas varillas con
+   energía durante 5 minutos. Llenar la manga pastelera con boquilla redonda de
+   6 mm y rellenar la parte del macaron que va más al borde.
+**** El crujiente de chocolate
+1. Poner en un bol el chocolate troceado y meterlo un par de minutos en el
+   microondas hasta que se funda, vigilándolo cada 30 segundos para que no se te
+   queme.
+2. Cuando esté fundido añadir una cucharada de pasta de avellana. Mezclar.
+3. Agregar un par de cucharadas de cereales crujientes (tipo chococrispies).
+   Remover la mezcla.
+4. Poner en la parte central del macaron, en el interior del otro relleno.
+5. Poner encima las conchas vacias y apretar ligeramente para que se peguen bien.
+*** Notas
+- No hornear demasiado las avellanas o podrían amargar la pasta.
+- Podemos hacer unos macarons con un sabor mucho más intenso a avellana si
+  cambiamos la almendra molida de la receta principal por avellana tostada
+  molida.
+** Macarons de chocolate
+*** Información
+- Fuente: http://webosfritos.es/2013/02/macarons-de-chocolate/
+- Cantidad: 36 unidades
+*** Ingredientes para las conchas
+- 110 gramos de almendra en polvo
+- 225 gramos de azúcar glas
+- 25 gramos de cacao en polvo sin azúcar
+- 120 gramos de claras de huevo
+- 50 gramos de azúcar
+*** Ingredientes para el ganache de chocolate blanco
+- 50 gramos de nata para montar
+- 10 gramos de mantequilla
+- 150 gramos de chocolate blanco
+*** Ingredientes para el crujiente de chocolate
+- 1 cucharadita de café de pasta de avellana
+- 75 gramos de chocolate negro
+- 4 barquillos redondos
+*** Preparación de las conchas
+**** Primera parte: Preparar las plantillas y el papel del hornear
+1. Cortar un trozo de papel de hornear del tamaño de la plantilla, ponerlo sobre
+   esta, y sujetar ambos entre sí (por ejemplo, con clips). Poner la plantilla
+   y el papel del hornear en un sitio del que no lo tengamos que mover durante
+   el tiempo de secado de los macarons, pero sobre el que trabajemos bien, por
+   ejemplo, una mesa de cocina.
+**** Segunda parte: Triturar, tamizar
+1. Precalentar el horno a 150º, calor arriba y abajo, sin aire.
+2. Triturar con un robot la almendra en polvo, el azúcar glas y el cacao durante
+   un minuto a velocidad máxima hasta obtener un polvo muy fino.
+3. Repartir la mezcla encima de un papel de hornear colocado sobre la bandeja
+   del horno. Hornear durante 5 minutos. Dejar enfriar.
+4. Tamizar la mezcla.
+5. Poner las claras en el bol que vayamos a usar. Batirlas durante 2 minutos a
+   mínima potencia. Pasado este tiempo batir las claras a máxima potencia hasta
+   que estén muy firmes. Añadir casi al final del proceso los 50 gramos de
+   azúcar normal. El merengue se tiene que quedar como si fuese espuma de
+   afeitar.
+**** Tercera parte: Le macaronage
+1. Echar la mezcla de almendra, azúcar y cacao de una sola vez sobre las claras
+   a punto de nieve.
+2. Coger el bol con un brazo. Con la lengua de silicona ir mezclando con
+   movimientos envolventes y circulares, y de vez en cuando metiendo la lengua
+   en la base del bol. Terminar de mezclar unos segundos de una manera un poco
+   más enérgica, pero sin pasarse: es preferible quedarte corto y que la masa
+   esté un poco granulada las primeras veces a que esté muy líquida.
+3. La masa será lisa, brillante, pero NO líquida.
+**** Cuarta parte: Manga pastelera
+1. Preparar una manga pastelera y la boquilla de 6mm. Cortar la punta de la
+   manga pastelera y meter la boquilla a fondo. Retorcer la bolsa unos dos giros
+   completos y empujar con el dedo la parte retorcida de la manga un poco
+   arrugada dentro de la boquilla. Esto actúa de estrangulamiento que evita que
+   salga la masa conforme llenas la manga.
+2. LLenar la manga pastelera.
+3. Poniendo horizontal la manga, cerrarla retorciéndola, y comprimir un poco
+   para que se quite el estrangulamiento que habíamos hecho para que no se
+   saliese la masa. Poner la boquilla hacia arriba para que no se te caiga nada
+   de masa hasta que estés preparado.
+**** Quinta parte: formado del macaron
+1. Poner la manga pastelera en posición vertical —esto es muy importante—
+   encima del papel de hornear. Hacer montoncitos con la masa sobre cada círculo
+   de la plantilla. Para terminar de hacer un montón y pasar al siguiente
+   tenemos que hacer un pequeño giro con la muñeca y levantar ligeramente la
+   manga: esto corta la masa. La perfección se coge después de los primeros 500
+   macarons.
+2. Si sólo tienes una plantilla, cuando se llene, parar el proceso, quitar con
+   cuidado la plantilla y colocársela al siguiente papel de hornear. Pasar el
+   papel con los macarons ya formados con sumo cuidado a la bandeja en la que
+   los vayamos a hornear.
+3. Hay que golpear dos o tres veces la bandeja sobre la mesa de trabajo, con
+   firmeza pero sin pasarse.
+**** Sexta parte: Reposo
+1. Dejar reposar hasta que se forme una ligera costra, de manera que toques
+   suavemente la superficie del macaron y la notes seca y no se te pegue en el
+   dedo. Este paso es importante para formar un buen pie. El tiempo puede ir
+   desde media hora hasta hora y media, dependiendo del frío y de la humedad que
+   tengas en casa.
+**** Séptima parte: Horneado
+1. Antes de que termine el proceso de secado volver a precalentar el horno a
+   150º, calor arriba y abajo, sin aire.
+2. Cuando esté listo hornear a esa temperatura, en la parte media del horno,
+   durante 13 minutos. ¡Ojo! En este punto cada uno tendrá que ensayar tiempos
+   con su propio horno. Puedes intentar despegar uno y se te queda la base
+   pegada al papel, necesitan 1 o 2 minutos más, pero no te vayas a emocionar
+   porque tampoco se te pueden quedar muy secos.
+3. Sacar del horno, dejar enfriar, y despegar.
+
+*** Preparación del ganache de chocolate blanco
+1. Poner a hervir la nata líquida en un cazo. Cuando hierva, incorporar el
+   chocolate cortado en trozos. Batir con unas varillas hasta que baje un poco
+   la temperatura. Añadir la mantequilla, seguir batiendo hasta su total
+   incorporación.
+2. Dejar enfriar, cubriendo la superficie con plástico transparente. Dejar en la
+   nevera hasta que esté cuajado.
+
+*** Preparación del crujiente de chocolate
+1. Poner en un bol el chocolate troceado y meterlo un par de minutos en el
+   microondas hasta que se funda, vigilándolo cada 30 segundos para que no se
+   nos queme.
+2. Cuando esté fundido añadir la cucharada de pasta de avellana. Mezclar.
+3. Agregar unos barquillos desmenuzados. Remover la mezcla.
+*** Montaje
+1. Colocar en una bandeja los macarons por parejas, buscando los de tamaños más
+   parecidos, ya que alguno sale siempre un poco más grande que otro. De cada
+   pareja de macarons poner uno boca arriba y otro boca abajo al lado. Éste
+   último será el que pongas encima. Es fundamental trabajar con orden.
+2. Poner el ganache en una manga pastelera con boquilla de 6mm y hacer una
+   circunferencia en la parte exterior de cada macaron que hayas puesto boca
+   arriba, no muy cerca del borde.
+3. Con la ayuda de un par de cucharillas poner un relleno de chocolate negro en
+   el interior de la circunferencia de ganache.
+4. Cerrar el macaron con cuidado inmediatamente, apretando delicadamente, por
+   los lados, no por el centro. El ganache exterior se desplazará ligeramente
+   hacia afuera, por lo que te aconsejo que no lo pongas muy al borde.
+
+*** Notas
+- Se pueden conservar en la nevera unos días, o también en un lugar fresco y
+  seco.
+- Al hornear la mezcla de almendra, azúcar y chocolate las moléculas de cacao se
+  estabilizan y así las conchas no se engrasan al cocerse y se quedan más
+  crujientes.
+- Se puede añadir un poquito de colorante rojo para acentuar el color del
+  macaron.
+
+** Macarons de pistacho
+*** Información
+- Fuente: http://webosfritos.es/2013/08/macarons-de-pistacho/
+- Cantidad: 36 unidades
+*** Ingredientes para las conchas
+- 110 gramos de almendra en polvo
+- 225 gramos de azúcar glas
+- 125 gramos de clara de huevo
+- 50 gramos de azúcar normal
+- Colorante verde y amarillo
+*** Ingredientes para la crema de mantequilla
+- 125 gramos de mantequilla reblandecida a temperatura ambiente
+- 1 huevo entero y 2 yemas de huevo más
+- 90 gramos de azúcar
+- 25 gramos de agua
+*** Ingredientes para la crema de pistacho
+- 125 gramos de crema de mantequilla natural
+- 15 gramos de pasta de pistachos
+*** Ingredientes para el crujiente de chocolate blanco
+- 75 gramos de chocolate blanco
+- 2 cucharadas de nata
+- 50 gramos de arroz inflado
+*** Preparación de las conchas
+**** Primera parte: Preparar las plantillas y el papel del hornear
+1. Cortar un trozo de papel de hornear del tamaño de la plantilla, ponerlo
+   sobre ésta, y sujetar ambos entre sí (por ejemplo, con clips). Poner la
+   plantilla y el papel del hornear en un sitio del que no lo tengamos que mover
+   durante el tiempo de secado de los macarons, pero sobre el que trabajemos
+   bien, por ejemplo, una mesa de cocina.
+**** Segunda parte: Triturar, tamizar, montar, colorear
+1. Triturar con un robot la almendra en polvo y el azúcar glas durante 30
+   segundos a velocidad máxima hasta obtener un polvo muy fino.
+2. Tamizar la mezcla.
+3. Poner las claras en el bol que vayamos a usar. Batirlas durante 2 minutos a
+   mínima potencia. Pasado este tiempo batir las claras a máxima potencia hasta
+   que estén muy firmes. Añadir casi al final del proceso los 50 gramos de
+   azúcar normal. El merengue se tiene que quedar como si fuese espuma de
+   afeitar.
+4. Cuando estén casi montadas, añadir el colorante para que se termine de montar
+   el merengue ya con el color. ¡Ojo! Esta mezcla se tiene que utilizar
+   enseguida.
+**** Tercera parte: le macaronage
+1. Echar la mezcla de almendra y azúcar de una sola vez sobre las claras a punto
+   de nieve y en un lado del bol.
+2. Coger el bol con un brazo. Con la lengua de silicona ir mezclando con
+   movimientos envolventes y circulares grandes, y de vez en cuando metiendo la
+   lengua en la base del bol. Terminar de mezclar unos segundos de una manera un
+   poco más enérgica, pero sin pasarse: es preferible quedarte corto y que la
+   masa esté un poco granulada las primeras veces a que esté muy líquida.
+3. La masa será lisa, brillante, pero NO líquida.
+**** Cuarta parte: manga pastelera
+1. Preparar una manga pastelera y la boquilla de 6 mm. Cortar la punta de la
+   manga pastelera y meter la boquilla a fondo. Retorcer la bolsa unos dos giros
+   completos y empujar con el dedo la parte retorcida de la manga un poco
+   arrugada dentro de la boquilla. Esto actúa de estrangulamiento que evita que
+   salga la masa conforme llenas la manga.
+2. LLenar la manga pastelera.
+3. Poniendo horizontal la manga, cerrarla retorciéndola, y comprimir un poco
+   para que se quite el estrangulamiento que habías hecho para que no se saliese
+   la masa. Poner la boquilla hacia arriba para que no se te caiga nada de masa
+   hasta que estés preparado.
+**** Quinta parte: formado del macaron
+1. Poner la manga pastelera en posición vertical encima del papel de hornear.
+   Hacer montoncitos con la masa sobre cada círculo de la plantilla. Para
+   terminar de hacer un montón y pasar al siguiente tenemos que hacer un pequeño
+   giro con la muñeca y levantar ligeramente la manga: esto corta la masa.
+2. Si sólo tienes una plantilla, cuando se llene parar el proceso, quitar con
+   cuidado la plantilla y colocársela al siguiente papel de hornear. Pasar el
+   papel con los macarons ya formados con sumo cuidado a la bandeja en la que
+   los vayamos a hornear.
+3. Hay que golpear dos o tres veces la bandeja sobre la mesa de trabajo, con
+   firmeza pero sin pasarse.
+**** Sexta parte: reposo
+1. Dejar reposar hasta que se forme una ligera costra, de manera que toques
+   suavemente la superficie del macaron y la notes seca y no se te pegue en el
+   dedo. Este paso es importante para formar un buen pie. El tiempo puede ir
+   desde media hora hasta dos horas o más, dependiendo del frío y de la humedad
+   que tengas en casa.
+**** Séptima parte: horneado
+1. Antes de que termine el proceso de secado volver a precalentar el horno a
+   150º, calor arriba y abajo, sin aire.
+2. Cuando esté listo, hornear a esa temperatura, en la parte media del horno,
+   durante 13 minutos. ¡Ojo! En este punto cada uno tendrá que ensayar tiempos
+   con su propio horno. Puedes intentar despegar uno y se te queda la base
+   pegada al papel, necesitan 1 o 2 minutos más, pero no te vayas a emocionar
+   porque tampoco se te pueden quedar muy secos.
+3. Sacar del horno, quitar el papel de la bandeja, dejar enfriar en el papel de
+   hornear, y despegar.
+**** Octava parte: el relleno
+1. Preparar el relleno como te explico a continuación.
+2. Colocar las conchas en fila haciendo parejas con las de tamaño más similar.
+   Las que vamos a rellenar con el pie hacia arriba y sus parejas con el pie
+   hacia abajo.
+3. Proceder a colocar los dos rellenos, y cubrir en seguida y con cuidado con la
+   concha de arriba. Apretar ligeramente.
+*** Preparación del relleno
+**** La crema de mantequilla
+1. Batir la mantequilla hasta obtener una textura de pomada.
+2. Echar el huevo entero y las dos yemas en el bol de un robot o un vaso de
+   batidora, y poner el accesorio de varillas.
+3. Poner a calentar en una cacerola el agua y el azúcar a fuego medio hasta que
+   alcance una temperatura de 110º.
+4. Poner el robot o la batidora en marcha con los huevos y añadir el almíbar
+   poco a poco. Continuar batiendo durante unos 5 minutos hasta que la mezcla
+   esté templada.
+5. Añadir la mantequilla y seguir batiendo otros 5 minutos más. Cubrir con
+   plástico transparente y reservar en el frigorífico.
+**** La crema de pistachos
+1. Añadir 15 g de pasta de pistachos a 125 gramos de la crema de mantequilla que
+   hemos hecho en el punto anterior y mezclar.
+**** El crujiente de chocolate blanco
+1. Poner en un cuenco todos los ingredientes menos el arroz inflado. Fundirlos
+   en el microondas vigilando el proceso cada 20 segundos, después del primer
+   minuto. Cuando esté fundido remover y dejar que se temple.
+2. Echar el arroz inflado y mezclar.
+*** Montaje
+1. Colocar las conchas en fila haciendo parejas con las de tamaño más similar.
+   Las que vamos a rellenar con el pie hacia arriba y sus parejas con el pie
+   hacia abajo.
+2. Preparar una manga pastelera con una boquilla del 6 u 8 mm.
+3. Quitar el plástico a la crema y darle unas vueltas con las varillas para que
+   se quede con una textura más adecuada para meterla en la manga pastelera.
+   Proceder al relleno del macaron formando un cordón de crema de pistacho en la
+   parte más exterior.
+4. Poner en el centro la crema de chocolate blanco con el arroz inflado con una
+   cucharita.
+5. Cerrar el macaron con cuidado inmediatamente.
+** Masa quebrada de almendra para tartas
+*** Información
+- Fuente: http://webosfritos.es/2013/04/masa-quebrada-de-almendra-para-tartas-dos-recetas/
+*** Ingredientes
+- 135 gramos de harina de repostería
+- 40 gramos de almendra molida
+- 100 gramos de mantequilla
+- 50 gramos de azúcar
+- 1 huevo
+- Aroma de vainilla
+*** Preparación tradicional
+1. La mantequilla debe estar fría. Cortar en pequeños dados.
+2. Hacer un volcán con la harina dentro de un cuenco. Añadir todos
+   los ingredientes, incluido el huevo. No trabajar mucho la masa, lo
+   justo para que se unan los ingredientes.
+3. Hacer una bola y aplanarla un poco. Meter media hora en el
+   frigorífico envuelta en plástico transparente.
+4. Meter la masa entre dos plásticos transparentes y aplanarla con un
+   rodillo.
+5. Engrasar el molde. Forrarlo con la masa. Quitar la masa sobrante
+   pasando el rodillo por encima del borde.
+6. Pinchar toda la masa con un tenedor.
+7. Meterla en el frigorífico durante 10 minutos. Recortar un papel de
+   hornear de la medida interior del molde y poner por encima unas
+   legumbres que tengamos para estos menesteres o unas bolitas de
+   cerámica para que la masa no suba.
+8. Precalentar el horno a 200º, calor arriba y abajo.
+9. Bajar la temperatura a 180º y hornear unos 15 minutos. Este tiempo
+   será suficiente si la tarta se sigue horneando una vez puesto el
+   relleno, pero si la tarta se rellena en frío puede necesitar hasta
+   5 minutos más de horno, ya sin las legumbres.
+** Minisoufflés de chocolate
+*** Información
+- Comensales: 4 o 6 raciones
+- Fuente: http://www.nestle.es/nestlepostres/recetas/381/minisouffles-de-chocolate.aspx
+*** Ingredientes
+- 125 gramos de chocolate Nestlé postres
+- 3 huevos
+- 125 gramos de mantequilla
+- 100 gramos de azúcar glas
+- 40 gramos de harina
+*** Preparación
+1. Precalentar el horno a 200º
+2. Derretir el chocolate con la mantequilla al baño maria o en el microondas,
+   siguiendo las instrucciones del embalaje.
+3. Batir los huevos con el azúcar hasta que la mezcla sea blanquecina y un poco
+   espumosa. Poco a poco agregar la harina tamizada y por último, el chocolate
+   derretido.
+4. Verter la mezcla en unos moldes individuales o ramekines, previamente
+   engrasados con un poco de mantequilla y sin llenarlos del todo (pues la
+   mezcla subirá al cocer).
+5. Hornearlos unos 15 minutos.
+** Rocas de chocolate y frutos secos
+*** Información
+- Comensales: 6 raciones
+- Fuente: http://www.nestle.es/nestlepostres/videotalleres/8/419/rocas-de-chocolate-y-frutos-secos.aspx
+*** Ingredientes para las blancas
+- 75 gramos de Chocolate NESTLÉ PÒSTRES Blanco
+- 60 gramos de pistacho
+- 15 gramos de sésamo
+*** Ingredientes para las negras
+- 75 gramos de Chocolate NESTLÉ POSTRES Negro
+- 20 gramos de pasas
+- 25 gramos de avellanas
+*** Preparación
+1. Fundimos el chocolate intenso y blanco al microondas.
+2. Mezclamos los frutos secos de cada preparación con el chocolate derretido
+   en un bol.
+3. Hacemos pequeños montoncitos de cada uno sobre un papel vegetal.
+4. Llevamos a la nevera hasta que solidifique.
+** Roscón de Reyes
+*** Información
+- Fuente: http://webosfritos.es/2010/11/roscon-de-reyes-video-receta/
+*** Ingredientes para el azúcar glas aromatizado
+- 120 gramos de azúcar glas
+- La piel de medio limón
+- La piel de media naranja
+*** Ingredientes para preparar la masa de arranque
+- 70 gramos de leche entera
+- 10 gramos de levadura fresca de panadería
+- 1 cucharadita de azúcar
+- 130 gramos de harina de fuerza
+*** Ingredientes para la masa
+- 60 gramos de leche entera
+- 70 gramos de mantequilla a temperatura ambiente
+- 2 huevos medianos
+- 20 gramos de levadura fresca de panadería
+- 25 gramos de agua de azahar —al gusto—
+- 450 gramos de harina de fuerza
+- 1 pellizco de sal
+- Los 120 gramos de azúcar glas aromatizada
+*** Ingredientes para la decoración
+- Huevo batido
+- Azúcar humedecido con unas gotas de agua
+- Naranjas confitadas
+- Guindas en almíbar
+*** Preparación de la masa de arranque
+1. Templar la leche y deshacer la levadura en ella. Mezclar con el resto de los
+   ingredientes y formar una bola.
+2. Poner un bol con agua templada y meter la bola de masa madre en él. Cuando
+   flote, en aproximadamente 10 minutos, estará lista para utilizar con la masa
+   principal.
+*** Preparación de la masa principal
+1. Mezclar la levadura desmenuzada con la leche tibia para su fermentación.
+2. Tamizar la harina en un bol con la ayuda de un colador.
+3. Una vez tamizada, añadir los huevos, el azúcar y la mantequilla, una pizca de
+   sal y el agua de azahar, junto con la ralladura de medio limón y de media
+   naranja y la masa madre y por supuesto la leche con la levadura del punto 1.
+4. Mezclar todo de una manera enérgica. Si tenéis una batidora con ganchos para
+   amasar os vendrá muy bien; si no, a mano.
+5. Poner la mezcla sobre la mesa de trabajo, en la que previamente hemos puesto
+   un poco de aceite para evitar que se nos pegue. Comenzar a amasar con las
+   manos aceitadas.
+6. Cuando haya quedado la mezcla elástica, apiñarla en una bola y dejar que
+   aumente su tamaño (cinco horas como mínimo).
+7. Una vez que la masa ha duplicado su volumen, dividirla en dos (salvo que
+   prefiráis hacer uno grande) y darles forma de bola. Dejar reposar las bolas
+   cinco minutos.
+8. A continuación darles la forma de roscón. Para ello, introducir los dedos en
+   el centro e ir agrandando el agujero. Si la masa tiende a encogerse, es que
+   no está bien relajada: dejarla reposar otros diez minutos y se manejará
+   mejor. Una vez dada la forma, colocar sobre una bandeja de horno en la que
+   habremos puesto papel de hornear.
+9. Dejar reposar hasta que doblen su volumen. Este levado es más corto, unas
+   dos horas.
+10. Pintar con huevo batido, muy suavemente, sin pinchar el roscón, y adornar
+    con azúcar humedecido con unas gotas de agua y frutas confitadas.
+11. Precalentar el horno a 200°, calor arriba y abajo.
+12. Hornear entre 15 y 18 minutos, y bajar la temperatura a 180° los últimos 10
+    minutos de cocción (si vemos que se tuesta demasiado, poner un papel de
+    aluminio por encima).
+13. Dejar reposar sobre una rejilla, y cuando esté frío, rellenar al gusto o
+    comer directamente.
+** Sablés de chocolate
+*** Información
+- Comensales: 6 u 8 raciones
+- Fuente: http://www.nestle.es/nestlepostres/recetas/382/sables-de-chocolate.aspx
+*** Ingredientes
+- 100 gramos de Chocolate NESTLÉ Postres Negro
+- 160 gramos de harina
+- 40 gramos de mantequilla blanda
+- 60 gramos de azúcar glas
+- 1 huevo
+- 1 pizca de sal
+*** Preparación
+1. Precalentar el horno a 200º y fundir el chocolate en el microondas según las
+   instrucciones del embalaje.
+2. Mezclar el chocolate con la mantequilla cortada en trozos y el azúcar.
+3. Añadir la harina, el huevo batido y  la sal; y mezclar con las manos hasta
+   formar una bola de masa.
+4. Colocarla en el refrigerador unos 30 minutos.
+5. Enharinar ligeramente una parte pequeña del mármol o superficie de la cocina
+   y estirar la masa con un rodillo de cocina hasta que tenga unos 2 centímetros
+   de grosor.
+6. Con ayuda de unos cortapastas, cortar las figuras.
+7. Con los restos de la masa, formar de nuevo una bola y extender la masa de
+   nuevo y repetir la operación. 
+8. Colocar las figuras sobre una bandeja del horno cubierta con papel de
+   hornear.
+9. Cocerlas en el horno unos 8 minutos.
+10. Dejarlas enfriar.
+** Sakuskiyas
+*** Información
+- Fuente: http://webosfritos.es/2010/04/sakuskiyas/
+*** Ingredientes para 70 unidades pequeñas
+- 250 gramos de harina
+- 250 mililitros de leche entera
+- 250 mililitros de agua
+- 50 gramos de mantequilla
+- 2 cucharadas soperas de azúcar
+- Una pizca de sal
+- 2 huevos y la yema del huevo que utilizamos para la glasa, para la
+  que solo se necesita la clara 
+- 2 cucharaditas de levadura Royal
+*** Para la glasa
+- 1 clara de un huevo grande
+- Unas gotas de limón
+- Una cucharada sopera bien llena de ron oscuro
+- 175 gramos de azúcar glas
+*** Preparación
+1. Poner a hervir en un cazo antiadherente el agua, la leche, el
+   azúcar, la pizca de sal y la mantequilla.
+2. Cuando hierva a borbotones echar de golpe la harina cernida. Mover
+   con una cuchara de madera a fuego lento hasta que se haga una
+   bola. Separar de las paredes del cacharro.
+3. Apartar del fuego el cazo y seguir dando vueltas. Mientras se va
+   enfriando hay que moverla mucho, para deshacer los grumos de
+   harina. Reservar hasta que enfríe completamente.
+4. Mientras se enfría, cortar unos cuadrados de papel de horno de unos
+   8 cm de lado, y engrasarlos con aceite para que la masa no se pegue
+   en ellos, puesto que las sakuskiyas van desde la manga pastelera a
+   estos papeles, y desde estos papeles a la fritura; no se pueden
+   tocar con las manos, para garantizar que el dibujo esté intacto.
+5. Cuando la masa esté fría, añadir un huevo, y dar vueltas hasta que
+   se integre (cuesta un poco). Echar el segundo huevo y la yema de un
+   tercero (la clara de este último es para la glasa). Incorporarlos
+   con paciencia.
+6. Una vez mezclados los huevos, echar un par de cucharitas de
+   levadura Royal (se echan en este momento, no con la harina, como en
+   otras preparaciones).
+7. Calentar aceite de oliva suave en un cazo no muy grande, y con la
+   cantidad suficiente de aceite para que floten las sakuskiyas. El
+   aceite tiene que estar caliente. En mi vitrocerámica, del 1 al 10,
+   lo pongo en el 7; en este punto está caliente, pero no tanto como
+   para que se arrebaten y no se frían por dentro.
+8. Poner la masa en una manga pastelera con boquilla rizada pequeña, e
+   ir extendiendo a modo de churro—rosquilla pequeñas porciones (son
+   de bocado).
+9. Echar en el aceite por tandas, deslizando la pieza desde el propio
+   papel de horno aceitado al cazo. Se fríen muy bien, en unos minutos
+   están listas. Sacarlas a un colador grande para que escurran el
+   exceso de grasa, y de ahí a un papel de cocina (no sueltan apenas).
+10. Para hacer la glasa, poner en un bol una clara de un huevo grande,
+    unas gotas de limón, el ron y el azúcar glas. Remover con una
+    cuchara de madera. Con estas medidas queda perfecta, ni muy espesa
+    ni muy clara.
+11. Se meten una a una en la glasa con la propia mano y se van
+    escurriendo, antes de depositarlas en una rejilla para que sequen.
+** Tocino de cielo
+*** Ingredientes 
+- Azúcar
+- Agua
+- 6 yemas de huevo
+- 2 huevos
+*** Preparación
+1. Caramelizar el molde que vayamos a usar.
+2. Preparar un almíbar. Para ello poner en una cazuela un vaso de
+   agua y un vaso y medio de azúcar y hervir durante 7 u 8
+   minutos. Dejarlo enfriar.
+3. Una vez frío, mezclarlo con las yemas y los huevos.
+4. Echar la mezcla en el molde caramelizado y poner al baño maría
+   durante 45 minutos a 180º (modo aire).
+** Triángulos de chocolate y caramelo
+*** Información
+- Fuente: Recetas de Nestlé POSTRES 
+*** Ingredientes
+- 100 gramos de Chocolate NESTLÉ Postres Negro
+- 180 gramos de harina
+- 125 gramos de mantequilla blanda
+- 100 gramos de azúcar
+- 400 gramos de leche condensada
+- 125 gramos de mantequilla
+- 1 cucharada de miel
+*** Preparación
+1. Precalentar el horno a 200ºC. Mezclar la mantequilla blanda con el azúcar
+   hasta que quede una textura cremosa. Añadir poco a poco la harina hasta
+   obtener una masa y cubrir el fondo de un molde de tarta. Hornearlo unos 20
+   minutos.
+2. Mientras tanto, preparar el caramelo. En un cazo, calentar unos 5 minutos la
+   leche condensada, la mantequilla, la miel y mezclar bien hasta que empiece a
+   dorarse.
+3. Verter el caramelo sobre la masa del molde y dejarlo enfriar.
+4. Partir el chocolate en trozos y fundirlo al baño maría o en el microondas.
+5. Verter el chocolate sobre el caramelo y dejarlo endurecer en el refrigerador
+   unas 2 horas.
+6. Retirarlo del molde y cortar la tarta en pequeños triángulos con ayuda de un
+   cuchillo.
+*** Consejo
+- Mojar la hoja del cuchillo con agua caliente al hacer las porciones,
+  facilitará el corte.
+** Trufas de chocolate
+*** Información
+- Fuente: http://www.hogarutil.com/cocina/recetas/postres/201212/trufas-chocolate-17753.html
+*** Ingredientes
+- 375 gramos de chocolate negro para postres
+- 250 mililitros de nata líquida
+- 2 nueces de mantequilla
+- 1 chorrito de brandy
+- (opcional) Fideos de chocolate
+- (opcional) Cacao en polvo
+- (opcional) Almendra crocanti
+- (opcional) Coco molido
+*** Preparación
+1. Pon el chocolate y la mantequilla en un bol y fúndelos al baño maría. Mezcla
+   bien.
+2. Hierve la nata y déjala templar. Añade la nata al chocolate y mezcla bien.
+   Vierte el brandy y mezcla hasta que quede una masa homogénea. Pasa la masa a
+   una fuente baja y deja enfriar a temperatura ambiente durante 24 horas o
+   enfríalo en el frigorífico. 
+3. Pasado este tiempo, con ayuda de dos cucharas de postre, coloca porciones de
+   masa sobre un plato limpio y redondéalas con las manos. A continuación pasa
+   algunas por el cacao en polvo, otras por los fideos de chocolate, la almendra
+   y el coco.
+** Turrón de chocolate
+*** Información
+- Fuente: http://webosfritos.es/2010/12/turron-de-chocolate-facil-y-rapido/
+*** Ingredientes
+- 150 gramos de chocolate con leche con avellanas troceadas
+- 150 gramos de chocolate con leche con almendras troceadas
+- 200 gramos de chocolate negro para postres
+- 70 gramos de manteca de cerdo ibérico
+- 80 gramos de arroz crujiente inflado y chocolateado
+- Molde de silicona rectangular
+*** Preparación tradicional
+1. Trocear los chocolates, echarlos en un recipiente, y ponerlos al baño maría o
+   en el microondas a mínima potencia, vigilando cada 30 segundos el proceso
+   mientras se va fundiendo, para que no se queme.
+2. Cuando el chocolate esté fundido, añadir la manteca, que habremos derretido
+   un poco unos segundos en el microondas, no muy caliente.
+   Remover bien.
+3. Añadir el arroz inflado y remover bien con una espátula.
+4. Depositar en un molde de silicona e igualarlo con la espátula. Levantar un
+   poco el molde y darle unos golpecitos contra la encimera. Dejar reposar unas
+   4 horas o, mejor, de una día para otro.
+*** Notas
+- Una versión más elaborada es mezclar chocolate con leche y chocolate negro y
+  añadir las avellanas y las almendras troceadas o cualquier otro ingrediente
+  que os guste: pistachos, pasas, guindas, etc.
+** Turrón de chocolate estilo Suchard
+*** Información
+- Fuente: https://www.youtube.com/watch?v=crWyGCOj0Vs
+*** Ingredientes
+- 50 gramos de arroz inflado chocolateado
+- 200 gramos de avellanas peladas y tostadas
+- 150 gramos de azúcar
+- 250 gramos de chocolate con leche
+- 150 gramos de chocolate negro
+
+*** Preparación
+1. Poner a calentar el azúcar a fuego medio-bajo sin tocarlo. Cuando empiece a
+   cambiar de color, lo retiramos del fuego y removemos hasta que se haga del
+   todo.
+2. Añadir las avellanas al caramelo y mezclar bien.
+3. Hacemos el praliné triturando las avellanas caramelizadas hasta que forme una
+   pasta líquida.
+4. Derretimos los dos tipos de chocolate al baño maría. Se puede añadir un poco
+   de esencia de vainilla en este punto.
+5. Echar 2 cucharadas colmadas del praliné de avellanas al chocolate derretido
+   y mezclar hasta que se integren.
+6. Echar el arroz inflado a la mezcla de chocolate.
+7. Poner la mezcla en el molde (esta cantidad da para 2 moldes) y dejar enfriar
+   durante toda la noche.
+** Vasitos de crema de chocolate exprés
+*** Información
+- Fuente: http://webosfritos.es/2010/09/vasitos-de-crema-de-chocolate-expres/
+*** Ingredientes para 6 vasitos
+- 150 gramos de chocolate negro
+- 200 mililitros de leche entera templada
+- 6 petit-suisse naturales azucarados
+- Unas gotas de esencia de vainilla (opcional)
+*** Preparación
+1. Poner el chocolate troceado en un bol, y meterlo unos minutos a
+   temperatura baja en el microondas. Comprobar cada 40 segundos que
+   se funde correctamente y no se nos quema. Este proceso se puede
+   hacer al baño maría.
+2. Cuando esté fundido, añadir la leche y las gotas de esencia de
+   vainilla. Remover con delicadeza.
+3. Poner el contenido de los petit-suisse en un bol y batirlos
+   rápidamente con un tenedor durante un par de minutos. A
+   continuación añadirlos a la mezcla anterior. Mezclar.
+4. Servir en vasos de cristal y dejar reposar en el frigorífico
+   durante al menos 3 horas.
+*** Consejos
+- En lugar de petit-suisse azucarados, podéis hacerlos con
+  petit-suisse normales y añadirle una cucharada de azucar glas a la
+  mezcla. O con 3 yogures naturales (mejor griegos).

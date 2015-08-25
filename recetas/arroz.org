@@ -1,0 +1,547 @@
+** Arancini rellenos de mozzarella
+*** Información
+- Fuente:
+  http://www.mis-recetas.org/recetas/show/33116-arancini-rellenos-de-mozzarella
+
+#+BEGIN_LATEX
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{./imagenes/arancini.jpg}
+  \caption{Arancini}
+\end{figure}
+#+END_LATEX
+
+#+BEGIN_LATEX
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{./imagenes/arancini-detalle.jpg}
+  \caption{Arancini abierto}
+\end{figure}
+#+END_LATEX
+
+*** Ingredientes
+- Risotto sobrante de otra receta
+- Mozzarella fresca
+- Harina
+- Huevo
+- Pan rallado
+*** Preparación
+1. Preparar un risotto o utilizar uno sobrante del día anterior.
+2. Coger un poco de risotto, insertar un trozo de mozzarella y darle
+   forma de bola.
+3. Empanar la bola resultante con harina, huevo y pan rallado.
+4. Freír con aceite bien caliente hasta que estén doradas por fuera
+   (no hace falta que se cocine, porque el risotto ya está hecho, así
+   que no se tarda mucho).
+** Arroz a la griega
+*** Información
+- Fuente: http://cocinerovocacional.blogspot.com.es/2010/09/arroz-la-griega.html?m=1
+*** Ingredientes
+- 200 gramos de arroz
+- 150 gramos de cebolla
+- 150 gramos de pimiento rojo
+- 150 gramos de guisantes
+- 6 salchichas frescas
+- 200 gramos de panceta salada
+- 750 mililitros de caldo de pollo
+- Sal
+- Pimienta molida
+- Aceite
+- 1 huevo
+- Un diente de ajo
+- 200 mililitros de aceite
+*** Preparación
+1. Trocear las salchichas. Reservar.
+2. Quitar la piel de la panceta salada y trocear el resto. Reservar.
+3. Trocear la cebolla y el pimiento y sofreírlos en una cazuela de barro con un
+   poco de sal durante diez minutos.
+4. Añadir las salchichas y la panceta y dejar cocinar otros 5 minutos.
+5. Agregar el arroz, los guisantes y la pimienta molida. Si los guisantes son
+   frescos, hay que incorporarlos un poco más tarde para que no se deshagan
+   demasiado.
+6. Agregar el caldo de pollo (siempre el triple de caldo que de arroz para un
+   arroz seco).
+7. Cocer el conjunto a fuego fuerte los diez primeros minutos. Es muy importante
+   no mover nada de nada el arroz.
+8. Pasados estos minutos, cocer diez minutos más a fuego lento. Comprobar el
+   punto del arroz, retirarlo del fuego y dejarlo reposar cinco minutos
+   tapándolo con papel de periódico limpio.
+9. Mientras reposa, preparar un falso alioli con el huevo, la sal, el diente de
+   ajo, el aceite y unas gotas de vinagre.
+** Arroz con atún, gambas y verduras
+*** Información
+- Comensales: 4 personas
+- Fuente: http://webosfritos.es/2013/04/arroz-con-atun-gambas-y-verduras-en-sarten/
+*** Ingredientes
+- 350 gramos de arroz de Calasparra
+- 350 gramos de atún sin piel ni espina central
+- 300 gramos de gambas
+- 8 mejillones
+- 100 gramos de judías verdes
+- 6 alcachofas
+- Un cuarto de pimiento rojo
+- Un cuarto de pimiento verde
+- 5 cucharadas de aceite de oliva virgen extra
+- 2 dientes de ajo
+- Media cebolla pequeña
+- 1 tomate hermoso y maduro
+- Sal
+- 1 litro de fumet de pescado
+*** Para hacer el fumet
+- Un litro y cuarto de agua
+- La parte verde de un puerro
+- Media cebolla
+- 1 zanahoria
+- Un poco de perejil
+- La cabeza y la espina central de una pescadilla
+- Las cabezas de las gambas que vamos a utilizar
+- Sal
+- 1 cucharada de aceite de oliva virgen extra
+*** Preparación del fumet
+1. Pelar las gambas. Reservar las gambas peladas para el arroz; para
+   el fumet se usan las cabezas.
+2. Poner a calentar el aceite en una cazuela. Cuando esté caliente,
+   sofreír la cabeza y la espina central de la pescadilla y las
+   cabezas de las gambas.
+3. Añadir el agua, las verduras y la sal.
+4. Poner a fuego fuerte. Desespumar los primeros 5 minutos. Luego
+   bajar a fuego medio y dejar otros 15 minutos.
+5. Colar el caldo, y reservarlo.
+*** Preparación del arroz
+1. Picar el ajo y la cebolla en trocitos muy pequeños. Picar los
+   pimientos en trozos. Pelar el tomate y rallarlo o trocearlo muy
+   menudo.
+2. Poner la cazuela al fuego y echar el aceite de oliva virgen
+   extra. Cuando esté caliente, añadir el ajo y la cebolla y los
+   pimientos, y dejar que se sofrían a fuego no muy fuerte. Cuando la
+   cebolla empiece a ponerse transparente, añadir el tomate y una
+   pizca de sal. Dejar unos minutos hasta que esté bien sofrito.
+3. Trocear las judías verdes. Limpiar las alcachofas, dejando sólo
+   los corazones. Partirlas en 4 trozos cada una. Añadir las judías
+   verdes y las alcachofas al sofrito. Dejar un par de minutos,
+   dándoles vueltas. Cocer los mejillones durante 5 minutos en un
+   cazo con un poco de agua y sal, quitar la concha y reservar el
+   mejillón.
+4. Trocear el atún en dados y ponerle una pizca de sal. Añadirlo a la
+   cazuela. Dejar un par de minutos que se haga.
+5. Añadir el arroz y darle vueltas mientras se va sofriendo.
+6. Echar el fumet, que deberá estar caliente. Si está hecho con
+   antelación, se pone a calentar en otro fuego mientras se hace el
+   sofrito.
+7. Remover el arroz para que quede en todos los sitios por igual. Ya
+   no se tocará más el arroz con la cuchara.
+8. Poner 8 minutos a fuego fuerte.
+9. Pasado este tiempo incorporar las gambas y los mejillones. Bajar
+   el fuego y mantener otros 8 o 10 minutos. Retirar del fuego y
+   tapar 5 minutos con un papel apto para horno.
+** Arroz con calamares y verduras
+*** Información
+- Comensales: 4 personas
+- Fuente: http://webosfritos.es/2012/01/arroz-con-calamares-y-verduras/
+*** Ingredientes
+- 300 gramos de calamares tiernos
+- 100 gramos de guisantes
+- 150 gramos de judías verdes
+- Media cebolla
+- 1 diente de ajo
+- 2 tomates hermosos y maduros
+- 10 corazones de alcachofas
+- Medio pimiento rojo
+- 3 cucharadas de aceite de oliva virgen extra
+- 400 gramos de arroz bomba
+- 1200 gramos de fumet de pescado
+- Sal
+*** Preparación
+1. Limpiar los calamares y trocearlos y secarlos bien con un papel de cocina.
+2. Trocear el ajo y la cebolla, en trozos muy pequeños.
+3. Pelar y trocear el tomate, también en trozos pequeños.
+4. Cortar los corazones de alcachofas en cuartos, y trocear las judías verdes.
+5. Picar el pimiento rojo muy fino.
+6. Poner la cazuela al fuego con el aceite de oliva virgen extra. Cuando esté
+   caliente sofreír la cebolla.
+7. Pasados unos minutos añadir el ajo, y a continuación el tomate. Poner un poco
+   de sal cuando esté frito, añadir el pimiento y el resto de las verduras y
+   dejar freír unos minutos.
+8. Incorporar los calamares, y dejar que se sofrían también un poco.
+9. Añadir el arroz, y dar vueltas unos minutos.
+10. Incorporar el fumet caliente.
+11. Poner el fuego fuerte 10 minutos, y después bajar el fuego y dejar otros 5
+    minutos. Quitarlo y dejar reposar unos minutos.
+** Arroz hindú
+*** Información
+- Comensales: 4 personas
+- Fuente: http://canalcocina.es/receta/arroz-hindu
+
+#+BEGIN_LATEX
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{./imagenes/arroz-hindu.jpg}
+  \caption{Arroz hindú}
+\end{figure}
+#+END_LATEX
+
+*** Ingredientes
+- 100 gramos de arroz basmati
+- 200 gramos de nueces troceadas
+- 1 trozo de jengibre
+- 1 cucharada de mostaza en grano
+- 4 clavos
+- 1 guindilla verde
+- 1 cucharada de cilantro
+- 1 limón en zumo
+- 150 gramos de coco rallado
+- 100 gramos de mantequilla
+- 8 hebras de azafrán
+*** Preparación
+1. Dejamos en remojo el azafrán en un bol con un poco de agua.
+2. Ponemos a cocer el arroz en abundante agua hirviendo durante 12
+   minutos. Pasado el tiempo, escurrimos y reservamos.
+3. En una cazuela con mantequilla, salteamos nueces, el jengibre
+   picado, la mostaza, los clavos, la guindilla picada, el arroz, el
+   cilantro, el zumo de limón, el coco rallado, un poco de agua y el
+   azafrán que se habrá dejado en remojo con agua.
+4. Mezclamos el arroz con todos los ingredientes anteriores, ponemos
+   una pizca de sal y seguimos cocinando hasta que se seque.
+** Arroz negro
+*** Información
+- Comensales: 4 o 6 personas
+- Fuente: http://webosfritos.es/2010/06/arroz-negro/
+*** Ingredientes
+- 300 gramos de arroz
+- 4 calamares hermosos y muy tiernos
+- 1 cebolla pequeña tierna
+- 2 dientes de ajo
+- 1 tomate maduro
+- 750 mililitros de fumet de pescado
+- Aceite de oliva virgen extra 
+- Sal
+- 2 bolsas de tinta de calamar
+*** Ingredientes para el falso alioli
+- 200 mililitros de mayonesa casera
+- Una pizca de aceite de oliva virgen extra
+- 1 diente de ajo
+*** Preparación
+1. Limpiar los calamares, cortarlos en tiras y partir los tentáculos
+   por la mitad si son muy grandes.
+2. Poner las tintas con el poco de caldo de pescado en la batidora y
+   batirlo. Si la tinta es natural, me gusta exprimirla poniendo las
+   bolsas en un colador, y con unos granos de sal gorda, aplastarlas
+   hasta que suelten toda la tinta. Lo de la batidora es para que
+   tinta y caldo se integren bien.
+3. Echar el aceite en vuestra paellera o cazuela. Picar la cebolla y
+   los dientes de ajo, y rehogar unos minutos. Pelar el tomate y
+   rallarlo e incoporarlo al sofrito. Dejar que se haga.
+4. Poner un poco de sal. Añadir los calamares y rehogar.
+5. Incorporar el arroz, y rehogar de nuevo.
+6. Añadir el caldo, rectificar de sal, y dejar cocer a fuego fuerte
+   unos 7 minutos, y el resto, hasta unos 15, a fuego medio —puede
+   que lo tengáis que dejar 5 minutos más—. Lo que siempre hemos
+   dicho: cada fuego y cada cazuela es un mundo. Id viendo los
+   tiempos de cocción hasta que los conozcáis. Dejar reposar unos
+   minutos antes de servir.
+7. Para hacer el falso alioli, machacar bien en un mortero el diente
+   de ajo, añadirle un chorreoncito de aceite, darle vueltas y añadir
+   la mayonesa. Integrar todo bien, y ya lo tenemos listo. Servir en
+   una salsera para acompañar nuestro arroz.
+** Arroz relleno
+*** Información
+- Comensales: 2 personas
+- Fuente: http://webosfritos.es/2008/10/arroz-de-pals-relleno/
+*** Ingredientes para dos personas
+- 2 vasos pequeños de arroz
+- 1 cebolla
+- 1 diente de ajo pequeño
+- Medio vaso de tomate frito casero
+- 4 rodajas de un embutido de la zona
+- Una loncha gordita de jamón de york
+- 250 gramos de carne picada de ternera
+- 6 olivas negras sin hueso
+- 2 huevos
+- Queso rallado
+- Agua
+- Aceite oliva virgen extra
+- Sal
+- Orégano
+- Pimienta
+- 1 vaso de vino tinto
+*** Preparación
+1. En una cacerola poner 3 vasos y medio de agua (de la medida de
+   arroz) y uno y medio de vino y un poco de sal. Cuando hierva,
+   echar el arroz. A este plato le va más bien dejarlo al punto, que
+   no se nos pase. Escurrir en un colador, sin pasar por agua.
+2. En una sartén poner dos cucharas de aceite de oliva virgen extra,
+   pochar lentamente la cebolla y el ajo picados, añadir la carne
+   picada salpimentada, y cuando esté en su punto añadir el jamón de
+   york y el embutido cortados en dados, las aceitunas cortadas por
+   la mitad y el tomate frito. Poner el orégano que nos guste y
+   probar por si hace falta rectificar.
+3. Cocer los huevos. Cuando estén, pasarlos por agua fría, pelarlos y
+   partirlos en rodajas.
+*** Montaje del plato
+1. Poner una capa de arroz, otra de relleno, las rodajas de huevo,
+   otra capa de arroz y coronar con un poco de queso rallado, y al
+   horno a gratinar.
+*** Notas
+Hay que tener la precaución de apretar adecuadamente las diferentes
+capas de condumio, para que cuando quitemos el aro quede perfecto.
+** Fideuá
+*** Información
+- Comensales: 4 o 6 personas
+- Fuente: http://webosfritos.es/2010/10/fideua/
+*** Ingredientes
+- 2 dientes de ajo
+- Un trozo de puerro (opcional)
+- Un cuarto de cebolla pequeña (opcional)
+- 150 gramos de tomate triturado natural
+- Sal
+- 5 o 6 cucharadas de aceite de oliva virgen extra
+- Media cola de rape
+- 300 gramos de gambas
+- 100 gramos de chirlas
+- 2 sepias pequeñas
+- Unas cigalas
+- Fideos de fideuá
+- Fumet de pescado
+*** Preparación
+1. Cocer las chirlas, bien lavadas, en una pizca del caldo de fumet, justo el
+   tiempo para que se abran. Quitarles la concha y reservar en el propio fumet.
+2. Poner el aceite en la cazuela, y pochar la cebolla, el ajo y el puerro
+   cortados en trozos muy pequeños. Cuando esté pochado, añadir el tomate y la
+   sal, y cocinar unos 8 minutos.
+3. Añadir la sepia, y dejar que se evapore el agua que suelta. A continuación,
+   añadir las gambas y el rape cortado en cuadraditos. Sofreír unos minutos.
+   Añadir 5 cazos de fideos. Cuando esté bien sofrito todo, removiendo
+   constantemente para que no se nos queme, añadir 8 cazos de fumet, en el caso
+   de que os guste seca y en su punto. Si os gusta un pelín más jugosa, añadidle
+   dos más. Rectificar de sal.
+4. Poner a cocer a fuego fortísimo 5 minutos.
+5. Precalentar el horno a 200º, calor arriba y abajo.
+6. Poner las cigalas en una plancha a fuego fuerte con un poco de sal gorda y
+   añadirlas a la fideuá.
+7. Meter al horno otros 5 minutos.
+8. Dejar reposar fuera del horno unos minutos.
+** Hamburguesas de arroz y lentejas
+*** Información
+- Comensales: 4 personas
+- Fuente: http://www.hogarutil.com/cocina/recetas/legumbres/201203/hamburguesas-arroz-lentejas-14444.html
+*** Ingredientes
+- 200 gramos de lentejas
+- 200 gramos de arroz redondo
+- 1 cebolla
+- 1 puerro
+- 1 cebolleta
+- 1 zanahoria
+- 1 diente de ajo
+- 1 vaso de salsa de tomate
+- 1 cucharada de salsa de soja
+- 1 cucharada de salsa inglesa
+- Agua
+- Aceite de oliva virgen extra
+- Sal
+- 1 hoja de laurel
+- Perejil
+*** Preparación
+1. En una cazuela introduce las lentejas junto con la cebolla, el puerro y una
+   hoja de laurel. Cubre con agua y deja cocer durante 30-35 minutos. Sazona.
+   Cuando se hayan ablandado, retira la cebolla, el puerro y la hoja de laurel.
+   Escurre y reserva el caldo y también las lentejas.
+2. Pela y pica la cebolleta y la zanahoria finamente y pon a pochar en una
+   sartén con un chorrito de aceite de oliva. Sazona y reserva.
+3. Pon un diente de ajo machacado y pelado en entero en una cazuela con un
+   chorro de aceite. Agrega el arroz, rehógalo un poco y vierte el doble de agua
+   y un poquito más. Sazona y cuécelo durante 15-16 minutos.
+4. Mezcla las lentejas con el arroz y las verduras pochadas. Amasa hasta que
+   quede una masa homogénea (si no queda muy consistente puedes añadir un poco
+   de pan rallado). Mójate las manos para que no se pegue la masa y forma 8
+   hamburguesas. Colócalas sobre un plato untado de aceite (para que no se
+   peguen) y fríelas en una sartén con un chorrito de aceite, 4 minutos por cada
+   lado.
+5. Para hacer la salsa, pon a reducir en un cazo el caldo de las lentejas con la
+   salsa de tomate, la salsa de soja y la salsa inglesa. Sirve dos hamburguesas
+   por comensal y acompáñalas con la salsa de tomate. Decora con una ramita de
+   perejil.
+** Risotto ai funghi porcini e trufa
+*** Ingredientes
+- 350 gramos de arroz
+- 1 diente de ajo triturado
+- 15 mililitros de aceite de oliva virgen extra
+- 20 gramos de cebolla
+- 250 gramos de boletus
+- 1 litro y medio de caldo de ave
+- Sal
+- 50 gramos de vino blanco
+- 80 gramos de mantequilla
+- 45 gramos de queso Parmesano 
+- Perejil fresco
+- Trufa blanca
+*** Preparación
+1. Limpiamos los boletus y los cortamos en juliana.
+2. Salteamos el ajo con aceite y luego añadimos los boletus.
+3. En una cazuela rehogamos la cebolla picada con aceite y le añadimos
+   el arroz, salpimentamos y removemos sin parar para que se empape de
+   aceite.
+4. Agregamos el vino blanco hasta que evapore, momento en el que
+   incluimos las cucharadas de caldo de ave poco a poco. Vamos
+   removiendo evitando que se pegue y añadiendo el caldo cuando lo
+   demande el grano de arroz, durante unos 12 o 14 minutos.
+5. Añadimos los boletus, y seguimos removiendo con caldo unos 2
+   minutos más.
+6. Después retiramos del fuego y añadimos la mantequilla y el queso
+   Parmesano rallado, mientras continuamos removiendo.
+7. Picamos el perejil fresco y lo añadimos al final del plato.
+8. Rallamos la trufa blanca por encima.
+
+** Risotto de setas
+*** Información
+- Comensales: 2 personas
+- Fuente: http://javirecetas.hola.com/risotto-de-seta/
+*** Ingredientes
+- 180 gramos de arroz arborio o arroz bomba (dos cazos llenos)
+- 600 o 700 mililitros de caldo de verduras
+- 150 gramos de champiñones
+- 150 gramos de setas portobello
+- 100 gramos de cebolleta (o cebolla)
+- 75 gramos de mantequilla sin sal
+- 50 gramos de queso parmesano
+- 100 ml de vino blanco
+- 2 dientes de ajo
+- 7 cucharadas de aceite de oliva
+- Pimienta negra
+- Sal
+*** Preparación
+1. Quitar la tierra a las setas, limpiarlas y cortarlas en rodajas finas.
+2. Pelar dos dientes de ajo y picarlos bien finos. Ponerlos en una sartén
+   con 5 cucharadas de aceite de oliva a fuego medio-bajo. Cuando toda la cocina
+   huela a ajo, añadir los champiñones y las setas portobello, media cuchara
+   pequeña con sal y pimienta negra. Dejar a fuego medio hasta que las setas
+   pierdan todo el agua y estén bien hechas. Cuando estén en su punto, apartar
+   del fuego la sartén y reservar las setas.
+3. Si el caldo no está bien caliente, ponerlo a calentar en un cazo grande.
+4. Pelar la cebolleta y cortarla en trozos pequeños. Coger una cacerola y añadir
+   50 gramos de mantequilla y 2 cucharadas de aceite de oliva. Cuando esté
+   caliente, añadir la cebolla y una pizca de sal y dejar que se poche durante
+   15 o 20 minutos.
+5. Añadir los dos cazos de arroz a la cacerola y removerlo con una cuchara
+   durante 2 minutos. Después añadir el vino blanco y dejar que se evapore casi
+   en su totalidad. Incorporar las setas que teníamos reservadas.
+6. Ahora añadir tres cazos de caldo muy caliente. Dejar a fuego medio hasta que
+   se evapore casi todo el caldo y remover constantemente para que el arroz
+   suelte el almidón (y se ponga cremoso). Ir añadiendo un cazo de caldo
+   caliente cada vez que el arroz se quede sin líquido (unos 6 o 7 cazos en
+   total) y seguir removiendo. Pasados 18 minutos desde el primer cazo de caldo,
+   prueba el arroz. Si es necesario, añadir otro cazo de caldo y así hasta que
+   el arroz esté en su punto. Debe quedar muy cremoso.
+7. Cuando el arroz esté en su punto, añadir el queso parmesano rallado y los 25
+   gramos que quedan de mantequilla. Remover bien y listo.
+** Risotto de setas y espárragos trigueros
+*** Información
+- Comensales: 2 personas
+- Fuente: http://www.yahoraquecocino.com/risotto-de-setas-y-esparragos-trigueros/
+*** Ingredientes
+- 100 gramos de setas Shiitake
+- 60 gramos de cebolla blanca
+- 700 mililitros de caldo de verduras
+- 100 gramos de espárragos verdes
+- 175 gramos de arroz arborio
+- 75 mililitros de vino blanco
+- 25 gramos de mantequilla o margarina
+*** Preparación
+1. Cortar la cebolla en cuadritos pequeños y los espárragos en trocitos medianos
+   (de unos 2 centímetros aproximadamente).
+2. Cortar las setas a la mitad y luego en juliana.
+3. Calentar el caldo en una olla, sin dejar hervir.
+4. En una sartén, derretir la mantequilla o margarina y cocinar la cebolla a
+   fuego medio hasta que esté transparente.
+5. Añadir el arroz y los espárragos. Mezclar hasta que se impregnen bien de la
+   mantequilla.
+6. Agregar el vino blanco y remover. Dejar evaporar el vino, sin que se seque el
+   arroz.
+7. Añadir poco a poco el caldo de verduras y remover hasta que reduzca, sin
+   dejar secar del todo.
+8. Continuar añadiendo el caldo y remover de forma envolvente.
+9. Cuando queden 5 minutos, añadir las setas cortadas y remover.
+10. Servir acompañado de queso parmesano.
+** Risotto verde
+*** Información
+- Comensales: 3 personas
+- Fuente: http://www.paulinacocina.net/arroz-con-pollo-verde/763
+*** Ingredientes
+- 1 pechuga de pollo
+- 1 atado de espinacas
+- 1 diente de ajo
+- Caldo de verduras
+- Sal
+- Pimienta
+- Agua
+- 1 taza de arroz bomba
+*** Preparación
+1. Poner a hervir agua y, cuando rompa a hervir, agregar las espinacas lavada.
+   Dejar unos 3 minutos.
+2. Triturar las espinacas con el diente de ajo crudo y su caldo. Debe quedar un
+   puré homogéneo y sin trozos.
+3. Trocear el pollo en brunoise. Poner aceite a calentar en una sartén y
+   dorar el pollo.
+4. Agregar el arroz y la pasta de espinacas. Bajar el fuego a medio y
+   remover hasta integrar bien el arroz con la pasta verde. 
+5. Agregar media taza de agua y revolver. Ir removiendo cada poco tiempo.
+   Cuando quede poca agua, agregar una taza más. Seguir removiendo cada poco
+   tiempo. El arroz debe estar siempre caldoso, pero no lleno de agua. Al
+   final, agregar la última media taza de agua y remover.
+6. Rectificar de sal y pimienta negra molida.
+** Tomates rellenos de arroz
+*** Información
+- Comensales: 4 personas
+- Fuente: http://canalcocina.es/receta/tomates-rellenos-de-arroz
+*** Ingredientes
+- 8 tomates
+- 200 gramos de arroz
+- 2 dientes de ajo
+- 1 ramita de albahaca
+- 1 ramita de perejil
+- 1 ramita de orégano fresco
+- 400 gramos de salsa de tomate
+- 800 gramos de patatas
+- 2 cebollas
+- 7 cucharadas de aceite de oliva
+- Sal
+- Pimienta
+*** Preparación
+1. Lavar los tomates, los secamos sin quitar el pecíolo y cortamos
+   la parte superior, que servirá de tapa. Después con la ayuda de una
+   cucharita, extraemos la mayor parte de la pulpa, prestando atención
+   a no agujerear el interior, de esta forma se obtienen 8
+   recipientes. Salamos el interior y colocamos los tomates boca abajo
+   sobra la superficie de trabajo para que escurran su agua de
+   vegetación.
+2. Introducimos el arroz crudo en una ensaladera y lo aromatizamos con
+   el ajo picado fino y una picada de hojas de albahaca, perejil y
+   orégano; lo condimentamos con 2 cucharadas de aceite de oliva, 3
+   cucharadas de salsa de tomate, la pulpa extraída y troceada del
+   tomate, una pizca de sal y otra de pimienta. Mezclamos bien para
+   obtener un compuesto lo más homogéneo posible.
+3. A continuación, pincelamos el interior de los tomates con un velo
+   de aceite, los alineamos sobre la superficie de trabajo y los
+   rellenamos con el compuesto de arroz hasta 2 tercios de su
+   capacidad.
+4. Por otro lado, pelamos las patatas, las lavamos y las cortamos en
+   taquitos o rodajas del mismo tamaño y las escaldamos; las mezclamos
+   con las cebollas peladas y cortadas en gajos finos y las disponemos
+   en el fondo de la bandeja de horno, formando una
+   capacompacta. Condimentamos con 3 cucharadas de aceite, sal y
+   pimienta y distribuimos encima los tomates con su tapa.
+5. Diluimos la salsa de tomate restante con agua fría (poco menos de
+   medio vaso) y vertemos la mezcla sobre las patatas, pasando el
+   cacito entre los tomates. Al final el líquido debe llegar hasta la
+   mitad de su altura. Si no fuese así, añadimos un poco más de salsa
+   de tomate. Esta operación debe realizarse siempre después de haber
+   diluido la salsa con un poco de agua para que no sea tan densa.
+6. Condimentamos de nuevo los tomates con el aceite restante y
+   espolvoreamos la superficie con sal y pimienta; introducimos la
+   bandeja en el horno, precalentado a 180º C, y los dejamos durante
+   40 minutos.
+*** Notas
+- Se puede servir frío o caliente.
+- No debemos llenar los tomates demasiado ni apretar al poner el arroz
+  porque, durante la cocción, el arroz se hinchará y acabará
+  saliéndose del tomate, lo que provocará que éste se deforme y
+  estropee la estética final del plato.

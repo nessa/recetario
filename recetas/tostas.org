@@ -1,0 +1,89 @@
+** Canapés agridulces
+*** Información
+- Fuente: Marta y José
+
+#+BEGIN_LATEX
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{./imagenes/canapes-de-pate-y-mermelada.jpg}
+  \caption{Canapés variados}
+\end{figure}
+#+END_LATEX
+
+*** Ingredientes
+- Paté de roquefort
+- Mermelada de frambuesa
+- Volovaneso tartaletas
+*** Preparación
+- Rellenar las tartaletas de paté de roquefort
+- Cubrir la parte superior con un poco de mermelada de frambuesa
+*** Notas
+- Se puede variar el paté o la mermelada.
+** Tosta de huevos revueltos con Jamón
+*** Información
+- Fuente: http://kocinarte.com/recetas/tosta-de-huevos-revueltos-con-jamon
+- Comensales: 4 personas
+- Tiempo: 30 minutos
+*** Ingredientes
+- 6 huevos
+- 3 cucharadas de leche
+- Pan
+- Medio diente de ajo
+- 1 cucharada de perejil picajo
+- 150 gramos de jamón
+- Aceite
+- Sal
+- Pimienta
+*** Preparación
+1. Bate los huevos con las 3 cucharas de leche, la sal y la pimienta.
+2. En una sartén con un poco de aceite vertemos los huevos y los revolvemos.
+   Cuando esté casi listo, espolvoreamos el perejil.
+3. Cortamos el pan en rebanadas finas y lo tostamos.
+4. Distribuimos los huevos revueltos sobre las rebanadas de pan anteriormente
+   tostado y colocamos unas láminas de jamón por encima.
+
+** Tosta de queso fresco con cebolla caramelizada
+*** Ingredientes
+- Tostas
+- 250 gramos de queso fresco (de cabra va muy bien)
+- 2 cebollas medianas
+- 3 cucharadas soperas de azúcar
+- 5 cucharadas soperas de vinagre balsámico de Módena
+- 1 cucharada sopera de mantequilla
+*** Preparación
+1. Troceamos la cebolla en aros finos.
+2. Ponemos una sartén a fuego lento fundimos la mantequilla y a continuación
+   añadimos la cebolla.
+3. Cuando la cebolla esté pochada, subimos el fuego y añadimos el azúcar.
+4. Cuando la cebolla esté caramelizada le ponemos el vinagre.
+5. Cortamos en rodajas el queso fresco y lo ponemos en una tosta y encima la
+   cebolla.
+
+** Volovanes de hojaldre rellenos de pisto
+*** Información
+- Fuente: http://soplaquetequemas.blogspot.com.es/2014/01/volovanes-de-hojaldre-rellenos-de-pisto.html
+*** Ingredientes
+- Una plancha de hojaldre
+- 1 berenjena
+- 1 calabacín
+- 1 cebolla
+- 1 pimiento rojo italiano
+- 1 pimiento verde italiano
+- 250 gramos de tomate triturado
+- Aceite de oliva
+- Sal
+- Una pizca de azúcar
+- Media cucharadita de hierbas provenzales
+- 2 lonchas de jamón bien curado
+- Un poco de queso rallado (opcional)
+- 1 huevo batido
+*** Preparación
+1. Cortamos todas las verduras en trozos mas o menos regulares. En una sartén
+   echamos dos o tres cucharadas de aceite de oliva y añadimos todas las
+   verduras juntas. Mantenemos el fuego medio-alto, salamos y vamos dando
+   vueltas para que no se nos pegue.
+2. Cuando ya casi estén hechas bajamos un poco el fuego y añadimos el tomate
+   triturado, un poco mas de sal, el azúcar y las hierbas y dejamos cocinar
+   todo junto unos diez minutos. Dejamos enfriar a temperatura ambiente.
+3. Echamos un poco de queso rallado en el fondo de los volovanes, después el
+   pisto y por encima virutas de jamón serrano.

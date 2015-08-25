@@ -1,0 +1,137 @@
+** Barquitas rellenas de cuscus
+*** Información
+- Comensales: 4 personas
+- Fuente: http://kocinarte.com/recetas/barquitas-rellenas-de-cuscus
+*** Ingredientes
+- 200 gramos de cuscús
+- 200 mililitros de caldo de verduras o agua
+- 2 latas de atún
+- 2 huevos cocidos
+- Pimientos del piquillo
+- 1 cebolla
+- 1 puerro
+- Rebanadas de pan de molde
+- Aceite de oliva
+- Patatas panaderas
+- Zanahoria cocida
+*** Preparación
+1. Poner a hervir el caldo o el agua. Cuando esté hirviendo,
+   echarla en cima del cuscús en un recipiente que hay que tapar y mantener unos
+   5 minutos tapado. Una vez haya absorbido el líquido, hay que soltarlo con la
+   ayuda de un tenedor.
+2. En una sartén poner a pochar la cebolla y el puerro cortado pequeñito. 
+   Cuando este pochado añadimos el pimiento, el atún, los huevos cocidos (todo
+   partido pequeñito). Remoemos con cuidado y reservamos.
+3. Freír las patatas y cocer las zanahorias al dente.
+4. Cojemos las rebanadas de pan, las aplanamos con un rodillo y juntamos las 
+   dos esquinas de delante y de atrás para formar la barquita. Se pega con un
+   poco de agua y se meten al horno hasta que estén tostadas.
+5. Se rellenan de la mezcla de cuscús.
+6. Para presentarlo, se pone una cama de patatas y zanahorias en una bandeja y
+   se colocan las barquitas encima.
+** Croque-monsieur
+*** Información
+
+#+BEGIN_LATEX
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=8cm]{./imagenes/croque-monsieur.jpg}
+  \caption{Croque-monsieur}
+\end{figure}
+#+END_LATEX
+
+*** Ingredientes
+- 2 rebanadas de pan por persona
+- Embutidos al gusto
+- Queso para el relleno y para gratinar
+- Bechamel
+*** Preparación
+1. Preparar un sandwich/bocadillo normal.
+2. Repartir la bechamel por la parte superior del bocadillo y cubrir
+   con queso.
+3. Gratinar.
+** Magdalenas Croque-madame
+*** Información
+- Fuente: Rachel Khoo
+*** Ingredientes para cada magdalena
+- 2 rodajas de pan de molde 
+- Mantequilla
+- Mostaza de dijon
+- Pimienta
+- Una rodaja de jamón de york
+- Un huevo
+- Queso rallado
+*** Preparación
+1. Aplastar las rodajas de pan con un rodillo hasta que tengan la
+   mitad de su grosor.
+2. Pintarlas con mantequilla fundida.
+3. Hacer una bechamel clásica y una vez hecha añadirle una cucharada
+   de mostaza de dijon y pimienta.
+4. Montar en cada molde de magdalena 2 rodajas de pan. Deben quedar
+   por fuera para contener todo el relleno.
+5. Añadir dentro una rodaja de jamón de york y un huevo (si es
+   demasiado grande, se puede desechar parte de la clara para que
+   quepa bien).
+6. Cubrir con la bechamel y abundante queso rallado.
+7. Meter al horno hasta que el huevo esté cocinado.
+
+#+LATEX: \clearpage
+
+** Magdalenas Croque-madame a la española
+*** Información
+- Fuente: http://www.marshmalu.com/croque-madame-muffins/
+- Comensales: 2 o 3 personas
+*** Ingredientes
+- 6 rebanadas de pan de molde sin cortezas
+- 3 cucharadas de mantequilla fundida
+- 75 gramos jamón serrano cortado a trozos
+- 6 huevos pequeños
+- 1 cucharada de mantequilla
+- 1 cucharada de harina
+- 200 mililitros leche tibia
+- Media cucharadita de mostaza
+- Media cucharadita de nuez moscada
+- 30 gramos de queso gruyère o comté
+- Sal
+- Pimienta
+*** Preparación de la salsa de queso
+1. Derretimos la mantequilla en un cazo a fuego medio. Añadimos la harina y
+   removemos enérgicamente hasta que consigamos una pasta. Lo quitamos del
+   fuego para que se enfríe durante 2 minutos.
+2. Añadimos la leche, batiendo de forma constante. Volvemos a colocar el cazo en
+   el fuego a la misma intensidad, añadimos la mostaza, la nuez moscada y algo
+   de sal y dejamos que se cocine a fuego lento durante 10 minutos, removiendo
+   de vez en cuando para evitar que la salsa se queme.
+3. Una vez que la salsa haya espesado, la retiramos del fuego y añadimos el
+   queso, reservando algo para el final. Si la salsa ha quedado muy espesa, le
+   podemos añadir algo más de leche.
+*** Preparación de la magdalena
+1. Precalentamos el horno a 180º.
+2. Cada rebanada de pan la hacemos más fina con la ayuda de un rodillo y las
+   untamos por las dos caras de mantequilla fundida. Pasamos cada una de las
+   rebanadas a los moldes, haciendo la forma de una cestita.
+3. Añadimos el jamón serrano a partes iguales, seguido por los huevos y
+   finalmente, la salsa de queso y la pimienta. Le ponemos queso rallado por
+   encima y los introducimos en el horno durante 15 o 20 minutos, dependiendo de
+   si queremos los huevos más o menos cocinados. Servir.
+** Sandwich Club
+*** Información
+- Comensales: 4 personas
+- Fuente: http://kocinarte.com/recetas/club-sandwich
+*** Ingredientes
+- 12 lonchas de pan de molde
+- 100 gramos hojas de lechuga iceberg
+- 100 gramos de jamón york
+- 100 gramos de bacon
+- 4 lonchas de queso
+. Cuatro cucharadas de mahonesa
+*** Preparación
+1. En primer lugar, hay que poner en una plancha el pan de molde (tres por cada
+   sandwich) para dorarlo.
+2. Una vez que lo hayamos hecho, colocamos sobre una rebanada de pan una hoja de
+   lechuga, una loncha de jamón york (o pavo) y una rodaja de tomate. Sobre este
+   primer piso ponemos una segunda loncha de pan y un trozo de bacon (ahumado o
+   pasado por la plancha) y queso. Se termina colocando la tercera loncha de
+   pan.
+3. Para suavizar este sándwich de dos pisos es aconsejable untar el pan con
+   mahonesa.
